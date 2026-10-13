@@ -1,0 +1,33 @@
+panel,status,evidence,limitation
+1a,reproduced,Permitted coordinates and independently acquired terrain/vector geography.,Geographic content reproduced; cartographic design differs.
+1b,reproduced,Permitted coordinates and independently acquired terrain/vector geography.,Geographic content reproduced; cartographic design differs.
+1c,reproduced,Permitted coordinates and independently acquired terrain/vector geography.,Geographic content reproduced; cartographic design differs.
+1d,reproduced,Permitted coordinates and independently acquired terrain/vector geography.,Geographic content reproduced; cartographic design differs.
+1 locator,reproduced,Permitted coordinates and independently acquired terrain/vector geography.,Geographic content reproduced; cartographic design differs.
+2a,partial,Independent cumulative raster from processed images and supplied masks.,"Timing, mask/signature convention and spatial correspondence limit equality claims."
+2b,partial,Independent cumulative raster from processed images and supplied masks.,"Timing, mask/signature convention and spatial correspondence limit equality claims."
+2c upper 2007,not reproduced,Archive filename inventory checked.,Separate WorldView validation scenes are absent.
+2c upper 2010,not reproduced,Archive filename inventory checked.,Separate WorldView validation scenes are absent.
+2c upper 2013,not reproduced,Archive filename inventory checked.,Separate WorldView validation scenes are absent.
+2c upper 2017,not reproduced,Archive filename inventory checked.,Separate WorldView validation scenes are absent.
+2c lower 2007,partial,Annual detections recomputed from the selected native band.,Independent display extent; exact reference-panel pixel agreement not measured.
+2c lower 2010,partial,Annual detections recomputed from the selected native band.,Independent display extent; exact reference-panel pixel agreement not measured.
+2c lower 2013,partial,Annual detections recomputed from the selected native band.,Independent display extent; exact reference-panel pixel agreement not measured.
+2c lower 2017,partial,Annual detections recomputed from the selected native band.,Independent display extent; exact reference-panel pixel agreement not measured.
+3a,not reproduced,Width observations attempted for four examples.,No independently traced mountain-front distances; no distance regression.
+3b,partial,Independent elevation profiles for illustrative examples.,Insufficient coverage to reproduce the 63-event slope relationship.
+4,partial,Four independent visual classifications joined to computed ratios.,Small prespecified subset; no population-wide three-class distribution.
+5a,partial,Independent geographic locator for V11 and V15.,Intervening river course and physiographic mountain-front boundary not traced.
+5b,partial,Supplied TCT image rendered with a documented false-color stretch.,Corresponding 2019 Google Earth imagery is absent; different observation date.
+5c,partial,Independent cumulative raster from processed images and supplied masks.,"Timing, mask/signature convention and spatial correspondence limit equality claims."
+5d,partial,Supplied TCT image rendered with a documented false-color stretch.,Corresponding 2019 Google Earth imagery is absent; different observation date.
+5e,partial,Independent cumulative raster from processed images and supplied masks.,"Timing, mask/signature convention and spatial correspondence limit equality claims."
+S1a,partial,Requested-year processed components independently rendered.,TCT false color cannot reconstruct the original conventional-color imagery.
+S1b,partial,Requested-year processed components independently rendered.,TCT false color cannot reconstruct the original conventional-color imagery.
+S1c,partial,Requested-year processed components independently rendered.,TCT false color cannot reconstruct the original conventional-color imagery.
+S1d,partial,Requested-year processed components independently rendered.,TCT false color cannot reconstruct the original conventional-color imagery.
+S2a,partial,Independent cumulative raster from processed images and supplied masks.,"Timing, mask/signature convention and spatial correspondence limit equality claims."
+S2b,partial,Independent cumulative raster from processed images and supplied masks.,"Timing, mask/signature convention and spatial correspondence limit equality claims."
+S2c,not reproduced,Archive filename inventory checked.,Separate high-resolution validation scene absent.
+S3a,partial,Independent example slopes and visual morphology.,No complete morphology-stratified population.
+S3b,not reproduced,Geometric data requirements explicitly assessed.,No mountain-front distances.

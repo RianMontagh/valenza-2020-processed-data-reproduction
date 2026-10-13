@@ -1,0 +1,77 @@
+{
+  "fig2a": {
+    "job_id": "B12_mosaic"
+  },
+  "fig2b": {
+    "job_id": "B12_av_a",
+    "window": [
+      540,
+      330,
+      120,
+      120
+    ]
+  },
+  "fig5c": {
+    "job_id": "V15",
+    "window": [
+      136,
+      67,
+      322,
+      84
+    ]
+  },
+  "fig5e": {
+    "job_id": "V11",
+    "window": [
+      0,
+      63,
+      661,
+      351
+    ]
+  },
+  "supp2a": {
+    "job_id": "B11"
+  },
+  "supp2b": {
+    "job_id": "B11",
+    "window": [
+      10,
+      20,
+      160,
+      140
+    ]
+  },
+  "context": [
+    {
+      "name": "supp1_1995",
+      "job_id": "B12_a",
+      "year": 1995
+    },
+    {
+      "name": "supp1_2011",
+      "job_id": "B12_a",
+      "year": 2011
+    },
+    {
+      "name": "supp1_2013",
+      "job_id": "B12_a",
+      "year": 2013
+    },
+    {
+      "name": "supp1_2015",
+      "job_id": "B12_a",
+      "year": 2015
+    },
+    {
+      "name": "fig5b",
+      "job_id": "V15",
+      "year": 1997
+    },
+    {
+      "name": "fig5d",
+      "job_id": "V11",
+      "year": 2017
+    }
+  ],
+  "display_notes": "Display extents were refined after qualitative comparison with the published figures. Fig2b is an independently chosen3.6km illustrative detail, not a recovered validation window. Fig5 bounds enclose the supplied ROI geometry. No numerical calculation, threshold, mask, annotation or time window changed."
+}

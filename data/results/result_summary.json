@@ -1,0 +1,30 @@
+{
+  "events": 63,
+  "defined_ratios": 63,
+  "jobs": 77,
+  "range": [
+    0.03879310344827586,
+    463.86617100371745
+  ],
+  "minimum_event": "G23",
+  "maximum_event": "B10",
+  "selected_signatures": {
+    "B": 57,
+    "W": 6
+  },
+  "calendar_label_disagreements": 33,
+  "affected_calendar_jobs": [
+    "G1",
+    "G2",
+    "G20",
+    "G6",
+    "H4",
+    "V11"
+  ],
+  "overlap_cases": 15,
+  "real_data_checks": 6974,
+  "independent_geometry_examples": 4,
+  "accepted_positive_slopes": 2,
+  "minimum_ever_observed_mask_fraction": 0.9158815612382234,
+  "incomplete_role_windows": 22
+}

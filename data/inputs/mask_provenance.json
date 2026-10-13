@@ -1,0 +1,3554 @@
+[
+  {
+    "job_id": "V1",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V1_W.mat",
+    "variable": "BW",
+    "shape": [
+      133,
+      254
+    ],
+    "mask_pixels": 1866,
+    "normalized_sha256": "5ef9e26d089b50204b0a9c9d8973b57d9dfd3a6cb8f6d20e87e4cbc0a927fe2f"
+  },
+  {
+    "job_id": "V1",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V1_W.mat",
+    "variable": "BWc",
+    "shape": [
+      133,
+      254
+    ],
+    "mask_pixels": 1440,
+    "normalized_sha256": "050460f79a89dc5806a9eb32d6c76106b49fbc2a25d55f9c86ccbfe9e41a0092"
+  },
+  {
+    "job_id": "V1",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V1_W.mat",
+    "variable": "BW",
+    "shape": [
+      133,
+      254
+    ],
+    "mask_pixels": 1866,
+    "normalized_sha256": "5ef9e26d089b50204b0a9c9d8973b57d9dfd3a6cb8f6d20e87e4cbc0a927fe2f"
+  },
+  {
+    "job_id": "V1",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V1_W.mat",
+    "variable": "BWc",
+    "shape": [
+      133,
+      254
+    ],
+    "mask_pixels": 1440,
+    "normalized_sha256": "050460f79a89dc5806a9eb32d6c76106b49fbc2a25d55f9c86ccbfe9e41a0092"
+  },
+  {
+    "job_id": "V4",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V4_W.mat",
+    "variable": "BW",
+    "shape": [
+      278,
+      853
+    ],
+    "mask_pixels": 23234,
+    "normalized_sha256": "c8a5eddc54da570fefdd97da8bdb547c80d4b1e095f8e64a77e19d110bf54743"
+  },
+  {
+    "job_id": "V4",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V4_W.mat",
+    "variable": "BWc",
+    "shape": [
+      278,
+      853
+    ],
+    "mask_pixels": 8979,
+    "normalized_sha256": "f051962094709610ce2df3f568adf67691f34235e12b5ed5afd7a30be4f7c6ee"
+  },
+  {
+    "job_id": "V4",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V4_W.mat",
+    "variable": "BW",
+    "shape": [
+      278,
+      853
+    ],
+    "mask_pixels": 23234,
+    "normalized_sha256": "c8a5eddc54da570fefdd97da8bdb547c80d4b1e095f8e64a77e19d110bf54743"
+  },
+  {
+    "job_id": "V4",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V4_W.mat",
+    "variable": "BWc",
+    "shape": [
+      278,
+      853
+    ],
+    "mask_pixels": 8979,
+    "normalized_sha256": "f051962094709610ce2df3f568adf67691f34235e12b5ed5afd7a30be4f7c6ee"
+  },
+  {
+    "job_id": "V5_1",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V5_1_W.mat",
+    "variable": "BW",
+    "shape": [
+      126,
+      270
+    ],
+    "mask_pixels": 2617,
+    "normalized_sha256": "8c709c335b4cb8bcfcc2721a52e355d6cac10d0c2f82656ff8befe030be18faf"
+  },
+  {
+    "job_id": "V5_1",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V5_1_W.mat",
+    "variable": "BWc",
+    "shape": [
+      126,
+      270
+    ],
+    "mask_pixels": 6066,
+    "normalized_sha256": "994bc067fc1a3bc289e8f7e361fcdff3e9b73bf2991261a19de771ea70a414cd"
+  },
+  {
+    "job_id": "V5_1",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V5_1_W.mat",
+    "variable": "BW",
+    "shape": [
+      126,
+      270
+    ],
+    "mask_pixels": 2617,
+    "normalized_sha256": "8c709c335b4cb8bcfcc2721a52e355d6cac10d0c2f82656ff8befe030be18faf"
+  },
+  {
+    "job_id": "V5_1",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V5_1_W.mat",
+    "variable": "BWc",
+    "shape": [
+      126,
+      270
+    ],
+    "mask_pixels": 6066,
+    "normalized_sha256": "994bc067fc1a3bc289e8f7e361fcdff3e9b73bf2991261a19de771ea70a414cd"
+  },
+  {
+    "job_id": "V5_2",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V5_2_W.mat",
+    "variable": "BW",
+    "shape": [
+      126,
+      270
+    ],
+    "mask_pixels": 1700,
+    "normalized_sha256": "f20ee777ce2085932929f517474c844537d7beb140f945dd9a9b55f75739d3a4"
+  },
+  {
+    "job_id": "V5_2",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V5_2_W.mat",
+    "variable": "BWc",
+    "shape": [
+      126,
+      270
+    ],
+    "mask_pixels": 1486,
+    "normalized_sha256": "486acbd1c8f4724ec7405e274ac6749d01b63169f0787354d758a7aa6d19447d"
+  },
+  {
+    "job_id": "V5_2",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V5_2_W.mat",
+    "variable": "BW",
+    "shape": [
+      126,
+      270
+    ],
+    "mask_pixels": 1700,
+    "normalized_sha256": "f20ee777ce2085932929f517474c844537d7beb140f945dd9a9b55f75739d3a4"
+  },
+  {
+    "job_id": "V5_2",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V5_2_W.mat",
+    "variable": "BWc",
+    "shape": [
+      126,
+      270
+    ],
+    "mask_pixels": 1486,
+    "normalized_sha256": "486acbd1c8f4724ec7405e274ac6749d01b63169f0787354d758a7aa6d19447d"
+  },
+  {
+    "job_id": "V6",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V6_W.mat",
+    "variable": "BW",
+    "shape": [
+      302,
+      675
+    ],
+    "mask_pixels": 25657,
+    "normalized_sha256": "a2f5426f2488ccf8e3d9fcbe64e312cd70e2a4e9a1970c2c85c22d5529d37a0f"
+  },
+  {
+    "job_id": "V6",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V6_W.mat",
+    "variable": "BWc",
+    "shape": [
+      302,
+      675
+    ],
+    "mask_pixels": 21900,
+    "normalized_sha256": "288f4646b213f451af68e5de07c84135610b1bd164b3294a240b6d101a009868"
+  },
+  {
+    "job_id": "V6",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V6_W.mat",
+    "variable": "BW",
+    "shape": [
+      302,
+      675
+    ],
+    "mask_pixels": 25657,
+    "normalized_sha256": "a2f5426f2488ccf8e3d9fcbe64e312cd70e2a4e9a1970c2c85c22d5529d37a0f"
+  },
+  {
+    "job_id": "V6",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V6_W.mat",
+    "variable": "BWc",
+    "shape": [
+      302,
+      675
+    ],
+    "mask_pixels": 21900,
+    "normalized_sha256": "288f4646b213f451af68e5de07c84135610b1bd164b3294a240b6d101a009868"
+  },
+  {
+    "job_id": "V7",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V7_W.mat",
+    "variable": "BW",
+    "shape": [
+      384,
+      1056
+    ],
+    "mask_pixels": 33442,
+    "normalized_sha256": "c5554acda69012a30bf54f7ae067eb19f827b68d4cdf360acb2244ec27708c31"
+  },
+  {
+    "job_id": "V7",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V7_W.mat",
+    "variable": "BWc",
+    "shape": [
+      384,
+      1056
+    ],
+    "mask_pixels": 8573,
+    "normalized_sha256": "30734f1037800f6d6adc7e89ff25c10c307ea93b494ffceb241b04544e97065b"
+  },
+  {
+    "job_id": "V7",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V7_W.mat",
+    "variable": "BW",
+    "shape": [
+      384,
+      1056
+    ],
+    "mask_pixels": 33442,
+    "normalized_sha256": "c5554acda69012a30bf54f7ae067eb19f827b68d4cdf360acb2244ec27708c31"
+  },
+  {
+    "job_id": "V7",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V7_W.mat",
+    "variable": "BWc",
+    "shape": [
+      384,
+      1056
+    ],
+    "mask_pixels": 8573,
+    "normalized_sha256": "30734f1037800f6d6adc7e89ff25c10c307ea93b494ffceb241b04544e97065b"
+  },
+  {
+    "job_id": "V8",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V8_B.mat",
+    "variable": "BW",
+    "shape": [
+      447,
+      279
+    ],
+    "mask_pixels": 4570,
+    "normalized_sha256": "20b081b55a3d8f14663e5c12144e35f480a29fb7d1ce442a928bb6ba411d73db"
+  },
+  {
+    "job_id": "V8",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V8_B.mat",
+    "variable": "BWc",
+    "shape": [
+      447,
+      279
+    ],
+    "mask_pixels": 4308,
+    "normalized_sha256": "8c4095b2f003e1b17a00560639aeccadb5a38412201b16856b6e62bf772c91d6"
+  },
+  {
+    "job_id": "V8",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V8_B.mat",
+    "variable": "BW",
+    "shape": [
+      447,
+      279
+    ],
+    "mask_pixels": 4570,
+    "normalized_sha256": "20b081b55a3d8f14663e5c12144e35f480a29fb7d1ce442a928bb6ba411d73db"
+  },
+  {
+    "job_id": "V8",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V8_B.mat",
+    "variable": "BWc",
+    "shape": [
+      447,
+      279
+    ],
+    "mask_pixels": 4308,
+    "normalized_sha256": "8c4095b2f003e1b17a00560639aeccadb5a38412201b16856b6e62bf772c91d6"
+  },
+  {
+    "job_id": "V9",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V9_W.mat",
+    "variable": "BW",
+    "shape": [
+      178,
+      504
+    ],
+    "mask_pixels": 30521,
+    "normalized_sha256": "b38d550cb92470d000a2af8f7cbddbff2914393b60131b0657cb13b549897d3d"
+  },
+  {
+    "job_id": "V9",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V9_W.mat",
+    "variable": "BWc",
+    "shape": [
+      178,
+      504
+    ],
+    "mask_pixels": 24013,
+    "normalized_sha256": "a77a0deb815c0524f92cdb00c10cfed17da8ec39f2454cfa5df85a6724191ddb"
+  },
+  {
+    "job_id": "V9",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V9_W.mat",
+    "variable": "BW",
+    "shape": [
+      178,
+      504
+    ],
+    "mask_pixels": 30521,
+    "normalized_sha256": "b38d550cb92470d000a2af8f7cbddbff2914393b60131b0657cb13b549897d3d"
+  },
+  {
+    "job_id": "V9",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V9_W.mat",
+    "variable": "BWc",
+    "shape": [
+      178,
+      504
+    ],
+    "mask_pixels": 24013,
+    "normalized_sha256": "a77a0deb815c0524f92cdb00c10cfed17da8ec39f2454cfa5df85a6724191ddb"
+  },
+  {
+    "job_id": "V10",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V10_B.mat",
+    "variable": "BW",
+    "shape": [
+      126,
+      181
+    ],
+    "mask_pixels": 1847,
+    "normalized_sha256": "8ea8f3cbe81539a8ead747625c22472db71531292301c3d3e9a356a498532d29"
+  },
+  {
+    "job_id": "V10",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V10_B.mat",
+    "variable": "BWc",
+    "shape": [
+      126,
+      181
+    ],
+    "mask_pixels": 1034,
+    "normalized_sha256": "6a1da39b36267fbec781cab5d60edec8884b7bc22bd47af4e27d1e6872f1eb8a"
+  },
+  {
+    "job_id": "V10",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V10_B.mat",
+    "variable": "BW",
+    "shape": [
+      126,
+      181
+    ],
+    "mask_pixels": 1847,
+    "normalized_sha256": "8ea8f3cbe81539a8ead747625c22472db71531292301c3d3e9a356a498532d29"
+  },
+  {
+    "job_id": "V10",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V10_B.mat",
+    "variable": "BWc",
+    "shape": [
+      126,
+      181
+    ],
+    "mask_pixels": 1034,
+    "normalized_sha256": "6a1da39b36267fbec781cab5d60edec8884b7bc22bd47af4e27d1e6872f1eb8a"
+  },
+  {
+    "job_id": "V11",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V11_W.mat",
+    "variable": "BW",
+    "shape": [
+      422,
+      661
+    ],
+    "mask_pixels": 106578,
+    "normalized_sha256": "e2d296ac20193777d6c7a1f67bed0d1c5bb0c09d99455ee0bced814bd912c84d"
+  },
+  {
+    "job_id": "V11",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V11_W.mat",
+    "variable": "BWc",
+    "shape": [
+      422,
+      661
+    ],
+    "mask_pixels": 38610,
+    "normalized_sha256": "87b2eced3f752ee0f4645178d57753a7f102ccfa13018368406eea40a7b798cc"
+  },
+  {
+    "job_id": "V11",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V11_W.mat",
+    "variable": "BW",
+    "shape": [
+      422,
+      661
+    ],
+    "mask_pixels": 106578,
+    "normalized_sha256": "e2d296ac20193777d6c7a1f67bed0d1c5bb0c09d99455ee0bced814bd912c84d"
+  },
+  {
+    "job_id": "V11",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V11_W.mat",
+    "variable": "BWc",
+    "shape": [
+      422,
+      661
+    ],
+    "mask_pixels": 38610,
+    "normalized_sha256": "87b2eced3f752ee0f4645178d57753a7f102ccfa13018368406eea40a7b798cc"
+  },
+  {
+    "job_id": "V12_1",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V12_1_B.mat",
+    "variable": "BW",
+    "shape": [
+      203,
+      264
+    ],
+    "mask_pixels": 3029,
+    "normalized_sha256": "4f09e6b6ad0369ff8cd636280a11d4d11e1ffd83b213ce3c4d6abe9b80a1b373"
+  },
+  {
+    "job_id": "V12_1",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V12_1_B.mat",
+    "variable": "BWc",
+    "shape": [
+      203,
+      264
+    ],
+    "mask_pixels": 3460,
+    "normalized_sha256": "5e335bf0d9a3300b6b5a26c2553d1efa15f48a842bda0725e0e6c141f06fd6c0"
+  },
+  {
+    "job_id": "V12_1",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V12_1_B.mat",
+    "variable": "BW",
+    "shape": [
+      203,
+      264
+    ],
+    "mask_pixels": 3029,
+    "normalized_sha256": "4f09e6b6ad0369ff8cd636280a11d4d11e1ffd83b213ce3c4d6abe9b80a1b373"
+  },
+  {
+    "job_id": "V12_1",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V12_1_B.mat",
+    "variable": "BWc",
+    "shape": [
+      203,
+      264
+    ],
+    "mask_pixels": 3460,
+    "normalized_sha256": "5e335bf0d9a3300b6b5a26c2553d1efa15f48a842bda0725e0e6c141f06fd6c0"
+  },
+  {
+    "job_id": "V12_2",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V12_2_B.mat",
+    "variable": "BW",
+    "shape": [
+      203,
+      264
+    ],
+    "mask_pixels": 6057,
+    "normalized_sha256": "77d5448d78e3f1b31e19a189fd5b567879d1b8317407f657bd0d4c3628361c1a"
+  },
+  {
+    "job_id": "V12_2",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V12_2_B.mat",
+    "variable": "BWc",
+    "shape": [
+      203,
+      264
+    ],
+    "mask_pixels": 4143,
+    "normalized_sha256": "903f06167b43755032c411f6278fd63739f33fc3b92b8bed6c6aff094c5bd2d0"
+  },
+  {
+    "job_id": "V12_2",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V12_2_B.mat",
+    "variable": "BW",
+    "shape": [
+      203,
+      264
+    ],
+    "mask_pixels": 6057,
+    "normalized_sha256": "77d5448d78e3f1b31e19a189fd5b567879d1b8317407f657bd0d4c3628361c1a"
+  },
+  {
+    "job_id": "V12_2",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V12_2_B.mat",
+    "variable": "BWc",
+    "shape": [
+      203,
+      264
+    ],
+    "mask_pixels": 4143,
+    "normalized_sha256": "903f06167b43755032c411f6278fd63739f33fc3b92b8bed6c6aff094c5bd2d0"
+  },
+  {
+    "job_id": "V12_3",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V12_3_B.mat",
+    "variable": "BW",
+    "shape": [
+      203,
+      264
+    ],
+    "mask_pixels": 2159,
+    "normalized_sha256": "868754fa64f3e4e6399f409b1cd1aaa435a6a03279a875dd3da60b5ad0e01f2e"
+  },
+  {
+    "job_id": "V12_3",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V12_3_B.mat",
+    "variable": "BWc",
+    "shape": [
+      203,
+      264
+    ],
+    "mask_pixels": 2018,
+    "normalized_sha256": "a40e793067e0c5e1c10fcb28e3c0dc5acc286e00c28b639a541505dc770c0e15"
+  },
+  {
+    "job_id": "V12_3",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V12_3_B.mat",
+    "variable": "BW",
+    "shape": [
+      203,
+      264
+    ],
+    "mask_pixels": 2159,
+    "normalized_sha256": "868754fa64f3e4e6399f409b1cd1aaa435a6a03279a875dd3da60b5ad0e01f2e"
+  },
+  {
+    "job_id": "V12_3",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V12_3_B.mat",
+    "variable": "BWc",
+    "shape": [
+      203,
+      264
+    ],
+    "mask_pixels": 2018,
+    "normalized_sha256": "a40e793067e0c5e1c10fcb28e3c0dc5acc286e00c28b639a541505dc770c0e15"
+  },
+  {
+    "job_id": "V13",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V13_W.mat",
+    "variable": "BW",
+    "shape": [
+      155,
+      334
+    ],
+    "mask_pixels": 15978,
+    "normalized_sha256": "fa98d657ce220449a7888fb6d046f1b404d1ca04170606d14522cf3714dc892e"
+  },
+  {
+    "job_id": "V13",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V13_W.mat",
+    "variable": "BWc",
+    "shape": [
+      155,
+      334
+    ],
+    "mask_pixels": 17366,
+    "normalized_sha256": "2baf11e54b39548d4c772de94e7bb5db86b71041092b1664ae950f3bed3fd6cf"
+  },
+  {
+    "job_id": "V13",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V13_W.mat",
+    "variable": "BW",
+    "shape": [
+      155,
+      334
+    ],
+    "mask_pixels": 15978,
+    "normalized_sha256": "fa98d657ce220449a7888fb6d046f1b404d1ca04170606d14522cf3714dc892e"
+  },
+  {
+    "job_id": "V13",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V13_W.mat",
+    "variable": "BWc",
+    "shape": [
+      155,
+      334
+    ],
+    "mask_pixels": 17366,
+    "normalized_sha256": "2baf11e54b39548d4c772de94e7bb5db86b71041092b1664ae950f3bed3fd6cf"
+  },
+  {
+    "job_id": "V14",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V14_W.mat",
+    "variable": "BW",
+    "shape": [
+      1050,
+      889
+    ],
+    "mask_pixels": 217710,
+    "normalized_sha256": "69302dbe81bccdcc11ab48c47c4ad309130d656f54fe8a52310ad46c2da0ab0b"
+  },
+  {
+    "job_id": "V14",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V14_W.mat",
+    "variable": "BWc",
+    "shape": [
+      1050,
+      889
+    ],
+    "mask_pixels": 35691,
+    "normalized_sha256": "62be48e239f523168f68a3bfdc361e74b387c0c74922f6035424dd776507f70f"
+  },
+  {
+    "job_id": "V14",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V14_W.mat",
+    "variable": "BW",
+    "shape": [
+      1050,
+      889
+    ],
+    "mask_pixels": 217710,
+    "normalized_sha256": "69302dbe81bccdcc11ab48c47c4ad309130d656f54fe8a52310ad46c2da0ab0b"
+  },
+  {
+    "job_id": "V14",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V14_W.mat",
+    "variable": "BWc",
+    "shape": [
+      1050,
+      889
+    ],
+    "mask_pixels": 35691,
+    "normalized_sha256": "62be48e239f523168f68a3bfdc361e74b387c0c74922f6035424dd776507f70f"
+  },
+  {
+    "job_id": "V15",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V15_W.mat",
+    "variable": "BW",
+    "shape": [
+      371,
+      649
+    ],
+    "mask_pixels": 7554,
+    "normalized_sha256": "3741b79078c3ce4571a5a6b3a15c6de9723c02cdcf9a661691a8f46ac2a79596"
+  },
+  {
+    "job_id": "V15",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V15_W.mat",
+    "variable": "BWc",
+    "shape": [
+      371,
+      649
+    ],
+    "mask_pixels": 5705,
+    "normalized_sha256": "a3bb65b7ba7e2f7724fdf84f41713cd01c39d12f4d586fbd0d1c15452cd2c0d1"
+  },
+  {
+    "job_id": "V15",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_V15_W.mat",
+    "variable": "BW",
+    "shape": [
+      371,
+      649
+    ],
+    "mask_pixels": 7554,
+    "normalized_sha256": "3741b79078c3ce4571a5a6b3a15c6de9723c02cdcf9a661691a8f46ac2a79596"
+  },
+  {
+    "job_id": "V15",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_V15_W.mat",
+    "variable": "BWc",
+    "shape": [
+      371,
+      649
+    ],
+    "mask_pixels": 5705,
+    "normalized_sha256": "a3bb65b7ba7e2f7724fdf84f41713cd01c39d12f4d586fbd0d1c15452cd2c0d1"
+  },
+  {
+    "job_id": "B1_a",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B1_a_W.mat",
+    "variable": "BW",
+    "shape": [
+      1119,
+      1094
+    ],
+    "mask_pixels": 494296,
+    "normalized_sha256": "f650c0b5d665bf74c56f821403da536875c852660544ba663cd1abb008f970d0"
+  },
+  {
+    "job_id": "B1_a",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B1_a_W.mat",
+    "variable": "BWc",
+    "shape": [
+      1119,
+      1094
+    ],
+    "mask_pixels": 68779,
+    "normalized_sha256": "81e559a8d3e8cda111987e67bc0aa46dcfc5a43f495bc817c766599473ffd105"
+  },
+  {
+    "job_id": "B1_a",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B1_a_W.mat",
+    "variable": "BW",
+    "shape": [
+      1119,
+      1094
+    ],
+    "mask_pixels": 494296,
+    "normalized_sha256": "f650c0b5d665bf74c56f821403da536875c852660544ba663cd1abb008f970d0"
+  },
+  {
+    "job_id": "B1_a",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B1_a_W.mat",
+    "variable": "BWc",
+    "shape": [
+      1119,
+      1094
+    ],
+    "mask_pixels": 68779,
+    "normalized_sha256": "81e559a8d3e8cda111987e67bc0aa46dcfc5a43f495bc817c766599473ffd105"
+  },
+  {
+    "job_id": "B1_b",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B1_b_W.mat",
+    "variable": "BW",
+    "shape": [
+      1062,
+      2053
+    ],
+    "mask_pixels": 956682,
+    "normalized_sha256": "4eeb9d77e820614ce51c5c064f18ca3b6881fa4cf45436b883e8746a92c920ad"
+  },
+  {
+    "job_id": "B1_b",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B1_b_W.mat",
+    "variable": "BWc",
+    "shape": [
+      1062,
+      2053
+    ],
+    "mask_pixels": 221567,
+    "normalized_sha256": "abc16c8a7699933c1008d7b318e6ecc404748bd0bcec470ed060d57b1426edfc"
+  },
+  {
+    "job_id": "B1_b",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B1_b_W.mat",
+    "variable": "BW",
+    "shape": [
+      1062,
+      2053
+    ],
+    "mask_pixels": 956682,
+    "normalized_sha256": "4eeb9d77e820614ce51c5c064f18ca3b6881fa4cf45436b883e8746a92c920ad"
+  },
+  {
+    "job_id": "B1_b",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B1_b_W.mat",
+    "variable": "BWc",
+    "shape": [
+      1062,
+      2053
+    ],
+    "mask_pixels": 221567,
+    "normalized_sha256": "abc16c8a7699933c1008d7b318e6ecc404748bd0bcec470ed060d57b1426edfc"
+  },
+  {
+    "job_id": "B1_c",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B1_c_W.mat",
+    "variable": "BW",
+    "shape": [
+      1960,
+      1838
+    ],
+    "mask_pixels": 816591,
+    "normalized_sha256": "45d17ab9ce99b5cec1b7d7471f7113d721683cc347bae7d13426a88e75644eb4"
+  },
+  {
+    "job_id": "B1_c",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B1_c_W.mat",
+    "variable": "BWc",
+    "shape": [
+      1960,
+      1838
+    ],
+    "mask_pixels": 186816,
+    "normalized_sha256": "871a5118bf89de2b6191968953c0cbb750a79416d5bd898846584d1026fa19b9"
+  },
+  {
+    "job_id": "B1_c",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B1_c_W.mat",
+    "variable": "BW",
+    "shape": [
+      1960,
+      1838
+    ],
+    "mask_pixels": 816591,
+    "normalized_sha256": "45d17ab9ce99b5cec1b7d7471f7113d721683cc347bae7d13426a88e75644eb4"
+  },
+  {
+    "job_id": "B1_c",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B1_c_W.mat",
+    "variable": "BWc",
+    "shape": [
+      1960,
+      1838
+    ],
+    "mask_pixels": 186816,
+    "normalized_sha256": "871a5118bf89de2b6191968953c0cbb750a79416d5bd898846584d1026fa19b9"
+  },
+  {
+    "job_id": "B1_d",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B1_d_W.mat",
+    "variable": "BW",
+    "shape": [
+      1713,
+      2291
+    ],
+    "mask_pixels": 1105659,
+    "normalized_sha256": "7ecd74b19e2be4344fd9abec7a7089a669b960ac554b90740c6815fdd27f6c79"
+  },
+  {
+    "job_id": "B1_d",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B1_d_W.mat",
+    "variable": "BWc",
+    "shape": [
+      1713,
+      2291
+    ],
+    "mask_pixels": 260177,
+    "normalized_sha256": "7cce46573a033effb392d39c65d8984a270ead2f05c18ad19116d5e9853aa35b"
+  },
+  {
+    "job_id": "B1_d",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B1_d_W.mat",
+    "variable": "BW",
+    "shape": [
+      1713,
+      2291
+    ],
+    "mask_pixels": 1105659,
+    "normalized_sha256": "7ecd74b19e2be4344fd9abec7a7089a669b960ac554b90740c6815fdd27f6c79"
+  },
+  {
+    "job_id": "B1_d",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B1_d_W.mat",
+    "variable": "BWc",
+    "shape": [
+      1713,
+      2291
+    ],
+    "mask_pixels": 260177,
+    "normalized_sha256": "7cce46573a033effb392d39c65d8984a270ead2f05c18ad19116d5e9853aa35b"
+  },
+  {
+    "job_id": "B2",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B2_B.mat",
+    "variable": "BW",
+    "shape": [
+      577,
+      940
+    ],
+    "mask_pixels": 1125,
+    "normalized_sha256": "a881977debc2d336337fc475ef9d3d2d4c76dcd5548e104593119943052e6bff"
+  },
+  {
+    "job_id": "B2",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B2_B.mat",
+    "variable": "BWc",
+    "shape": [
+      577,
+      940
+    ],
+    "mask_pixels": 1740,
+    "normalized_sha256": "52b3868b5c4812418892ec395b371f478bddf62a015dbfae19cc3e547e58f350"
+  },
+  {
+    "job_id": "B2",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B2_B.mat",
+    "variable": "BW",
+    "shape": [
+      577,
+      940
+    ],
+    "mask_pixels": 1125,
+    "normalized_sha256": "a881977debc2d336337fc475ef9d3d2d4c76dcd5548e104593119943052e6bff"
+  },
+  {
+    "job_id": "B2",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B2_B.mat",
+    "variable": "BWc",
+    "shape": [
+      577,
+      940
+    ],
+    "mask_pixels": 1740,
+    "normalized_sha256": "52b3868b5c4812418892ec395b371f478bddf62a015dbfae19cc3e547e58f350"
+  },
+  {
+    "job_id": "B3",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B3_W.mat",
+    "variable": "BW",
+    "shape": [
+      577,
+      940
+    ],
+    "mask_pixels": 2154,
+    "normalized_sha256": "5af18e4e61869a5c41df6535e037043ad15953d7fab87b80da9d217bacb41989"
+  },
+  {
+    "job_id": "B3",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B3_W.mat",
+    "variable": "BWc",
+    "shape": [
+      577,
+      940
+    ],
+    "mask_pixels": 3112,
+    "normalized_sha256": "d7d2a64e01fb422f9cb181b87fa8394d1c81245dd669f21fa2a37d2b6b9d2a01"
+  },
+  {
+    "job_id": "B3",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B3_W.mat",
+    "variable": "BW",
+    "shape": [
+      577,
+      940
+    ],
+    "mask_pixels": 2154,
+    "normalized_sha256": "5af18e4e61869a5c41df6535e037043ad15953d7fab87b80da9d217bacb41989"
+  },
+  {
+    "job_id": "B3",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B3_W.mat",
+    "variable": "BWc",
+    "shape": [
+      577,
+      940
+    ],
+    "mask_pixels": 3112,
+    "normalized_sha256": "d7d2a64e01fb422f9cb181b87fa8394d1c81245dd669f21fa2a37d2b6b9d2a01"
+  },
+  {
+    "job_id": "B4",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B4_W.mat",
+    "variable": "BW",
+    "shape": [
+      680,
+      420
+    ],
+    "mask_pixels": 2600,
+    "normalized_sha256": "2b79f25a464f2fe65c61c3e4b123a99df0067fd6456a30ca04b6122187cf16ae"
+  },
+  {
+    "job_id": "B4",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B4_W.mat",
+    "variable": "BWc",
+    "shape": [
+      680,
+      420
+    ],
+    "mask_pixels": 3384,
+    "normalized_sha256": "b31752f9ba6823d92f1077691aac20bd6012577fc703cb0cdb5f4219f5ad3c2e"
+  },
+  {
+    "job_id": "B4",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B4_W.mat",
+    "variable": "BW",
+    "shape": [
+      680,
+      420
+    ],
+    "mask_pixels": 2600,
+    "normalized_sha256": "2b79f25a464f2fe65c61c3e4b123a99df0067fd6456a30ca04b6122187cf16ae"
+  },
+  {
+    "job_id": "B4",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B4_W.mat",
+    "variable": "BWc",
+    "shape": [
+      680,
+      420
+    ],
+    "mask_pixels": 3384,
+    "normalized_sha256": "b31752f9ba6823d92f1077691aac20bd6012577fc703cb0cdb5f4219f5ad3c2e"
+  },
+  {
+    "job_id": "B6",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B6_W.mat",
+    "variable": "BW",
+    "shape": [
+      656,
+      927
+    ],
+    "mask_pixels": 54674,
+    "normalized_sha256": "a53af4725253a11a06d22afbf7d983039ddd5d6c9066b37679a25cfc9b8a0520"
+  },
+  {
+    "job_id": "B6",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B6_W.mat",
+    "variable": "BWc",
+    "shape": [
+      656,
+      927
+    ],
+    "mask_pixels": 47093,
+    "normalized_sha256": "aaef15b9071b5d5ed03db67e941fc157b41a3c33c08b2d5d37d2ea45b3627f06"
+  },
+  {
+    "job_id": "B6",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B6_W.mat",
+    "variable": "BW",
+    "shape": [
+      656,
+      927
+    ],
+    "mask_pixels": 54674,
+    "normalized_sha256": "a53af4725253a11a06d22afbf7d983039ddd5d6c9066b37679a25cfc9b8a0520"
+  },
+  {
+    "job_id": "B6",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B6_W.mat",
+    "variable": "BWc",
+    "shape": [
+      656,
+      927
+    ],
+    "mask_pixels": 47093,
+    "normalized_sha256": "aaef15b9071b5d5ed03db67e941fc157b41a3c33c08b2d5d37d2ea45b3627f06"
+  },
+  {
+    "job_id": "B7",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B7_W.mat",
+    "variable": "BW",
+    "shape": [
+      219,
+      150
+    ],
+    "mask_pixels": 1010,
+    "normalized_sha256": "efc1a5efa92b0340975c63670365d8c605cd4d811fdebeb6f1f51710ee0e7fb0"
+  },
+  {
+    "job_id": "B7",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B7_W.mat",
+    "variable": "BWc",
+    "shape": [
+      219,
+      150
+    ],
+    "mask_pixels": 1059,
+    "normalized_sha256": "f8a6fe586357553f1198f4a6cca6950306cc46f0919ae225aa7bb29a2c6d6ad2"
+  },
+  {
+    "job_id": "B7",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B7_W.mat",
+    "variable": "BW",
+    "shape": [
+      219,
+      150
+    ],
+    "mask_pixels": 1010,
+    "normalized_sha256": "efc1a5efa92b0340975c63670365d8c605cd4d811fdebeb6f1f51710ee0e7fb0"
+  },
+  {
+    "job_id": "B7",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B7_W.mat",
+    "variable": "BWc",
+    "shape": [
+      219,
+      150
+    ],
+    "mask_pixels": 1059,
+    "normalized_sha256": "f8a6fe586357553f1198f4a6cca6950306cc46f0919ae225aa7bb29a2c6d6ad2"
+  },
+  {
+    "job_id": "B8",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B8_W.mat",
+    "variable": "BW",
+    "shape": [
+      226,
+      272
+    ],
+    "mask_pixels": 1321,
+    "normalized_sha256": "01ab70954ed04000045ad5f7a171781c009a7234b25ae62f53b3193f78dd172a"
+  },
+  {
+    "job_id": "B8",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B8_W.mat",
+    "variable": "BWc",
+    "shape": [
+      226,
+      272
+    ],
+    "mask_pixels": 525,
+    "normalized_sha256": "3574f6c0bf8c89dbf9a4287f364968e4ae8a45276804844879b9473e25692d3f"
+  },
+  {
+    "job_id": "B8",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B8_W.mat",
+    "variable": "BW",
+    "shape": [
+      226,
+      272
+    ],
+    "mask_pixels": 1321,
+    "normalized_sha256": "01ab70954ed04000045ad5f7a171781c009a7234b25ae62f53b3193f78dd172a"
+  },
+  {
+    "job_id": "B8",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B8_W.mat",
+    "variable": "BWc",
+    "shape": [
+      226,
+      272
+    ],
+    "mask_pixels": 525,
+    "normalized_sha256": "3574f6c0bf8c89dbf9a4287f364968e4ae8a45276804844879b9473e25692d3f"
+  },
+  {
+    "job_id": "B9_a",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B9_a_W.mat",
+    "variable": "BW",
+    "shape": [
+      415,
+      457
+    ],
+    "mask_pixels": 22828,
+    "normalized_sha256": "af104877b6fef76f62f4c9eb16e6e8499684da5f4d1a47e2ea9d8cf0c99642ba"
+  },
+  {
+    "job_id": "B9_a",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B9_a_W.mat",
+    "variable": "BWc",
+    "shape": [
+      415,
+      457
+    ],
+    "mask_pixels": 57626,
+    "normalized_sha256": "185712ce89794db7ed0e8f42de7def7cfb0489ea68b6287a0dd43832515e6d7e"
+  },
+  {
+    "job_id": "B9_a",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B9_a_W.mat",
+    "variable": "BW",
+    "shape": [
+      415,
+      457
+    ],
+    "mask_pixels": 22828,
+    "normalized_sha256": "af104877b6fef76f62f4c9eb16e6e8499684da5f4d1a47e2ea9d8cf0c99642ba"
+  },
+  {
+    "job_id": "B9_a",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B9_a_W.mat",
+    "variable": "BWc",
+    "shape": [
+      415,
+      457
+    ],
+    "mask_pixels": 57626,
+    "normalized_sha256": "185712ce89794db7ed0e8f42de7def7cfb0489ea68b6287a0dd43832515e6d7e"
+  },
+  {
+    "job_id": "B9_b",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B9_b_W.mat",
+    "variable": "BW",
+    "shape": [
+      699,
+      847
+    ],
+    "mask_pixels": 102381,
+    "normalized_sha256": "5966f81c568f3ba7d30a1d5933d72e4bc3b6e144511c8faffc8f6b0c9f92db9e"
+  },
+  {
+    "job_id": "B9_b",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B9_b_W.mat",
+    "variable": "BWc",
+    "shape": [
+      699,
+      847
+    ],
+    "mask_pixels": 45700,
+    "normalized_sha256": "4f22ebff905bf009a9852ee73b09728ad335bdf5ded5d0bcc59d342a573974c6"
+  },
+  {
+    "job_id": "B9_b",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B9_b_W.mat",
+    "variable": "BW",
+    "shape": [
+      699,
+      847
+    ],
+    "mask_pixels": 102381,
+    "normalized_sha256": "5966f81c568f3ba7d30a1d5933d72e4bc3b6e144511c8faffc8f6b0c9f92db9e"
+  },
+  {
+    "job_id": "B9_b",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B9_b_W.mat",
+    "variable": "BWc",
+    "shape": [
+      699,
+      847
+    ],
+    "mask_pixels": 45700,
+    "normalized_sha256": "4f22ebff905bf009a9852ee73b09728ad335bdf5ded5d0bcc59d342a573974c6"
+  },
+  {
+    "job_id": "B9_c",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B9_c_W.mat",
+    "variable": "BW",
+    "shape": [
+      646,
+      525
+    ],
+    "mask_pixels": 46204,
+    "normalized_sha256": "eb62a575555a69baabd3bf54dff029707fa1c6c047b0df3299175e012735c323"
+  },
+  {
+    "job_id": "B9_c",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B9_c_W.mat",
+    "variable": "BWc",
+    "shape": [
+      646,
+      525
+    ],
+    "mask_pixels": 15908,
+    "normalized_sha256": "8ade4a19e5146eef841167e5f6fa6956f11bf632498ae2e94b29c7fbcddabc24"
+  },
+  {
+    "job_id": "B9_c",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B9_c_W.mat",
+    "variable": "BW",
+    "shape": [
+      646,
+      525
+    ],
+    "mask_pixels": 46204,
+    "normalized_sha256": "eb62a575555a69baabd3bf54dff029707fa1c6c047b0df3299175e012735c323"
+  },
+  {
+    "job_id": "B9_c",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B9_c_W.mat",
+    "variable": "BWc",
+    "shape": [
+      646,
+      525
+    ],
+    "mask_pixels": 15908,
+    "normalized_sha256": "8ade4a19e5146eef841167e5f6fa6956f11bf632498ae2e94b29c7fbcddabc24"
+  },
+  {
+    "job_id": "B10",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B10_W.mat",
+    "variable": "BW",
+    "shape": [
+      1748,
+      1357
+    ],
+    "mask_pixels": 497230,
+    "normalized_sha256": "a5c5874b9f1cf4cbe1be315dbb1d2b353d84ce46cb788db4f289a8fc4d882217"
+  },
+  {
+    "job_id": "B10",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B10_W.mat",
+    "variable": "BWc",
+    "shape": [
+      1748,
+      1357
+    ],
+    "mask_pixels": 84765,
+    "normalized_sha256": "b42dcab92407ff7b656c6ae558421db9a09fc6358c19f3d670c756b463179153"
+  },
+  {
+    "job_id": "B10",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B10_W.mat",
+    "variable": "BW",
+    "shape": [
+      1748,
+      1357
+    ],
+    "mask_pixels": 497230,
+    "normalized_sha256": "a5c5874b9f1cf4cbe1be315dbb1d2b353d84ce46cb788db4f289a8fc4d882217"
+  },
+  {
+    "job_id": "B10",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B10_W.mat",
+    "variable": "BWc",
+    "shape": [
+      1748,
+      1357
+    ],
+    "mask_pixels": 84765,
+    "normalized_sha256": "b42dcab92407ff7b656c6ae558421db9a09fc6358c19f3d670c756b463179153"
+  },
+  {
+    "job_id": "B10_av_b",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B10_av_b_W.mat",
+    "variable": "BW",
+    "shape": [
+      685,
+      530
+    ],
+    "mask_pixels": 85654,
+    "normalized_sha256": "2585ea435f7fd030a2388daabb8584e875f8fc2040aa095983d178c5f3c3c644"
+  },
+  {
+    "job_id": "B10_av_b",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B10_av_b_W.mat",
+    "variable": "BW",
+    "shape": [
+      685,
+      530
+    ],
+    "mask_pixels": 85654,
+    "normalized_sha256": "2585ea435f7fd030a2388daabb8584e875f8fc2040aa095983d178c5f3c3c644"
+  },
+  {
+    "job_id": "B10_av_c",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B10_av_c_W.mat",
+    "variable": "BW",
+    "shape": [
+      814,
+      844
+    ],
+    "mask_pixels": 186462,
+    "normalized_sha256": "8ff3bb0ebe75b4e4ecdf22bdf80d94aaabe21775e81381e26b665a92e1d172bd"
+  },
+  {
+    "job_id": "B10_av_c",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B10_av_c_W.mat",
+    "variable": "BW",
+    "shape": [
+      814,
+      844
+    ],
+    "mask_pixels": 186462,
+    "normalized_sha256": "8ff3bb0ebe75b4e4ecdf22bdf80d94aaabe21775e81381e26b665a92e1d172bd"
+  },
+  {
+    "job_id": "B10_p_a",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B10_p_a_W.mat",
+    "variable": "BWc",
+    "shape": [
+      1302,
+      648
+    ],
+    "mask_pixels": 17581,
+    "normalized_sha256": "a205e410054f94ab6ece8199268c2cd897dc8724aca580128c13dd080d34e411"
+  },
+  {
+    "job_id": "B10_p_a",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B10_p_a_W.mat",
+    "variable": "BWc",
+    "shape": [
+      1302,
+      648
+    ],
+    "mask_pixels": 17581,
+    "normalized_sha256": "a205e410054f94ab6ece8199268c2cd897dc8724aca580128c13dd080d34e411"
+  },
+  {
+    "job_id": "B10_p_b",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B10_p_b_W.mat",
+    "variable": "BWc",
+    "shape": [
+      805,
+      790
+    ],
+    "mask_pixels": 30374,
+    "normalized_sha256": "4282b64c0226d846cb85c07c9391b8fec6ba679688e518f652e60af34e47f207"
+  },
+  {
+    "job_id": "B10_p_b",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B10_p_b_W.mat",
+    "variable": "BWc",
+    "shape": [
+      805,
+      790
+    ],
+    "mask_pixels": 30374,
+    "normalized_sha256": "4282b64c0226d846cb85c07c9391b8fec6ba679688e518f652e60af34e47f207"
+  },
+  {
+    "job_id": "B11",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B11_B.mat",
+    "variable": "BW",
+    "shape": [
+      167,
+      186
+    ],
+    "mask_pixels": 2779,
+    "normalized_sha256": "a6e625b88042a5bbfda5f733ddb7e961fe93e2ca76177d4a15862bdbe5f25f8a"
+  },
+  {
+    "job_id": "B11",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B11_B.mat",
+    "variable": "BWc",
+    "shape": [
+      167,
+      186
+    ],
+    "mask_pixels": 3123,
+    "normalized_sha256": "66290b2c983804d355a65e379fc4349a5d62d4c697cf7ef12406c3339b3d522a"
+  },
+  {
+    "job_id": "B11",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B11_B.mat",
+    "variable": "BW",
+    "shape": [
+      167,
+      186
+    ],
+    "mask_pixels": 2779,
+    "normalized_sha256": "a6e625b88042a5bbfda5f733ddb7e961fe93e2ca76177d4a15862bdbe5f25f8a"
+  },
+  {
+    "job_id": "B11",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B11_B.mat",
+    "variable": "BWc",
+    "shape": [
+      167,
+      186
+    ],
+    "mask_pixels": 3123,
+    "normalized_sha256": "66290b2c983804d355a65e379fc4349a5d62d4c697cf7ef12406c3339b3d522a"
+  },
+  {
+    "job_id": "B12_a",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B12_a_W.mat",
+    "variable": "BW",
+    "shape": [
+      646,
+      766
+    ],
+    "mask_pixels": 92426,
+    "normalized_sha256": "24cd44750e2afc629b35d2c389eda2d95022f47e41641923c4e4e9aff9238f76"
+  },
+  {
+    "job_id": "B12_a",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B12_a_W.mat",
+    "variable": "BWc",
+    "shape": [
+      646,
+      766
+    ],
+    "mask_pixels": 54809,
+    "normalized_sha256": "be3ad7df669e7beb9b3509bc22be1386251145f4f295708eed016a479eb42307"
+  },
+  {
+    "job_id": "B12_a",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B12_a_W.mat",
+    "variable": "BW",
+    "shape": [
+      646,
+      766
+    ],
+    "mask_pixels": 92426,
+    "normalized_sha256": "24cd44750e2afc629b35d2c389eda2d95022f47e41641923c4e4e9aff9238f76"
+  },
+  {
+    "job_id": "B12_a",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B12_a_W.mat",
+    "variable": "BWc",
+    "shape": [
+      646,
+      766
+    ],
+    "mask_pixels": 54809,
+    "normalized_sha256": "be3ad7df669e7beb9b3509bc22be1386251145f4f295708eed016a479eb42307"
+  },
+  {
+    "job_id": "B12_av_a",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B12_av_a_W.mat",
+    "variable": "BW",
+    "shape": [
+      1317,
+      1003
+    ],
+    "mask_pixels": 225834,
+    "normalized_sha256": "1149a3e6dee19a8d75ef320908807f2aab21a94637c571eed8f06c72598dadac"
+  },
+  {
+    "job_id": "B12_av_a",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B12_av_a_W.mat",
+    "variable": "BW",
+    "shape": [
+      1317,
+      1003
+    ],
+    "mask_pixels": 225834,
+    "normalized_sha256": "1149a3e6dee19a8d75ef320908807f2aab21a94637c571eed8f06c72598dadac"
+  },
+  {
+    "job_id": "B12_b",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B12_b_W.mat",
+    "variable": "BW",
+    "shape": [
+      1224,
+      1225
+    ],
+    "mask_pixels": 88230,
+    "normalized_sha256": "4bcd4c9525af3ce3d3e9dd8d35cf439c3cfb8539e7b7abe5ee6e4789a7d93d0a"
+  },
+  {
+    "job_id": "B12_b",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B12_b_W.mat",
+    "variable": "BWc",
+    "shape": [
+      1224,
+      1225
+    ],
+    "mask_pixels": 80322,
+    "normalized_sha256": "cc6207462d4c84fb42b287dd0d4a875daa3d2784ca1b5a86ca6d65d0e0268875"
+  },
+  {
+    "job_id": "B12_b",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B12_b_W.mat",
+    "variable": "BW",
+    "shape": [
+      1224,
+      1225
+    ],
+    "mask_pixels": 88230,
+    "normalized_sha256": "4bcd4c9525af3ce3d3e9dd8d35cf439c3cfb8539e7b7abe5ee6e4789a7d93d0a"
+  },
+  {
+    "job_id": "B12_b",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B12_b_W.mat",
+    "variable": "BWc",
+    "shape": [
+      1224,
+      1225
+    ],
+    "mask_pixels": 80322,
+    "normalized_sha256": "cc6207462d4c84fb42b287dd0d4a875daa3d2784ca1b5a86ca6d65d0e0268875"
+  },
+  {
+    "job_id": "B12_p_a",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B12_p_a_W.mat",
+    "variable": "BWc",
+    "shape": [
+      622,
+      984
+    ],
+    "mask_pixels": 34776,
+    "normalized_sha256": "a73f1968c88f8725a7d678fabb458b2be476390a3e89d5819022d31a1a8e124a"
+  },
+  {
+    "job_id": "B12_p_a",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B12_p_a_W.mat",
+    "variable": "BWc",
+    "shape": [
+      622,
+      984
+    ],
+    "mask_pixels": 34776,
+    "normalized_sha256": "a73f1968c88f8725a7d678fabb458b2be476390a3e89d5819022d31a1a8e124a"
+  },
+  {
+    "job_id": "B13",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B13_B.mat",
+    "variable": "BW",
+    "shape": [
+      144,
+      169
+    ],
+    "mask_pixels": 864,
+    "normalized_sha256": "ece8fac2af40678c8ea8aca3be46833fa0c903adec2bf2c64c91a357ef819cd9"
+  },
+  {
+    "job_id": "B13",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B13_B.mat",
+    "variable": "BWc",
+    "shape": [
+      144,
+      169
+    ],
+    "mask_pixels": 2340,
+    "normalized_sha256": "aaed1d4c101284c3822399080ac7ac0a780b4050b46362e9d3fb0293096cd473"
+  },
+  {
+    "job_id": "B13",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B13_B.mat",
+    "variable": "BW",
+    "shape": [
+      144,
+      169
+    ],
+    "mask_pixels": 864,
+    "normalized_sha256": "ece8fac2af40678c8ea8aca3be46833fa0c903adec2bf2c64c91a357ef819cd9"
+  },
+  {
+    "job_id": "B13",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B13_B.mat",
+    "variable": "BWc",
+    "shape": [
+      144,
+      169
+    ],
+    "mask_pixels": 2340,
+    "normalized_sha256": "aaed1d4c101284c3822399080ac7ac0a780b4050b46362e9d3fb0293096cd473"
+  },
+  {
+    "job_id": "B14_a",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B14_a_W.mat",
+    "variable": "BW",
+    "shape": [
+      803,
+      1094
+    ],
+    "mask_pixels": 478551,
+    "normalized_sha256": "5be89bc14c2efbd1dbe294f51d14c334fbfad6ca5b69ed20fd9bcc558f0e29bd"
+  },
+  {
+    "job_id": "B14_a",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B14_a_W.mat",
+    "variable": "BWc",
+    "shape": [
+      803,
+      1094
+    ],
+    "mask_pixels": 29131,
+    "normalized_sha256": "12ca09dc9487a7c47915aca2fe16a4c9db351b1e862802d6a8f33099c5addca8"
+  },
+  {
+    "job_id": "B14_a",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B14_a_W.mat",
+    "variable": "BW",
+    "shape": [
+      803,
+      1094
+    ],
+    "mask_pixels": 478551,
+    "normalized_sha256": "5be89bc14c2efbd1dbe294f51d14c334fbfad6ca5b69ed20fd9bcc558f0e29bd"
+  },
+  {
+    "job_id": "B14_a",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B14_a_W.mat",
+    "variable": "BWc",
+    "shape": [
+      803,
+      1094
+    ],
+    "mask_pixels": 29131,
+    "normalized_sha256": "12ca09dc9487a7c47915aca2fe16a4c9db351b1e862802d6a8f33099c5addca8"
+  },
+  {
+    "job_id": "B14_b",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B14_b_W.mat",
+    "variable": "BW",
+    "shape": [
+      928,
+      1267
+    ],
+    "mask_pixels": 614593,
+    "normalized_sha256": "aa81fa37e59bca2133f3020d808e6c5969878c168dc20c0e45e6de4f0d16291c"
+  },
+  {
+    "job_id": "B14_b",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B14_b_W.mat",
+    "variable": "BWc",
+    "shape": [
+      928,
+      1267
+    ],
+    "mask_pixels": 30186,
+    "normalized_sha256": "55bb6ae2db83cd787236cf6b419ba3066394c399af9605c5fbcd658be0a232a4"
+  },
+  {
+    "job_id": "B14_b",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B14_b_W.mat",
+    "variable": "BW",
+    "shape": [
+      928,
+      1267
+    ],
+    "mask_pixels": 614593,
+    "normalized_sha256": "aa81fa37e59bca2133f3020d808e6c5969878c168dc20c0e45e6de4f0d16291c"
+  },
+  {
+    "job_id": "B14_b",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B14_b_W.mat",
+    "variable": "BWc",
+    "shape": [
+      928,
+      1267
+    ],
+    "mask_pixels": 30186,
+    "normalized_sha256": "55bb6ae2db83cd787236cf6b419ba3066394c399af9605c5fbcd658be0a232a4"
+  },
+  {
+    "job_id": "B14_b_onset28",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B14_b_W.mat",
+    "variable": "BW",
+    "shape": [
+      928,
+      1267
+    ],
+    "mask_pixels": 614593,
+    "normalized_sha256": "aa81fa37e59bca2133f3020d808e6c5969878c168dc20c0e45e6de4f0d16291c"
+  },
+  {
+    "job_id": "B14_b_onset28",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B14_b_W.mat",
+    "variable": "BWc",
+    "shape": [
+      928,
+      1267
+    ],
+    "mask_pixels": 30186,
+    "normalized_sha256": "55bb6ae2db83cd787236cf6b419ba3066394c399af9605c5fbcd658be0a232a4"
+  },
+  {
+    "job_id": "B14_b_onset28",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B14_b_W.mat",
+    "variable": "BW",
+    "shape": [
+      928,
+      1267
+    ],
+    "mask_pixels": 614593,
+    "normalized_sha256": "aa81fa37e59bca2133f3020d808e6c5969878c168dc20c0e45e6de4f0d16291c"
+  },
+  {
+    "job_id": "B14_b_onset28",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B14_b_W.mat",
+    "variable": "BWc",
+    "shape": [
+      928,
+      1267
+    ],
+    "mask_pixels": 30186,
+    "normalized_sha256": "55bb6ae2db83cd787236cf6b419ba3066394c399af9605c5fbcd658be0a232a4"
+  },
+  {
+    "job_id": "B15",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B15_W.mat",
+    "variable": "BW",
+    "shape": [
+      211,
+      332
+    ],
+    "mask_pixels": 3843,
+    "normalized_sha256": "f0f3d00e782e77491942e1a90358905311ebf9b2e48244f8ff8685c551c69c23"
+  },
+  {
+    "job_id": "B15",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B15_W.mat",
+    "variable": "BWc",
+    "shape": [
+      211,
+      332
+    ],
+    "mask_pixels": 3539,
+    "normalized_sha256": "011a673de428b11fced5a142b205050b82887b0c56d2926de5081c8b76ca3622"
+  },
+  {
+    "job_id": "B15",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_B15_W.mat",
+    "variable": "BW",
+    "shape": [
+      211,
+      332
+    ],
+    "mask_pixels": 3843,
+    "normalized_sha256": "f0f3d00e782e77491942e1a90358905311ebf9b2e48244f8ff8685c551c69c23"
+  },
+  {
+    "job_id": "B15",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_B15_W.mat",
+    "variable": "BWc",
+    "shape": [
+      211,
+      332
+    ],
+    "mask_pixels": 3539,
+    "normalized_sha256": "011a673de428b11fced5a142b205050b82887b0c56d2926de5081c8b76ca3622"
+  },
+  {
+    "job_id": "H1",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_H1_W.mat",
+    "variable": "BW",
+    "shape": [
+      1453,
+      739
+    ],
+    "mask_pixels": 104284,
+    "normalized_sha256": "2f16573823bf3335c1b84d7ad3a999b02e5958a25b6018f088041d273854251c"
+  },
+  {
+    "job_id": "H1",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_H1_W.mat",
+    "variable": "BWc",
+    "shape": [
+      1453,
+      739
+    ],
+    "mask_pixels": 105313,
+    "normalized_sha256": "9c3c19e841cef056cfc3bdff563fb2bf0efe774c37e2c413a6920a579224bc21"
+  },
+  {
+    "job_id": "H1",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_H1_W.mat",
+    "variable": "BW",
+    "shape": [
+      1453,
+      739
+    ],
+    "mask_pixels": 104284,
+    "normalized_sha256": "2f16573823bf3335c1b84d7ad3a999b02e5958a25b6018f088041d273854251c"
+  },
+  {
+    "job_id": "H1",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_H1_W.mat",
+    "variable": "BWc",
+    "shape": [
+      1453,
+      739
+    ],
+    "mask_pixels": 105313,
+    "normalized_sha256": "9c3c19e841cef056cfc3bdff563fb2bf0efe774c37e2c413a6920a579224bc21"
+  },
+  {
+    "job_id": "H2",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_H2_W.mat",
+    "variable": "BW",
+    "shape": [
+      793,
+      394
+    ],
+    "mask_pixels": 26175,
+    "normalized_sha256": "b5a5518ffd693c55f0cd6852462b09d9b98d4a22274f9550630d3245871db7d3"
+  },
+  {
+    "job_id": "H2",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_H2_W.mat",
+    "variable": "BWc",
+    "shape": [
+      793,
+      394
+    ],
+    "mask_pixels": 23134,
+    "normalized_sha256": "b252056d12e7ba30fe5202e23745269a5316cf9837022d5e50ade92fa7540391"
+  },
+  {
+    "job_id": "H2",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_H2_W.mat",
+    "variable": "BW",
+    "shape": [
+      793,
+      394
+    ],
+    "mask_pixels": 26175,
+    "normalized_sha256": "b5a5518ffd693c55f0cd6852462b09d9b98d4a22274f9550630d3245871db7d3"
+  },
+  {
+    "job_id": "H2",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_H2_W.mat",
+    "variable": "BWc",
+    "shape": [
+      793,
+      394
+    ],
+    "mask_pixels": 23134,
+    "normalized_sha256": "b252056d12e7ba30fe5202e23745269a5316cf9837022d5e50ade92fa7540391"
+  },
+  {
+    "job_id": "H3",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_H3_B.mat",
+    "variable": "BW",
+    "shape": [
+      75,
+      82
+    ],
+    "mask_pixels": 479,
+    "normalized_sha256": "e01185abfa363dd7e7558816c6db0e54b85c164eccd7bf5e5d9d27547c0cf3a6"
+  },
+  {
+    "job_id": "H3",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_H3_B.mat",
+    "variable": "BWc",
+    "shape": [
+      75,
+      82
+    ],
+    "mask_pixels": 729,
+    "normalized_sha256": "4cec67a66a120f8c35223f9828a32792b478f6ff15f17bf464f098ea3ee311f3"
+  },
+  {
+    "job_id": "H3",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_H3_B.mat",
+    "variable": "BW",
+    "shape": [
+      75,
+      82
+    ],
+    "mask_pixels": 479,
+    "normalized_sha256": "e01185abfa363dd7e7558816c6db0e54b85c164eccd7bf5e5d9d27547c0cf3a6"
+  },
+  {
+    "job_id": "H3",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_H3_B.mat",
+    "variable": "BWc",
+    "shape": [
+      75,
+      82
+    ],
+    "mask_pixels": 729,
+    "normalized_sha256": "4cec67a66a120f8c35223f9828a32792b478f6ff15f17bf464f098ea3ee311f3"
+  },
+  {
+    "job_id": "H4",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_H4_B.mat",
+    "variable": "BW",
+    "shape": [
+      273,
+      329
+    ],
+    "mask_pixels": 3644,
+    "normalized_sha256": "ee30400a899b9588ef059dac91d9f580b623a8a29c805fd8b5fc2e93a1e46a53"
+  },
+  {
+    "job_id": "H4",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_H4_B.mat",
+    "variable": "BWc",
+    "shape": [
+      273,
+      329
+    ],
+    "mask_pixels": 3803,
+    "normalized_sha256": "7f26c28cde9cb91c5f993a057ef2cb39e53cd55d86881c4688a2f2c6efe13569"
+  },
+  {
+    "job_id": "H4",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_H4_B.mat",
+    "variable": "BW",
+    "shape": [
+      273,
+      329
+    ],
+    "mask_pixels": 3644,
+    "normalized_sha256": "ee30400a899b9588ef059dac91d9f580b623a8a29c805fd8b5fc2e93a1e46a53"
+  },
+  {
+    "job_id": "H4",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_H4_B.mat",
+    "variable": "BWc",
+    "shape": [
+      273,
+      329
+    ],
+    "mask_pixels": 3803,
+    "normalized_sha256": "7f26c28cde9cb91c5f993a057ef2cb39e53cd55d86881c4688a2f2c6efe13569"
+  },
+  {
+    "job_id": "H5",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_H5_W.mat",
+    "variable": "BW",
+    "shape": [
+      1221,
+      605
+    ],
+    "mask_pixels": 135097,
+    "normalized_sha256": "1a772692d548e59915eb0562a292d189c8594c5bbc6f379e35411e750229d889"
+  },
+  {
+    "job_id": "H5",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_H5_W.mat",
+    "variable": "BWc",
+    "shape": [
+      1221,
+      605
+    ],
+    "mask_pixels": 138309,
+    "normalized_sha256": "f61fda76b6ba22071ff8792ca9eb53e960daeeaba5397ac8ce241ae5a321789d"
+  },
+  {
+    "job_id": "H5",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_H5_W.mat",
+    "variable": "BW",
+    "shape": [
+      1221,
+      605
+    ],
+    "mask_pixels": 135097,
+    "normalized_sha256": "1a772692d548e59915eb0562a292d189c8594c5bbc6f379e35411e750229d889"
+  },
+  {
+    "job_id": "H5",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_H5_W.mat",
+    "variable": "BWc",
+    "shape": [
+      1221,
+      605
+    ],
+    "mask_pixels": 138309,
+    "normalized_sha256": "f61fda76b6ba22071ff8792ca9eb53e960daeeaba5397ac8ce241ae5a321789d"
+  },
+  {
+    "job_id": "H6",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_H6_W.mat",
+    "variable": "BW",
+    "shape": [
+      435,
+      891
+    ],
+    "mask_pixels": 51727,
+    "normalized_sha256": "16548196ec127c73637a24b06f5fc8bfac5d2ac9f0d5b923afd88e94ddf775f0"
+  },
+  {
+    "job_id": "H6",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_H6_W.mat",
+    "variable": "BWc",
+    "shape": [
+      435,
+      891
+    ],
+    "mask_pixels": 44303,
+    "normalized_sha256": "25233a12ad618d9e57cc26b4b463e306139e0a7d8b32186a51690c4c6ebf7ef7"
+  },
+  {
+    "job_id": "H6",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_H6_W.mat",
+    "variable": "BW",
+    "shape": [
+      435,
+      891
+    ],
+    "mask_pixels": 51727,
+    "normalized_sha256": "16548196ec127c73637a24b06f5fc8bfac5d2ac9f0d5b923afd88e94ddf775f0"
+  },
+  {
+    "job_id": "H6",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_H6_W.mat",
+    "variable": "BWc",
+    "shape": [
+      435,
+      891
+    ],
+    "mask_pixels": 44303,
+    "normalized_sha256": "25233a12ad618d9e57cc26b4b463e306139e0a7d8b32186a51690c4c6ebf7ef7"
+  },
+  {
+    "job_id": "G1",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G1_W.mat",
+    "variable": "BW",
+    "shape": [
+      1617,
+      1927
+    ],
+    "mask_pixels": 148106,
+    "normalized_sha256": "8d3d77805a6c78869883a1ad48b13f1d59905193f5a62ddcec7f7f59784c4559"
+  },
+  {
+    "job_id": "G1",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G1_W.mat",
+    "variable": "BWc",
+    "shape": [
+      1617,
+      1927
+    ],
+    "mask_pixels": 127803,
+    "normalized_sha256": "3ff891c6699165c32aba869097a3bd418e25700a9ef5f0a8ef614ab5865cdef9"
+  },
+  {
+    "job_id": "G1",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G1_W.mat",
+    "variable": "BW",
+    "shape": [
+      1617,
+      1927
+    ],
+    "mask_pixels": 148106,
+    "normalized_sha256": "8d3d77805a6c78869883a1ad48b13f1d59905193f5a62ddcec7f7f59784c4559"
+  },
+  {
+    "job_id": "G1",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G1_W.mat",
+    "variable": "BWc",
+    "shape": [
+      1617,
+      1927
+    ],
+    "mask_pixels": 127803,
+    "normalized_sha256": "3ff891c6699165c32aba869097a3bd418e25700a9ef5f0a8ef614ab5865cdef9"
+  },
+  {
+    "job_id": "G2",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G2_B.mat",
+    "variable": "BW",
+    "shape": [
+      307,
+      430
+    ],
+    "mask_pixels": 20173,
+    "normalized_sha256": "01067f79029b25412e9f3149118d177dfabf9acd7085754689befc63ebba65bb"
+  },
+  {
+    "job_id": "G2",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G2_B.mat",
+    "variable": "BWc",
+    "shape": [
+      307,
+      430
+    ],
+    "mask_pixels": 5960,
+    "normalized_sha256": "a7889f0eafb5890b9ac5b0b4e1a97369ade3ac6f7814017bc338df34a6529c49"
+  },
+  {
+    "job_id": "G2",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G2_B.mat",
+    "variable": "BW",
+    "shape": [
+      307,
+      430
+    ],
+    "mask_pixels": 20173,
+    "normalized_sha256": "01067f79029b25412e9f3149118d177dfabf9acd7085754689befc63ebba65bb"
+  },
+  {
+    "job_id": "G2",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G2_B.mat",
+    "variable": "BWc",
+    "shape": [
+      307,
+      430
+    ],
+    "mask_pixels": 5960,
+    "normalized_sha256": "a7889f0eafb5890b9ac5b0b4e1a97369ade3ac6f7814017bc338df34a6529c49"
+  },
+  {
+    "job_id": "G3",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G3_W.mat",
+    "variable": "BW",
+    "shape": [
+      226,
+      262
+    ],
+    "mask_pixels": 2849,
+    "normalized_sha256": "679f07def47e624e99c228b1ab117e46526b85729a74cc6633748063bca3aab3"
+  },
+  {
+    "job_id": "G3",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G3_W.mat",
+    "variable": "BWc",
+    "shape": [
+      226,
+      262
+    ],
+    "mask_pixels": 3163,
+    "normalized_sha256": "f39cbcb6dd7e788bdb6410e8f88f20009cbdb650f3c08092f65806305e2c8cb4"
+  },
+  {
+    "job_id": "G3",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G3_W.mat",
+    "variable": "BW",
+    "shape": [
+      226,
+      262
+    ],
+    "mask_pixels": 2849,
+    "normalized_sha256": "679f07def47e624e99c228b1ab117e46526b85729a74cc6633748063bca3aab3"
+  },
+  {
+    "job_id": "G3",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G3_W.mat",
+    "variable": "BWc",
+    "shape": [
+      226,
+      262
+    ],
+    "mask_pixels": 3163,
+    "normalized_sha256": "f39cbcb6dd7e788bdb6410e8f88f20009cbdb650f3c08092f65806305e2c8cb4"
+  },
+  {
+    "job_id": "G4",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G4_W.mat",
+    "variable": "BW",
+    "shape": [
+      216,
+      276
+    ],
+    "mask_pixels": 9189,
+    "normalized_sha256": "ef01e0e67201551316e865dc057b9ce7238883f0a2e037daabb25d5fbcb752d2"
+  },
+  {
+    "job_id": "G4",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G4_W.mat",
+    "variable": "BWc",
+    "shape": [
+      216,
+      276
+    ],
+    "mask_pixels": 4365,
+    "normalized_sha256": "a8a6329ea058f341a1629a98c339679e1feea7aae4d3810495fb4afcd676593f"
+  },
+  {
+    "job_id": "G4",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G4_W.mat",
+    "variable": "BW",
+    "shape": [
+      216,
+      276
+    ],
+    "mask_pixels": 9189,
+    "normalized_sha256": "ef01e0e67201551316e865dc057b9ce7238883f0a2e037daabb25d5fbcb752d2"
+  },
+  {
+    "job_id": "G4",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G4_W.mat",
+    "variable": "BWc",
+    "shape": [
+      216,
+      276
+    ],
+    "mask_pixels": 4365,
+    "normalized_sha256": "a8a6329ea058f341a1629a98c339679e1feea7aae4d3810495fb4afcd676593f"
+  },
+  {
+    "job_id": "G5",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G5_B.mat",
+    "variable": "BW",
+    "shape": [
+      761,
+      931
+    ],
+    "mask_pixels": 18532,
+    "normalized_sha256": "7a0ac1224baec11117a26b9e22e8c614141a597f2cd71696a96ab118667c2996"
+  },
+  {
+    "job_id": "G5",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G5_B.mat",
+    "variable": "BWc",
+    "shape": [
+      761,
+      931
+    ],
+    "mask_pixels": 12362,
+    "normalized_sha256": "99dab295dc2a2f3f50e13830788308c3959b0e21ac9df0258eaa267fb0e45d03"
+  },
+  {
+    "job_id": "G5",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G5_B.mat",
+    "variable": "BW",
+    "shape": [
+      761,
+      931
+    ],
+    "mask_pixels": 18532,
+    "normalized_sha256": "7a0ac1224baec11117a26b9e22e8c614141a597f2cd71696a96ab118667c2996"
+  },
+  {
+    "job_id": "G5",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G5_B.mat",
+    "variable": "BWc",
+    "shape": [
+      761,
+      931
+    ],
+    "mask_pixels": 12362,
+    "normalized_sha256": "99dab295dc2a2f3f50e13830788308c3959b0e21ac9df0258eaa267fb0e45d03"
+  },
+  {
+    "job_id": "G6",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G6_W.mat",
+    "variable": "BW",
+    "shape": [
+      227,
+      496
+    ],
+    "mask_pixels": 3470,
+    "normalized_sha256": "28115707e9f397999574f326d902d6bee3e900db8efa92b5f5acdb2651578195"
+  },
+  {
+    "job_id": "G6",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G6_W.mat",
+    "variable": "BWc",
+    "shape": [
+      227,
+      496
+    ],
+    "mask_pixels": 4288,
+    "normalized_sha256": "3b914e9c2306c0e1c966cad4d6d52facdb949e77bcf63a6b23906c5d3fb4063d"
+  },
+  {
+    "job_id": "G6",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G6_W.mat",
+    "variable": "BW",
+    "shape": [
+      227,
+      496
+    ],
+    "mask_pixels": 3470,
+    "normalized_sha256": "28115707e9f397999574f326d902d6bee3e900db8efa92b5f5acdb2651578195"
+  },
+  {
+    "job_id": "G6",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G6_W.mat",
+    "variable": "BWc",
+    "shape": [
+      227,
+      496
+    ],
+    "mask_pixels": 4288,
+    "normalized_sha256": "3b914e9c2306c0e1c966cad4d6d52facdb949e77bcf63a6b23906c5d3fb4063d"
+  },
+  {
+    "job_id": "G7",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G7_B.mat",
+    "variable": "BW",
+    "shape": [
+      223,
+      424
+    ],
+    "mask_pixels": 2772,
+    "normalized_sha256": "1582ac1fe1dddc39e58c5d2435d73b5387dd17ff19be024ab6744757e38b2284"
+  },
+  {
+    "job_id": "G7",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G7_B.mat",
+    "variable": "BWc",
+    "shape": [
+      223,
+      424
+    ],
+    "mask_pixels": 2920,
+    "normalized_sha256": "45e65e34f2a466b7bcff442a1bd6668ce2c9fc7518b12b808a966081497fa3c2"
+  },
+  {
+    "job_id": "G7",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G7_B.mat",
+    "variable": "BW",
+    "shape": [
+      223,
+      424
+    ],
+    "mask_pixels": 2772,
+    "normalized_sha256": "1582ac1fe1dddc39e58c5d2435d73b5387dd17ff19be024ab6744757e38b2284"
+  },
+  {
+    "job_id": "G7",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G7_B.mat",
+    "variable": "BWc",
+    "shape": [
+      223,
+      424
+    ],
+    "mask_pixels": 2920,
+    "normalized_sha256": "45e65e34f2a466b7bcff442a1bd6668ce2c9fc7518b12b808a966081497fa3c2"
+  },
+  {
+    "job_id": "G8",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G8_W.mat",
+    "variable": "BW",
+    "shape": [
+      265,
+      278
+    ],
+    "mask_pixels": 9641,
+    "normalized_sha256": "4843d12f84f2c123c55e79cff223d242ef01f58df9cd3d1d5f445da8e0172629"
+  },
+  {
+    "job_id": "G8",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G8_W.mat",
+    "variable": "BWc",
+    "shape": [
+      265,
+      278
+    ],
+    "mask_pixels": 2693,
+    "normalized_sha256": "b69ad9b5dd2b62ed1816d52c0553fbde771800255b616a75c047f8811386e78e"
+  },
+  {
+    "job_id": "G8",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G8_W.mat",
+    "variable": "BW",
+    "shape": [
+      265,
+      278
+    ],
+    "mask_pixels": 9641,
+    "normalized_sha256": "4843d12f84f2c123c55e79cff223d242ef01f58df9cd3d1d5f445da8e0172629"
+  },
+  {
+    "job_id": "G8",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G8_W.mat",
+    "variable": "BWc",
+    "shape": [
+      265,
+      278
+    ],
+    "mask_pixels": 2693,
+    "normalized_sha256": "b69ad9b5dd2b62ed1816d52c0553fbde771800255b616a75c047f8811386e78e"
+  },
+  {
+    "job_id": "G9",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G9_B.mat",
+    "variable": "BW",
+    "shape": [
+      373,
+      405
+    ],
+    "mask_pixels": 7337,
+    "normalized_sha256": "ffb5ad51b69934f8c46ceb70fb2958dc33b0e9e6e33c5964cb7a30382423721f"
+  },
+  {
+    "job_id": "G9",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G9_B.mat",
+    "variable": "BWc",
+    "shape": [
+      373,
+      405
+    ],
+    "mask_pixels": 6978,
+    "normalized_sha256": "2c1f2c9e3a3f7e99e48602c568696d3bc0beedbaa383a11e46ab2f972a72f565"
+  },
+  {
+    "job_id": "G9",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G9_B.mat",
+    "variable": "BW",
+    "shape": [
+      373,
+      405
+    ],
+    "mask_pixels": 7337,
+    "normalized_sha256": "ffb5ad51b69934f8c46ceb70fb2958dc33b0e9e6e33c5964cb7a30382423721f"
+  },
+  {
+    "job_id": "G9",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G9_B.mat",
+    "variable": "BWc",
+    "shape": [
+      373,
+      405
+    ],
+    "mask_pixels": 6978,
+    "normalized_sha256": "2c1f2c9e3a3f7e99e48602c568696d3bc0beedbaa383a11e46ab2f972a72f565"
+  },
+  {
+    "job_id": "G10",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G10_B.mat",
+    "variable": "BW",
+    "shape": [
+      136,
+      272
+    ],
+    "mask_pixels": 977,
+    "normalized_sha256": "b820c31a50812e2da8b52493767131ea8e4a808f2d8a52af77611ccf51c70acd"
+  },
+  {
+    "job_id": "G10",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G10_B.mat",
+    "variable": "BWc",
+    "shape": [
+      136,
+      272
+    ],
+    "mask_pixels": 804,
+    "normalized_sha256": "2186be78a29c3149058e369e93436beed2f92e3fda4f927edbf482046725c4ff"
+  },
+  {
+    "job_id": "G10",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G10_B.mat",
+    "variable": "BW",
+    "shape": [
+      136,
+      272
+    ],
+    "mask_pixels": 977,
+    "normalized_sha256": "b820c31a50812e2da8b52493767131ea8e4a808f2d8a52af77611ccf51c70acd"
+  },
+  {
+    "job_id": "G10",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G10_B.mat",
+    "variable": "BWc",
+    "shape": [
+      136,
+      272
+    ],
+    "mask_pixels": 804,
+    "normalized_sha256": "2186be78a29c3149058e369e93436beed2f92e3fda4f927edbf482046725c4ff"
+  },
+  {
+    "job_id": "G11",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G11_B.mat",
+    "variable": "BW",
+    "shape": [
+      408,
+      223
+    ],
+    "mask_pixels": 1177,
+    "normalized_sha256": "2ee5581cc53f204a6f6340a4ad2f104dc69d90fa7dea0b69f60df10e88a9694c"
+  },
+  {
+    "job_id": "G11",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G11_B.mat",
+    "variable": "BWc",
+    "shape": [
+      408,
+      223
+    ],
+    "mask_pixels": 1755,
+    "normalized_sha256": "562bf3f28fd997cb1e1194cbe6433afcfdb04f274d61da3e79525cb75ad9d754"
+  },
+  {
+    "job_id": "G11",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G11_B.mat",
+    "variable": "BW",
+    "shape": [
+      408,
+      223
+    ],
+    "mask_pixels": 1177,
+    "normalized_sha256": "2ee5581cc53f204a6f6340a4ad2f104dc69d90fa7dea0b69f60df10e88a9694c"
+  },
+  {
+    "job_id": "G11",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G11_B.mat",
+    "variable": "BWc",
+    "shape": [
+      408,
+      223
+    ],
+    "mask_pixels": 1755,
+    "normalized_sha256": "562bf3f28fd997cb1e1194cbe6433afcfdb04f274d61da3e79525cb75ad9d754"
+  },
+  {
+    "job_id": "G12",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G12_B.mat",
+    "variable": "BW",
+    "shape": [
+      412,
+      263
+    ],
+    "mask_pixels": 6187,
+    "normalized_sha256": "a35a93bfb6b4e227b12c69db4857db030ce026bfb9b3469476714d966da3c32f"
+  },
+  {
+    "job_id": "G12",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G12_B.mat",
+    "variable": "BWc",
+    "shape": [
+      412,
+      263
+    ],
+    "mask_pixels": 2650,
+    "normalized_sha256": "25ddff0055dd3dfa963858100bf367dff838aad4a9cbac060cb5b0cf52dccc6c"
+  },
+  {
+    "job_id": "G12",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G12_B.mat",
+    "variable": "BW",
+    "shape": [
+      412,
+      263
+    ],
+    "mask_pixels": 6187,
+    "normalized_sha256": "a35a93bfb6b4e227b12c69db4857db030ce026bfb9b3469476714d966da3c32f"
+  },
+  {
+    "job_id": "G12",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G12_B.mat",
+    "variable": "BWc",
+    "shape": [
+      412,
+      263
+    ],
+    "mask_pixels": 2650,
+    "normalized_sha256": "25ddff0055dd3dfa963858100bf367dff838aad4a9cbac060cb5b0cf52dccc6c"
+  },
+  {
+    "job_id": "G13",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G13_B.mat",
+    "variable": "BW",
+    "shape": [
+      508,
+      297
+    ],
+    "mask_pixels": 7805,
+    "normalized_sha256": "e30dc23f04535cb1f73c7867922acdf5d46999d16d1c363cffff182ae43ea54a"
+  },
+  {
+    "job_id": "G13",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G13_B.mat",
+    "variable": "BWc",
+    "shape": [
+      508,
+      297
+    ],
+    "mask_pixels": 4654,
+    "normalized_sha256": "969ab1aa9a7c083ee06d8b829464c19a4e17062677e8b73cb24f00d1ba4159b4"
+  },
+  {
+    "job_id": "G13",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G13_B.mat",
+    "variable": "BW",
+    "shape": [
+      508,
+      297
+    ],
+    "mask_pixels": 7805,
+    "normalized_sha256": "e30dc23f04535cb1f73c7867922acdf5d46999d16d1c363cffff182ae43ea54a"
+  },
+  {
+    "job_id": "G13",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G13_B.mat",
+    "variable": "BWc",
+    "shape": [
+      508,
+      297
+    ],
+    "mask_pixels": 4654,
+    "normalized_sha256": "969ab1aa9a7c083ee06d8b829464c19a4e17062677e8b73cb24f00d1ba4159b4"
+  },
+  {
+    "job_id": "G14",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G14_B.mat",
+    "variable": "BW",
+    "shape": [
+      432,
+      289
+    ],
+    "mask_pixels": 6554,
+    "normalized_sha256": "9d4d0473d94d812e7b28fed5b7df631b6fcb5d02a2fcf07699492bd961af30d9"
+  },
+  {
+    "job_id": "G14",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G14_B.mat",
+    "variable": "BWc",
+    "shape": [
+      432,
+      289
+    ],
+    "mask_pixels": 5517,
+    "normalized_sha256": "6a83643771696b45494c11014cd0006093a1b8bc5136d6d7728d736b0b02afee"
+  },
+  {
+    "job_id": "G14",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G14_B.mat",
+    "variable": "BW",
+    "shape": [
+      432,
+      289
+    ],
+    "mask_pixels": 6554,
+    "normalized_sha256": "9d4d0473d94d812e7b28fed5b7df631b6fcb5d02a2fcf07699492bd961af30d9"
+  },
+  {
+    "job_id": "G14",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G14_B.mat",
+    "variable": "BWc",
+    "shape": [
+      432,
+      289
+    ],
+    "mask_pixels": 5517,
+    "normalized_sha256": "6a83643771696b45494c11014cd0006093a1b8bc5136d6d7728d736b0b02afee"
+  },
+  {
+    "job_id": "G15",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G15_B.mat",
+    "variable": "BW",
+    "shape": [
+      146,
+      278
+    ],
+    "mask_pixels": 1323,
+    "normalized_sha256": "ad1bd7a1b88e684bd6f5c01b80684498812edc111ae7b2c1bdb7281186f933a7"
+  },
+  {
+    "job_id": "G15",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G15_B.mat",
+    "variable": "BWc",
+    "shape": [
+      146,
+      278
+    ],
+    "mask_pixels": 3252,
+    "normalized_sha256": "6f863dace10a30f5df6b3856de2b9943a20599e463f157624be251d05c76ce71"
+  },
+  {
+    "job_id": "G15",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G15_B.mat",
+    "variable": "BW",
+    "shape": [
+      146,
+      278
+    ],
+    "mask_pixels": 1323,
+    "normalized_sha256": "ad1bd7a1b88e684bd6f5c01b80684498812edc111ae7b2c1bdb7281186f933a7"
+  },
+  {
+    "job_id": "G15",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G15_B.mat",
+    "variable": "BWc",
+    "shape": [
+      146,
+      278
+    ],
+    "mask_pixels": 3252,
+    "normalized_sha256": "6f863dace10a30f5df6b3856de2b9943a20599e463f157624be251d05c76ce71"
+  },
+  {
+    "job_id": "G16",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G16_B.mat",
+    "variable": "BW",
+    "shape": [
+      141,
+      237
+    ],
+    "mask_pixels": 460,
+    "normalized_sha256": "d25ac6bc48c49a41dfd528a51b6d00b7129b4463c35409f0e77c78dd6ee5aa49"
+  },
+  {
+    "job_id": "G16",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G16_B.mat",
+    "variable": "BWc",
+    "shape": [
+      141,
+      237
+    ],
+    "mask_pixels": 563,
+    "normalized_sha256": "7da6bf409cd95f2ba73514edf5848a360835e2a6061c63244307d7d4c8362932"
+  },
+  {
+    "job_id": "G16",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G16_B.mat",
+    "variable": "BW",
+    "shape": [
+      141,
+      237
+    ],
+    "mask_pixels": 460,
+    "normalized_sha256": "d25ac6bc48c49a41dfd528a51b6d00b7129b4463c35409f0e77c78dd6ee5aa49"
+  },
+  {
+    "job_id": "G16",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G16_B.mat",
+    "variable": "BWc",
+    "shape": [
+      141,
+      237
+    ],
+    "mask_pixels": 563,
+    "normalized_sha256": "7da6bf409cd95f2ba73514edf5848a360835e2a6061c63244307d7d4c8362932"
+  },
+  {
+    "job_id": "G17",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G17_B.mat",
+    "variable": "BW",
+    "shape": [
+      184,
+      144
+    ],
+    "mask_pixels": 2338,
+    "normalized_sha256": "fb9615d96dcf51a6f5c7eb9f2b4b2bf02224b0662d4daf294da8bbd13fc7dbf5"
+  },
+  {
+    "job_id": "G17",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G17_B.mat",
+    "variable": "BWc",
+    "shape": [
+      184,
+      144
+    ],
+    "mask_pixels": 2532,
+    "normalized_sha256": "d3e7ca017875bcb213d9f46385a465cce6abd07e100e674d4e9a1ebb612e0f5f"
+  },
+  {
+    "job_id": "G17",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G17_B.mat",
+    "variable": "BW",
+    "shape": [
+      184,
+      144
+    ],
+    "mask_pixels": 2338,
+    "normalized_sha256": "fb9615d96dcf51a6f5c7eb9f2b4b2bf02224b0662d4daf294da8bbd13fc7dbf5"
+  },
+  {
+    "job_id": "G17",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G17_B.mat",
+    "variable": "BWc",
+    "shape": [
+      184,
+      144
+    ],
+    "mask_pixels": 2532,
+    "normalized_sha256": "d3e7ca017875bcb213d9f46385a465cce6abd07e100e674d4e9a1ebb612e0f5f"
+  },
+  {
+    "job_id": "G18",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G18_B.mat",
+    "variable": "BW",
+    "shape": [
+      147,
+      172
+    ],
+    "mask_pixels": 1365,
+    "normalized_sha256": "ef2d13ff97fb15ade5ddb33c125fec70deda69a0451c4234d44bcd60809fd5f2"
+  },
+  {
+    "job_id": "G18",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G18_B.mat",
+    "variable": "BWc",
+    "shape": [
+      147,
+      172
+    ],
+    "mask_pixels": 1707,
+    "normalized_sha256": "50fb16ec36999cf2b303fc0207485a1c98c34430a421dc6cb9ff11ec99707230"
+  },
+  {
+    "job_id": "G18",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G18_B.mat",
+    "variable": "BW",
+    "shape": [
+      147,
+      172
+    ],
+    "mask_pixels": 1365,
+    "normalized_sha256": "ef2d13ff97fb15ade5ddb33c125fec70deda69a0451c4234d44bcd60809fd5f2"
+  },
+  {
+    "job_id": "G18",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G18_B.mat",
+    "variable": "BWc",
+    "shape": [
+      147,
+      172
+    ],
+    "mask_pixels": 1707,
+    "normalized_sha256": "50fb16ec36999cf2b303fc0207485a1c98c34430a421dc6cb9ff11ec99707230"
+  },
+  {
+    "job_id": "G19",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G19_B.mat",
+    "variable": "BW",
+    "shape": [
+      317,
+      137
+    ],
+    "mask_pixels": 2017,
+    "normalized_sha256": "b5115443cb02215e2a43149d75a0510ab6a01ec829619e5432bdb12ca079fbd7"
+  },
+  {
+    "job_id": "G19",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G19_B.mat",
+    "variable": "BWc",
+    "shape": [
+      317,
+      137
+    ],
+    "mask_pixels": 2190,
+    "normalized_sha256": "71c37bc822532ff09c9c5578afbca8a04ad8b148f99edb02ca21095a0246bd5d"
+  },
+  {
+    "job_id": "G19",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G19_B.mat",
+    "variable": "BW",
+    "shape": [
+      317,
+      137
+    ],
+    "mask_pixels": 2017,
+    "normalized_sha256": "b5115443cb02215e2a43149d75a0510ab6a01ec829619e5432bdb12ca079fbd7"
+  },
+  {
+    "job_id": "G19",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G19_B.mat",
+    "variable": "BWc",
+    "shape": [
+      317,
+      137
+    ],
+    "mask_pixels": 2190,
+    "normalized_sha256": "71c37bc822532ff09c9c5578afbca8a04ad8b148f99edb02ca21095a0246bd5d"
+  },
+  {
+    "job_id": "G20",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G20_B.mat",
+    "variable": "BW",
+    "shape": [
+      233,
+      273
+    ],
+    "mask_pixels": 11593,
+    "normalized_sha256": "59e9f034066dc200e8f492c5da996ab79acdeb7e4e5a3f2a89d9da416e5216cd"
+  },
+  {
+    "job_id": "G20",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G20_B.mat",
+    "variable": "BWc",
+    "shape": [
+      233,
+      273
+    ],
+    "mask_pixels": 7808,
+    "normalized_sha256": "4b4f54aae716715108f162e2469abf7b6e32e007c0aa587aac65ec5c48be4628"
+  },
+  {
+    "job_id": "G20",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G20_B.mat",
+    "variable": "BW",
+    "shape": [
+      233,
+      273
+    ],
+    "mask_pixels": 11593,
+    "normalized_sha256": "59e9f034066dc200e8f492c5da996ab79acdeb7e4e5a3f2a89d9da416e5216cd"
+  },
+  {
+    "job_id": "G20",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G20_B.mat",
+    "variable": "BWc",
+    "shape": [
+      233,
+      273
+    ],
+    "mask_pixels": 7808,
+    "normalized_sha256": "4b4f54aae716715108f162e2469abf7b6e32e007c0aa587aac65ec5c48be4628"
+  },
+  {
+    "job_id": "G21",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G21_W.mat",
+    "variable": "BW",
+    "shape": [
+      559,
+      241
+    ],
+    "mask_pixels": 9281,
+    "normalized_sha256": "a7204fecc85c49f0660ad110568cb3bdb574ec0c23b269dd6b84d99b8503e63c"
+  },
+  {
+    "job_id": "G21",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G21_W.mat",
+    "variable": "BWc",
+    "shape": [
+      559,
+      241
+    ],
+    "mask_pixels": 16530,
+    "normalized_sha256": "fdfc1bdcc944e840f18391ee8028845893a49990fdf7e20e78ea03f57a7d1681"
+  },
+  {
+    "job_id": "G21",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G21_W.mat",
+    "variable": "BW",
+    "shape": [
+      559,
+      241
+    ],
+    "mask_pixels": 9281,
+    "normalized_sha256": "a7204fecc85c49f0660ad110568cb3bdb574ec0c23b269dd6b84d99b8503e63c"
+  },
+  {
+    "job_id": "G21",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G21_W.mat",
+    "variable": "BWc",
+    "shape": [
+      559,
+      241
+    ],
+    "mask_pixels": 16530,
+    "normalized_sha256": "fdfc1bdcc944e840f18391ee8028845893a49990fdf7e20e78ea03f57a7d1681"
+  },
+  {
+    "job_id": "G22",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G22_B.mat",
+    "variable": "BW",
+    "shape": [
+      381,
+      214
+    ],
+    "mask_pixels": 5377,
+    "normalized_sha256": "bc9eacc0ce72200551716082ea006e6a47700bed5204aff650e7724b36a5333a"
+  },
+  {
+    "job_id": "G22",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G22_B.mat",
+    "variable": "BWc",
+    "shape": [
+      381,
+      214
+    ],
+    "mask_pixels": 4732,
+    "normalized_sha256": "9c2eb6cdd6f4e7e6ae69be6f8a6f18905a604dfbe476c0a94bd0c37b8378d1c0"
+  },
+  {
+    "job_id": "G22",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G22_B.mat",
+    "variable": "BW",
+    "shape": [
+      381,
+      214
+    ],
+    "mask_pixels": 5377,
+    "normalized_sha256": "bc9eacc0ce72200551716082ea006e6a47700bed5204aff650e7724b36a5333a"
+  },
+  {
+    "job_id": "G22",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G22_B.mat",
+    "variable": "BWc",
+    "shape": [
+      381,
+      214
+    ],
+    "mask_pixels": 4732,
+    "normalized_sha256": "9c2eb6cdd6f4e7e6ae69be6f8a6f18905a604dfbe476c0a94bd0c37b8378d1c0"
+  },
+  {
+    "job_id": "G23",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G23_W.mat",
+    "variable": "BW",
+    "shape": [
+      363,
+      286
+    ],
+    "mask_pixels": 989,
+    "normalized_sha256": "2f88127a553c3b57c0583f6a4664a2b7d2e5e201d1d4a3c328e0e6dd7c07581d"
+  },
+  {
+    "job_id": "G23",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G23_W.mat",
+    "variable": "BWc",
+    "shape": [
+      363,
+      286
+    ],
+    "mask_pixels": 2472,
+    "normalized_sha256": "e5d845de49be8f11ce1afb5b8d6d6f58a3efe3ea19330b2e83de29ba57357537"
+  },
+  {
+    "job_id": "G23",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G23_W.mat",
+    "variable": "BW",
+    "shape": [
+      363,
+      286
+    ],
+    "mask_pixels": 989,
+    "normalized_sha256": "2f88127a553c3b57c0583f6a4664a2b7d2e5e201d1d4a3c328e0e6dd7c07581d"
+  },
+  {
+    "job_id": "G23",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G23_W.mat",
+    "variable": "BWc",
+    "shape": [
+      363,
+      286
+    ],
+    "mask_pixels": 2472,
+    "normalized_sha256": "e5d845de49be8f11ce1afb5b8d6d6f58a3efe3ea19330b2e83de29ba57357537"
+  },
+  {
+    "job_id": "G24",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G24_B.mat",
+    "variable": "BW",
+    "shape": [
+      494,
+      429
+    ],
+    "mask_pixels": 4433,
+    "normalized_sha256": "94e39c3024996added8d943b457071a49688b7f9ca1105fa115576c81a6b8341"
+  },
+  {
+    "job_id": "G24",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G24_B.mat",
+    "variable": "BWc",
+    "shape": [
+      494,
+      429
+    ],
+    "mask_pixels": 4766,
+    "normalized_sha256": "423e93873fb2e39f36b8cfbbfc5592e450e7a1b810de7756221597c8278af7b8"
+  },
+  {
+    "job_id": "G24",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G24_B.mat",
+    "variable": "BW",
+    "shape": [
+      494,
+      429
+    ],
+    "mask_pixels": 4433,
+    "normalized_sha256": "94e39c3024996added8d943b457071a49688b7f9ca1105fa115576c81a6b8341"
+  },
+  {
+    "job_id": "G24",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G24_B.mat",
+    "variable": "BWc",
+    "shape": [
+      494,
+      429
+    ],
+    "mask_pixels": 4766,
+    "normalized_sha256": "423e93873fb2e39f36b8cfbbfc5592e450e7a1b810de7756221597c8278af7b8"
+  },
+  {
+    "job_id": "G25_1",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G25_1_B.mat",
+    "variable": "BW",
+    "shape": [
+      380,
+      182
+    ],
+    "mask_pixels": 2349,
+    "normalized_sha256": "cd63dcde20b603a83c244b876690e26d8143e0d906da5d72c7d414621420b811"
+  },
+  {
+    "job_id": "G25_1",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G25_1_B.mat",
+    "variable": "BWc",
+    "shape": [
+      380,
+      182
+    ],
+    "mask_pixels": 2865,
+    "normalized_sha256": "720c2679eec8204e1d5cd0ca24cb51633c121ebfa1ad39716feef6c043e70f38"
+  },
+  {
+    "job_id": "G25_1",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G25_1_B.mat",
+    "variable": "BW",
+    "shape": [
+      380,
+      182
+    ],
+    "mask_pixels": 2349,
+    "normalized_sha256": "cd63dcde20b603a83c244b876690e26d8143e0d906da5d72c7d414621420b811"
+  },
+  {
+    "job_id": "G25_1",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G25_1_B.mat",
+    "variable": "BWc",
+    "shape": [
+      380,
+      182
+    ],
+    "mask_pixels": 2865,
+    "normalized_sha256": "720c2679eec8204e1d5cd0ca24cb51633c121ebfa1ad39716feef6c043e70f38"
+  },
+  {
+    "job_id": "G25_2",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G25_2_B.mat",
+    "variable": "BW",
+    "shape": [
+      380,
+      182
+    ],
+    "mask_pixels": 5051,
+    "normalized_sha256": "c75cc15603215b8c40b177744120ee465f8c70712df7c067aaae62503171c787"
+  },
+  {
+    "job_id": "G25_2",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G25_2_B.mat",
+    "variable": "BWc",
+    "shape": [
+      380,
+      182
+    ],
+    "mask_pixels": 5022,
+    "normalized_sha256": "5d9dcd88fc785e1c94c51681b7d22e64f258b3d0d367323fa0dc05e7dd79c812"
+  },
+  {
+    "job_id": "G25_2",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G25_2_B.mat",
+    "variable": "BW",
+    "shape": [
+      380,
+      182
+    ],
+    "mask_pixels": 5051,
+    "normalized_sha256": "c75cc15603215b8c40b177744120ee465f8c70712df7c067aaae62503171c787"
+  },
+  {
+    "job_id": "G25_2",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G25_2_B.mat",
+    "variable": "BWc",
+    "shape": [
+      380,
+      182
+    ],
+    "mask_pixels": 5022,
+    "normalized_sha256": "5d9dcd88fc785e1c94c51681b7d22e64f258b3d0d367323fa0dc05e7dd79c812"
+  },
+  {
+    "job_id": "G26",
+    "role": "avulsion_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G26_B.mat",
+    "variable": "BW",
+    "shape": [
+      165,
+      172
+    ],
+    "mask_pixels": 1058,
+    "normalized_sha256": "1d0cb02b1df3624e5445bd2a63ce0a510273f6102c30356c763dd28d49625b6f"
+  },
+  {
+    "job_id": "G26",
+    "role": "parent_B",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G26_B.mat",
+    "variable": "BWc",
+    "shape": [
+      165,
+      172
+    ],
+    "mask_pixels": 1175,
+    "normalized_sha256": "050468b74d3121665d2b3ac229ae4e902bfd543bb3f83c913d05b131e2e0c29c"
+  },
+  {
+    "job_id": "G26",
+    "role": "avulsion_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_av_G26_B.mat",
+    "variable": "BW",
+    "shape": [
+      165,
+      172
+    ],
+    "mask_pixels": 1058,
+    "normalized_sha256": "1d0cb02b1df3624e5445bd2a63ce0a510273f6102c30356c763dd28d49625b6f"
+  },
+  {
+    "job_id": "G26",
+    "role": "parent_W",
+    "path": "data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/ROI_files/ROI_p_G26_B.mat",
+    "variable": "BWc",
+    "shape": [
+      165,
+      172
+    ],
+    "mask_pixels": 1175,
+    "normalized_sha256": "050468b74d3121665d2b3ac229ae4e902bfd543bb3f83c913d05b131e2e0c29c"
+  }
+]

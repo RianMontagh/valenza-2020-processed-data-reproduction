@@ -1,0 +1,695 @@
+[
+  {
+    "job_id": "V1",
+    "site_id": "V1",
+    "source_row": 2,
+    "manifest": "config/manifests/V1.tsv",
+    "output": "data/derived/V1",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "V4",
+    "site_id": "V4",
+    "source_row": 3,
+    "manifest": "config/manifests/V4.tsv",
+    "output": "data/derived/V4",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "V5_1",
+    "site_id": "V5_1",
+    "source_row": 4,
+    "manifest": "config/manifests/V5_1.tsv",
+    "output": "data/derived/V5_1",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "V5_2",
+    "site_id": "V5_2",
+    "source_row": 5,
+    "manifest": "config/manifests/V5_2.tsv",
+    "output": "data/derived/V5_2",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "V6",
+    "site_id": "V6",
+    "source_row": 6,
+    "manifest": "config/manifests/V6.tsv",
+    "output": "data/derived/V6",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "V7",
+    "site_id": "V7",
+    "source_row": 7,
+    "manifest": "config/manifests/V7.tsv",
+    "output": "data/derived/V7",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "V8",
+    "site_id": "V8",
+    "source_row": 8,
+    "manifest": "config/manifests/V8.tsv",
+    "output": "data/derived/V8",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "V9",
+    "site_id": "V9",
+    "source_row": 9,
+    "manifest": "config/manifests/V9.tsv",
+    "output": "data/derived/V9",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "V10",
+    "site_id": "V10",
+    "source_row": 10,
+    "manifest": "config/manifests/V10.tsv",
+    "output": "data/derived/V10",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "V11",
+    "site_id": "V11",
+    "source_row": 11,
+    "manifest": "config/manifests/V11.tsv",
+    "output": "data/derived/V11",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "V12_1",
+    "site_id": "V12_1",
+    "source_row": 12,
+    "manifest": "config/manifests/V12_1.tsv",
+    "output": "data/derived/V12_1",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "V12_2",
+    "site_id": "V12_2",
+    "source_row": 13,
+    "manifest": "config/manifests/V12_2.tsv",
+    "output": "data/derived/V12_2",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "V12_3",
+    "site_id": "V12_3",
+    "source_row": 14,
+    "manifest": "config/manifests/V12_3.tsv",
+    "output": "data/derived/V12_3",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "V13",
+    "site_id": "V13",
+    "source_row": 15,
+    "manifest": "config/manifests/V13.tsv",
+    "output": "data/derived/V13",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "V14",
+    "site_id": "V14",
+    "source_row": 16,
+    "manifest": "config/manifests/V14.tsv",
+    "output": "data/derived/V14",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "V15",
+    "site_id": "V15",
+    "source_row": 17,
+    "manifest": "config/manifests/V15.tsv",
+    "output": "data/derived/V15",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B1_a",
+    "site_id": "B1",
+    "source_row": 19,
+    "manifest": "config/manifests/B1_a.tsv",
+    "output": "data/derived/B1_a",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B1_b",
+    "site_id": "B1",
+    "source_row": 20,
+    "manifest": "config/manifests/B1_b.tsv",
+    "output": "data/derived/B1_b",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B1_c",
+    "site_id": "B1",
+    "source_row": 21,
+    "manifest": "config/manifests/B1_c.tsv",
+    "output": "data/derived/B1_c",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B1_d",
+    "site_id": "B1",
+    "source_row": 22,
+    "manifest": "config/manifests/B1_d.tsv",
+    "output": "data/derived/B1_d",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B2",
+    "site_id": "B2",
+    "source_row": 23,
+    "manifest": "config/manifests/B2.tsv",
+    "output": "data/derived/B2",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B3",
+    "site_id": "B3",
+    "source_row": 24,
+    "manifest": "config/manifests/B3.tsv",
+    "output": "data/derived/B3",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B4",
+    "site_id": "B4",
+    "source_row": 25,
+    "manifest": "config/manifests/B4.tsv",
+    "output": "data/derived/B4",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B6",
+    "site_id": "B6",
+    "source_row": 26,
+    "manifest": "config/manifests/B6.tsv",
+    "output": "data/derived/B6",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B7",
+    "site_id": "B7",
+    "source_row": 27,
+    "manifest": "config/manifests/B7.tsv",
+    "output": "data/derived/B7",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B8",
+    "site_id": "B8",
+    "source_row": 28,
+    "manifest": "config/manifests/B8.tsv",
+    "output": "data/derived/B8",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B9_a",
+    "site_id": "B9",
+    "source_row": 30,
+    "manifest": "config/manifests/B9_a.tsv",
+    "output": "data/derived/B9_a",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B9_b",
+    "site_id": "B9",
+    "source_row": 31,
+    "manifest": "config/manifests/B9_b.tsv",
+    "output": "data/derived/B9_b",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B9_c",
+    "site_id": "B9",
+    "source_row": 32,
+    "manifest": "config/manifests/B9_c.tsv",
+    "output": "data/derived/B9_c",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B10",
+    "site_id": "B10",
+    "source_row": 34,
+    "manifest": "config/manifests/B10.tsv",
+    "output": "data/derived/B10",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B10_av_b",
+    "site_id": "B10",
+    "source_row": 35,
+    "manifest": "config/manifests/B10_av_b.tsv",
+    "output": "data/derived/B10_av_b",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B10_av_c",
+    "site_id": "B10",
+    "source_row": 36,
+    "manifest": "config/manifests/B10_av_c.tsv",
+    "output": "data/derived/B10_av_c",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B10_p_a",
+    "site_id": "B10",
+    "source_row": 37,
+    "manifest": "config/manifests/B10_p_a.tsv",
+    "output": "data/derived/B10_p_a",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B10_p_b",
+    "site_id": "B10",
+    "source_row": 38,
+    "manifest": "config/manifests/B10_p_b.tsv",
+    "output": "data/derived/B10_p_b",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B11",
+    "site_id": "B11",
+    "source_row": 39,
+    "manifest": "config/manifests/B11.tsv",
+    "output": "data/derived/B11",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B12_a",
+    "site_id": "B12",
+    "source_row": 41,
+    "manifest": "config/manifests/B12_a.tsv",
+    "output": "data/derived/B12_a",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B12_av_a",
+    "site_id": "B12",
+    "source_row": 42,
+    "manifest": "config/manifests/B12_av_a.tsv",
+    "output": "data/derived/B12_av_a",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B12_b",
+    "site_id": "B12",
+    "source_row": 43,
+    "manifest": "config/manifests/B12_b.tsv",
+    "output": "data/derived/B12_b",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B12_p_a",
+    "site_id": "B12",
+    "source_row": 44,
+    "manifest": "config/manifests/B12_p_a.tsv",
+    "output": "data/derived/B12_p_a",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B13",
+    "site_id": "B13",
+    "source_row": 45,
+    "manifest": "config/manifests/B13.tsv",
+    "output": "data/derived/B13",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B14_a",
+    "site_id": "B14",
+    "source_row": 47,
+    "manifest": "config/manifests/B14_a.tsv",
+    "output": "data/derived/B14_a",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B14_b",
+    "site_id": "B14",
+    "source_row": 48,
+    "manifest": "config/manifests/B14_b.tsv",
+    "output": "data/derived/B14_b",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B14_b_onset28",
+    "site_id": "B14",
+    "source_row": 48,
+    "manifest": "config/manifests/B14_b_onset28.tsv",
+    "output": "data/derived/B14_b_onset28",
+    "scenario": "onset28",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "B15",
+    "site_id": "B15",
+    "source_row": 49,
+    "manifest": "config/manifests/B15.tsv",
+    "output": "data/derived/B15",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "H1",
+    "site_id": "H1",
+    "source_row": 50,
+    "manifest": "config/manifests/H1.tsv",
+    "output": "data/derived/H1",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "H2",
+    "site_id": "H2",
+    "source_row": 51,
+    "manifest": "config/manifests/H2.tsv",
+    "output": "data/derived/H2",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "H3",
+    "site_id": "H3",
+    "source_row": 52,
+    "manifest": "config/manifests/H3.tsv",
+    "output": "data/derived/H3",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "H4",
+    "site_id": "H4",
+    "source_row": 53,
+    "manifest": "config/manifests/H4.tsv",
+    "output": "data/derived/H4",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "H5",
+    "site_id": "H5",
+    "source_row": 54,
+    "manifest": "config/manifests/H5.tsv",
+    "output": "data/derived/H5",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "H6",
+    "site_id": "H6",
+    "source_row": 55,
+    "manifest": "config/manifests/H6.tsv",
+    "output": "data/derived/H6",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G1",
+    "site_id": "G1",
+    "source_row": 56,
+    "manifest": "config/manifests/G1.tsv",
+    "output": "data/derived/G1",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G2",
+    "site_id": "G2",
+    "source_row": 57,
+    "manifest": "config/manifests/G2.tsv",
+    "output": "data/derived/G2",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G3",
+    "site_id": "G3",
+    "source_row": 58,
+    "manifest": "config/manifests/G3.tsv",
+    "output": "data/derived/G3",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G4",
+    "site_id": "G4",
+    "source_row": 59,
+    "manifest": "config/manifests/G4.tsv",
+    "output": "data/derived/G4",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G5",
+    "site_id": "G5",
+    "source_row": 60,
+    "manifest": "config/manifests/G5.tsv",
+    "output": "data/derived/G5",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G6",
+    "site_id": "G6",
+    "source_row": 61,
+    "manifest": "config/manifests/G6.tsv",
+    "output": "data/derived/G6",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G7",
+    "site_id": "G7",
+    "source_row": 62,
+    "manifest": "config/manifests/G7.tsv",
+    "output": "data/derived/G7",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G8",
+    "site_id": "G8",
+    "source_row": 63,
+    "manifest": "config/manifests/G8.tsv",
+    "output": "data/derived/G8",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G9",
+    "site_id": "G9",
+    "source_row": 64,
+    "manifest": "config/manifests/G9.tsv",
+    "output": "data/derived/G9",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G10",
+    "site_id": "G10",
+    "source_row": 65,
+    "manifest": "config/manifests/G10.tsv",
+    "output": "data/derived/G10",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G11",
+    "site_id": "G11",
+    "source_row": 66,
+    "manifest": "config/manifests/G11.tsv",
+    "output": "data/derived/G11",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G12",
+    "site_id": "G12",
+    "source_row": 67,
+    "manifest": "config/manifests/G12.tsv",
+    "output": "data/derived/G12",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G13",
+    "site_id": "G13",
+    "source_row": 68,
+    "manifest": "config/manifests/G13.tsv",
+    "output": "data/derived/G13",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G14",
+    "site_id": "G14",
+    "source_row": 69,
+    "manifest": "config/manifests/G14.tsv",
+    "output": "data/derived/G14",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G15",
+    "site_id": "G15",
+    "source_row": 70,
+    "manifest": "config/manifests/G15.tsv",
+    "output": "data/derived/G15",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G16",
+    "site_id": "G16",
+    "source_row": 71,
+    "manifest": "config/manifests/G16.tsv",
+    "output": "data/derived/G16",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G17",
+    "site_id": "G17",
+    "source_row": 72,
+    "manifest": "config/manifests/G17.tsv",
+    "output": "data/derived/G17",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G18",
+    "site_id": "G18",
+    "source_row": 73,
+    "manifest": "config/manifests/G18.tsv",
+    "output": "data/derived/G18",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G19",
+    "site_id": "G19",
+    "source_row": 74,
+    "manifest": "config/manifests/G19.tsv",
+    "output": "data/derived/G19",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G20",
+    "site_id": "G20",
+    "source_row": 75,
+    "manifest": "config/manifests/G20.tsv",
+    "output": "data/derived/G20",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G21",
+    "site_id": "G21",
+    "source_row": 76,
+    "manifest": "config/manifests/G21.tsv",
+    "output": "data/derived/G21",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G22",
+    "site_id": "G22",
+    "source_row": 77,
+    "manifest": "config/manifests/G22.tsv",
+    "output": "data/derived/G22",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G23",
+    "site_id": "G23",
+    "source_row": 78,
+    "manifest": "config/manifests/G23.tsv",
+    "output": "data/derived/G23",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G24",
+    "site_id": "G24",
+    "source_row": 79,
+    "manifest": "config/manifests/G24.tsv",
+    "output": "data/derived/G24",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G25_1",
+    "site_id": "G25_1",
+    "source_row": 80,
+    "manifest": "config/manifests/G25_1.tsv",
+    "output": "data/derived/G25_1",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G25_2",
+    "site_id": "G25_2",
+    "source_row": 81,
+    "manifest": "config/manifests/G25_2.tsv",
+    "output": "data/derived/G25_2",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  },
+  {
+    "job_id": "G26",
+    "site_id": "G26",
+    "source_row": 82,
+    "manifest": "config/manifests/G26.tsv",
+    "output": "data/derived/G26",
+    "scenario": "primary",
+    "notes": "The same supplied ROI geometry is used for both spectral filters; the filename signature does not choose the result."
+  }
+]

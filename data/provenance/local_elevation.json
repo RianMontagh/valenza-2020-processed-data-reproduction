@@ -1,0 +1,23 @@
+[
+  {
+    "url": "https://elevation-tiles-prod.s3.amazonaws.com/skadi/S16/S16W066.hgt.gz",
+    "path": "data/geography/elevation/S16W066.hgt",
+    "sha256": "47a31a9b88423047b477164967fef784566e2c74fb44f3edc0f8a69ec03b219d",
+    "bytes": 25934402,
+    "purpose": "independent elevation measurements; provider terrain product, not author channel slopes"
+  },
+  {
+    "url": "https://elevation-tiles-prod.s3.amazonaws.com/skadi/S17/S17W067.hgt.gz",
+    "path": "data/geography/elevation/S17W067.hgt",
+    "sha256": "dab19e1b112f3a8d63257b03b099a24be5d0a3a9204a8c4882a51110ac6431d4",
+    "bytes": 25934402,
+    "purpose": "independent elevation measurements; provider terrain product, not author channel slopes"
+  },
+  {
+    "url": "https://elevation-tiles-prod.s3.amazonaws.com/skadi/N07/N07W072.hgt.gz",
+    "path": "data/geography/elevation/N07W072.hgt",
+    "sha256": "f271c58bf9ba5209db906fa549c828a6ba3d3efd900411eda1c3f2cf186cfb34",
+    "bytes": 25934402,
+    "purpose": "independent elevation measurements; provider terrain product, not author channel slopes"
+  }
+]

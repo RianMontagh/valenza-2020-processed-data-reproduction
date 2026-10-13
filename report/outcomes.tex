@@ -1,0 +1,38 @@
+We calculated 77 image-part/timing jobs for 63 events.
+63 events have defined style ratios under the stated primary assumptions.
+The calculated range is 0.03879--463.9, from G23
+to B10. Signature selection used the newly calculated avulsion
+areas. It selected brightness for 57 events and
+wetness for 6 events.
+
+Every deposited event mask is named for only one spectral signature. We therefore
+apply both filters to the same supplied geometry, retaining the mask's source name
+only as provenance. This tests numerical signature selection on fixed geometry;
+it cannot recreate a separately redrawn mask for the alternative signature.
+
+The embedded image calendar labels disagree with 33 selected metadata
+labels across 6 jobs. Native band selections
+remain unchanged. The file \texttt{temporal\_labels.csv} records every assignment.
+The unused-input ledger includes B5, which lacks a corresponding selected-window
+record, and extra B10 tiles. No excluded measured result is used to fill these gaps.
+
+The overlap audit identifies 15 site/signature/role combinations with
+duplicate detected pixels. The primary event counts take the spatial union on
+aligned native grids, so a physical pixel is counted once. A separate summed-part
+calculation quantifies the effect of simply adding tile counts. Mosaic colors use
+the maximum per-part detection count in overlaps; heterogeneous windows prevent
+interpreting that color as one uniform observation period.
+
+Across the 146 primary image-part/role windows, the fraction of
+mask pixels observed at least once ranges from 91.59 to 100 percent;
+22 windows have some never-observed pixels. This cumulative
+coverage does not imply full coverage in every year. Missing pixels are not
+filled, and the ratio is not corrected by an assumed missing-area multiplier.
+
+We independently annotated 4 prespecified illustrative events
+(B11, B12, V11 and V15). These are single-date, 30 m observations, not a new
+63-event morphology survey. The elevation exercise produced 2 positive
+slopes meeting the explicit reach-length and sign checks. Widths are wet-pixel
+cross-section estimates with a native pixel scale of 30 m. No mountain-front
+distance was measured. Consequently, the full distance relationship and the
+published population distributions remain unreproduced.

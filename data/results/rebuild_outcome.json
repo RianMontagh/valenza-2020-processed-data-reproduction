@@ -1,0 +1,194 @@
+{
+  "started_utc": "2026-10-13T05:40:20Z",
+  "mode": "cached_inputs",
+  "status": "completed",
+  "steps": [
+    {
+      "command": [
+        "cmake",
+        "-S",
+        ".",
+        "-B",
+        "build"
+      ],
+      "exit_code": 0,
+      "seconds": 0.04577497311402112
+    },
+    {
+      "command": [
+        "cmake",
+        "--build",
+        "build",
+        "-j",
+        "2"
+      ],
+      "exit_code": 0,
+      "seconds": 0.1337844090303406
+    },
+    {
+      "command": [
+        "ctest",
+        "--test-dir",
+        "build",
+        "--output-on-failure"
+      ],
+      "exit_code": 0,
+      "seconds": 0.041377605055458844
+    },
+    {
+      "command": [
+        "/data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python",
+        "tests/check_kernel.py"
+      ],
+      "exit_code": 0,
+      "seconds": 1.835116115049459
+    },
+    {
+      "command": [
+        "/data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python",
+        "tests/check_summaries.py"
+      ],
+      "exit_code": 0,
+      "seconds": 0.13201859802938998
+    },
+    {
+      "command": [
+        "/data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python",
+        "tests/check_mosaic.py"
+      ],
+      "exit_code": 0,
+      "seconds": 0.6561109599424526
+    },
+    {
+      "command": [
+        "/data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python",
+        "scripts/verify_inputs.py"
+      ],
+      "exit_code": 0,
+      "seconds": 49.26119566895068
+    },
+    {
+      "command": [
+        "/data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python",
+        "scripts/terrain.py"
+      ],
+      "exit_code": 0,
+      "seconds": 4.414244059938937
+    },
+    {
+      "command": [
+        "/data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python",
+        "scripts/inventory.py"
+      ],
+      "exit_code": 0,
+      "seconds": 2.23520960600581
+    },
+    {
+      "command": [
+        "/data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python",
+        "scripts/audit_metadata.py"
+      ],
+      "exit_code": 0,
+      "seconds": 0.1600445300573483
+    },
+    {
+      "command": [
+        "/data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python",
+        "scripts/bind_data.py"
+      ],
+      "exit_code": 0,
+      "seconds": 0.2574916830053553
+    },
+    {
+      "command": [
+        "/data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python",
+        "scripts/prepare.py"
+      ],
+      "exit_code": 0,
+      "seconds": 6.752461594995111
+    },
+    {
+      "command": [
+        "/data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python",
+        "scripts/run_analysis.py"
+      ],
+      "exit_code": 0,
+      "seconds": 198.1353498379467
+    },
+    {
+      "command": [
+        "/data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python",
+        "scripts/geometry.py"
+      ],
+      "exit_code": 0,
+      "seconds": 18.05628100503236
+    },
+    {
+      "command": [
+        "/data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python",
+        "scripts/aggregate.py"
+      ],
+      "exit_code": 0,
+      "seconds": 10.666155431070365
+    },
+    {
+      "command": [
+        "/data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python",
+        "scripts/temporal_sensitivity.py"
+      ],
+      "exit_code": 0,
+      "seconds": 20.58022182993591
+    },
+    {
+      "command": [
+        "/data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python",
+        "scripts/check_results.py"
+      ],
+      "exit_code": 0,
+      "seconds": 17.324507383047603
+    },
+    {
+      "command": [
+        "/data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python",
+        "scripts/context_views.py"
+      ],
+      "exit_code": 0,
+      "seconds": 31.711737273959443
+    },
+    {
+      "command": [
+        "/data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python",
+        "scripts/plot.py"
+      ],
+      "exit_code": 0,
+      "seconds": 264.74473713093903
+    },
+    {
+      "command": [
+        "/data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python",
+        "scripts/report_data.py"
+      ],
+      "exit_code": 0,
+      "seconds": 0.1082926889648661
+    },
+    {
+      "command": [
+        "/data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python",
+        "scripts/compile_report.py"
+      ],
+      "exit_code": 0,
+      "seconds": 1.5633217500289902
+    },
+    {
+      "command": [
+        "/data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python",
+        "scripts/manifest.py"
+      ],
+      "exit_code": 0,
+      "seconds": 1.181017455062829
+    }
+  ],
+  "exit_code": 0,
+  "seconds": 629.9971997737885,
+  "finished_utc": "2026-10-13T05:50:50Z"
+}

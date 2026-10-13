@@ -1,0 +1,7 @@
+# Preserve the exact generated CSV bytes (Python CSV uses CRLF by default).
+*.csv -text whitespace=cr-at-eol
+*.tif binary
+*.hgt binary
+*.npz binary
+*.png binary
+*.pdf binary

@@ -1,0 +1,46 @@
+[
+  {
+    "check": "select minimum area, not minimum ratio",
+    "passed": true
+  },
+  {
+    "check": "sum parts before division",
+    "passed": true
+  },
+  {
+    "check": "brightness tie break",
+    "passed": true
+  },
+  {
+    "check": "zero denominator remains undefined",
+    "passed": true
+  },
+  {
+    "check": "incomplete event remains undefined",
+    "passed": true
+  },
+  {
+    "check": "fit subset excludes D/w <= 60",
+    "passed": true
+  },
+  {
+    "check": "exact power law slope",
+    "passed": true
+  },
+  {
+    "check": "exact power law intercept",
+    "passed": true
+  },
+  {
+    "check": "exact power law explained variance",
+    "passed": true
+  },
+  {
+    "check": "quartile convention",
+    "passed": true
+  },
+  {
+    "check": "missing category not filled",
+    "passed": true
+  }
+]

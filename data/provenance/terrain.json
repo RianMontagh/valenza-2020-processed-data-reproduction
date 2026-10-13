@@ -1,0 +1,566 @@
+{
+  "source": "Mapzen/Terrain Tiles, based on public elevation surveys",
+  "purpose": "regional context only; not a substitute for channel-slope measurements",
+  "tiles": [
+    {
+      "path": "data/geography/tiles/7_36_60.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/36/60.tif",
+      "sha256": "4b3d7015cc8c7e3513bb38027e4204f85271af69bb505f7731f9a997b919ede4"
+    },
+    {
+      "path": "data/geography/tiles/7_36_61.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/36/61.tif",
+      "sha256": "2b538f07aef1c4c8e29de62fa13bf561026a7f012355a7c999143e65ddb7ee5e"
+    },
+    {
+      "path": "data/geography/tiles/7_36_62.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/36/62.tif",
+      "sha256": "f3839d158f605561da3bccb31c0d266417cd4929afdb6db2a264fc33beb2a286"
+    },
+    {
+      "path": "data/geography/tiles/7_36_63.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/36/63.tif",
+      "sha256": "933b2a44f9f3cca22b977d66a5f4edb6b55a7d41f5969f92b5416764b729f30f"
+    },
+    {
+      "path": "data/geography/tiles/7_36_64.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/36/64.tif",
+      "sha256": "34c3dfc3a97e8f80b12362fef431030ee0a3836cfd48ce65680bd5663cb94eaa"
+    },
+    {
+      "path": "data/geography/tiles/7_37_60.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/37/60.tif",
+      "sha256": "2fb18b9046de8a178acc13d609ae0168b062add8742e17f6321e527083061ea8"
+    },
+    {
+      "path": "data/geography/tiles/7_37_61.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/37/61.tif",
+      "sha256": "2a25f25ef178397b8e0bd5cc65f702244a518ca1c98c412020174f0f795949ef"
+    },
+    {
+      "path": "data/geography/tiles/7_37_62.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/37/62.tif",
+      "sha256": "d4673e0c63bcec117977c368595209acaefc370ec2a8ac623ed2d3342bfc52b8"
+    },
+    {
+      "path": "data/geography/tiles/7_37_63.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/37/63.tif",
+      "sha256": "a953845fe19ea989ca244e205bb224ccf3a09937cd3f3de679b2623be207ce4c"
+    },
+    {
+      "path": "data/geography/tiles/7_37_64.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/37/64.tif",
+      "sha256": "bfe7910c971f8da036ede74bf4cf257de3bccd5e4909ec0871bba193bd361816"
+    },
+    {
+      "path": "data/geography/tiles/7_38_60.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/38/60.tif",
+      "sha256": "61a5050a4a74d0169193c91e414b79637e9649522e80ae442e59a9d5396d0ed2"
+    },
+    {
+      "path": "data/geography/tiles/7_38_61.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/38/61.tif",
+      "sha256": "9f23c59190d69d4d5b1325c42326b7d37e48a969b61322f3ac6f72e6e684b041"
+    },
+    {
+      "path": "data/geography/tiles/7_38_62.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/38/62.tif",
+      "sha256": "582fd1fa36738b6f9147dad82602c25937f7128a2a4a6bec9e38f0f7eb218dae"
+    },
+    {
+      "path": "data/geography/tiles/7_38_63.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/38/63.tif",
+      "sha256": "571f55cef9262e2dced676a40c8aa702e8aa542dddd4ce8967c92ae5b5a496aa"
+    },
+    {
+      "path": "data/geography/tiles/7_38_64.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/38/64.tif",
+      "sha256": "965f3b7dd11ec1649a6f0342b6051ea94fc9040a73ad9451d58166e3fb17d81b"
+    },
+    {
+      "path": "data/geography/tiles/7_39_60.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/39/60.tif",
+      "sha256": "3665123d299fde3a8b01c2f36d99b2dc75674f8797865971bfe8d5320508e578"
+    },
+    {
+      "path": "data/geography/tiles/7_39_61.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/39/61.tif",
+      "sha256": "77c31f53b44cb74f548e4c2c7d04c455c873518071b2bb9a2c6ab1437342b20d"
+    },
+    {
+      "path": "data/geography/tiles/7_39_62.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/39/62.tif",
+      "sha256": "f698342adf6b438acfb99037a0f9447066510fc997a0733bfc50bac25ff17039"
+    },
+    {
+      "path": "data/geography/tiles/7_39_63.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/39/63.tif",
+      "sha256": "14decb5a62e0b2f0ad578a9d4d55cf43394c456b51fc5459f0d3ef0b613e38ec"
+    },
+    {
+      "path": "data/geography/tiles/7_39_64.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/39/64.tif",
+      "sha256": "e29cd66cee3258c2ed93e0562372e82876e4f84f316bcf2492633a78d76d4ce5"
+    },
+    {
+      "path": "data/geography/tiles/7_39_68.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/39/68.tif",
+      "sha256": "042273f9dd6cb9c1a4b0847c9c9a034a322ae2d73b4d840b5fbb50978bb5cbd6"
+    },
+    {
+      "path": "data/geography/tiles/7_39_69.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/39/69.tif",
+      "sha256": "099dcafdd72b2b1dd5f52d6d537dfde23face762fa9ca426d53b1a02a0c5da09"
+    },
+    {
+      "path": "data/geography/tiles/7_39_70.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/39/70.tif",
+      "sha256": "443a223f3faa65099a0b905c19298952eb8cf2ee9eeb0b71e06687f4cf175782"
+    },
+    {
+      "path": "data/geography/tiles/7_39_71.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/39/71.tif",
+      "sha256": "c447b4718ae01ff2b3fbf52d7ee46e1650960526e8ac8dced9d34e6200c90f11"
+    },
+    {
+      "path": "data/geography/tiles/7_39_72.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/39/72.tif",
+      "sha256": "eb6fa679ff8df27f68f716fe9a91f0e041b9ace6cdc3a3d7693f6eb8ae229e6b"
+    },
+    {
+      "path": "data/geography/tiles/7_40_68.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/40/68.tif",
+      "sha256": "7b1da20149433f82b5d1880a9fcaceb2f83ddfdb00390090345cb4c07f075ff9"
+    },
+    {
+      "path": "data/geography/tiles/7_40_69.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/40/69.tif",
+      "sha256": "b780fabd531b6d697734a3436db37c7a297362160e2fd946d92532fac46d4345"
+    },
+    {
+      "path": "data/geography/tiles/7_40_70.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/40/70.tif",
+      "sha256": "fc936e25ff74f6c8e69e671f42d7acd9e9de2ccd1f64d18b375b59775e73119a"
+    },
+    {
+      "path": "data/geography/tiles/7_40_71.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/40/71.tif",
+      "sha256": "55196a30f1a3d66f2cc1b79bc042164b014fc2e4eace1a2aa87ca5acf9d72915"
+    },
+    {
+      "path": "data/geography/tiles/7_40_72.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/40/72.tif",
+      "sha256": "0877000728c11bc842ecd1e80ef8bfd7d5f3d5335b7e7782d3fe0680d18df300"
+    },
+    {
+      "path": "data/geography/tiles/7_41_68.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/41/68.tif",
+      "sha256": "3d952de72c4e9a0dc6d8c2908b6d1f6d4dc511969e39c13fb0bc52c06f959727"
+    },
+    {
+      "path": "data/geography/tiles/7_41_69.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/41/69.tif",
+      "sha256": "b1796680c597c7d95084418b50dc97d7d9b7ecdad62a410f1c655c9bb6b75c87"
+    },
+    {
+      "path": "data/geography/tiles/7_41_70.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/41/70.tif",
+      "sha256": "2f0a92bdb6076cdcbe6ebaca04b02481b301654bc86be481dc01c7933375398a"
+    },
+    {
+      "path": "data/geography/tiles/7_41_71.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/41/71.tif",
+      "sha256": "b606243407f248f5fb2b356e7ea27da33c5568efe3b7f37447915848ec1a5f4d"
+    },
+    {
+      "path": "data/geography/tiles/7_41_72.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/41/72.tif",
+      "sha256": "72ea227a9de84cbe487df4626182883ca620772105806fce1a0d11031a3a715a"
+    },
+    {
+      "path": "data/geography/tiles/7_42_68.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/42/68.tif",
+      "sha256": "a49d0c5a91ffe4aa6c133a2a99bf2015cbfc332e6e7ee8d0727ff299ef477a5c"
+    },
+    {
+      "path": "data/geography/tiles/7_42_69.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/42/69.tif",
+      "sha256": "741d417f375a6f9c257cfd0ffe897735bc292739f0cb407b43bf37bff153539c"
+    },
+    {
+      "path": "data/geography/tiles/7_42_70.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/42/70.tif",
+      "sha256": "48183da7fa97ea224739d40e1d8ffabd6633adc944e8607855227e1988f7119a"
+    },
+    {
+      "path": "data/geography/tiles/7_42_71.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/42/71.tif",
+      "sha256": "b539b986b31c1c02d73bb6c1acf706659f89e357e6164d4c6994cbaa7b8e8f81"
+    },
+    {
+      "path": "data/geography/tiles/7_42_72.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/42/72.tif",
+      "sha256": "73b16e526e20ab89b04e91a82ae712b5efa0fe42501902225315ab621edbbde5"
+    },
+    {
+      "path": "data/geography/tiles/7_91_52.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/91/52.tif",
+      "sha256": "5d6c90dd94735e9752843a50d37d6b9073e5dd3807d4ae9417e834863244e63c"
+    },
+    {
+      "path": "data/geography/tiles/7_91_53.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/91/53.tif",
+      "sha256": "afc3586c574822382ce3737c749b9da2399b0e7174f695a5ba97d25658b7ff8e"
+    },
+    {
+      "path": "data/geography/tiles/7_91_54.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/91/54.tif",
+      "sha256": "cbc3f80a669c01caa7fd9bb7a64b0fb320e50ab4a14d0635f96bc054464a4e26"
+    },
+    {
+      "path": "data/geography/tiles/7_92_52.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/92/52.tif",
+      "sha256": "1fb5de3c175f2e7942929b6a6d33d54f551052d1caa5c5b019d263a08939ff73"
+    },
+    {
+      "path": "data/geography/tiles/7_92_53.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/92/53.tif",
+      "sha256": "4c232ec93f1d0e366b508a6a7a4c9e3cb8362e69b8227360735668dde4f6c929"
+    },
+    {
+      "path": "data/geography/tiles/7_92_54.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/92/54.tif",
+      "sha256": "1b24482098e5ee7989239a8000cd4f59232966222df412eedf7e5020eba9afdd"
+    },
+    {
+      "path": "data/geography/tiles/7_93_52.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/93/52.tif",
+      "sha256": "87abcf9bdaceeb12681f3af828a2b2dcb1dd84fe94e73b7c394999fdc4742f64"
+    },
+    {
+      "path": "data/geography/tiles/7_93_53.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/93/53.tif",
+      "sha256": "244b8cd000971640be0cf7a42a1953dd7100fb0fed223f41bcde9045a4580f37"
+    },
+    {
+      "path": "data/geography/tiles/7_93_54.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/93/54.tif",
+      "sha256": "734a54a9ad95b23fbf9ea84deac276c0ff8d627ba940b3f40a14a5453c1579f0"
+    },
+    {
+      "path": "data/geography/tiles/7_94_52.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/94/52.tif",
+      "sha256": "ca53dbd752d5af0fdbdca366ea25c9b6bd1cc75ec08165fe5038f08e5565fc6c"
+    },
+    {
+      "path": "data/geography/tiles/7_94_53.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/94/53.tif",
+      "sha256": "ebc3c0e0bf5d34d7d171467fa6d2bf0b301aa38c64ade286bdf555283ac99ceb"
+    },
+    {
+      "path": "data/geography/tiles/7_94_54.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/94/54.tif",
+      "sha256": "96667602c8b67e20af69cd0a1a072f4c7ea89d907e76168fb786078590bb9ac5"
+    },
+    {
+      "path": "data/geography/tiles/7_95_52.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/95/52.tif",
+      "sha256": "52a907149e0066f86714fb399f38c79f7ac2115c7afe4a8acd3a165395083cc7"
+    },
+    {
+      "path": "data/geography/tiles/7_95_53.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/95/53.tif",
+      "sha256": "64c664bebafbadb6a1e7ea802b471269d6c33eec9f56ec5d54a0d9f7d95f9d04"
+    },
+    {
+      "path": "data/geography/tiles/7_95_54.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/95/54.tif",
+      "sha256": "f8e3529fd6a4393ae005a8628ae536308c8590408d217c4f6ed06201956eb37b"
+    },
+    {
+      "path": "data/geography/tiles/7_96_52.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/96/52.tif",
+      "sha256": "39f4859efc9ed4adf6baf17975d034a54618be436bd7fb90db421c60b40e2474"
+    },
+    {
+      "path": "data/geography/tiles/7_96_53.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/96/53.tif",
+      "sha256": "9f5eda2a22a4adb90a13c846b4c21c6c87495d6296165a50095811183efed0dc"
+    },
+    {
+      "path": "data/geography/tiles/7_96_54.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/96/54.tif",
+      "sha256": "795e5ef079e57e2d5e95e138a57e0c94165c730c3dcdd5bcd65a1d6696109295"
+    },
+    {
+      "path": "data/geography/tiles/7_97_52.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/97/52.tif",
+      "sha256": "18420b079a4459e42358c0a61937885000a63ac2856ec0e480d0440dec0f8848"
+    },
+    {
+      "path": "data/geography/tiles/7_97_53.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/97/53.tif",
+      "sha256": "4628b8ef75df42312d501a58fcfc64e3daf82eca4a673d5ede55438028392ee4"
+    },
+    {
+      "path": "data/geography/tiles/7_97_54.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/97/54.tif",
+      "sha256": "5db7fea02839ba2173f3e5759229a28afedcddb6001d681a5cace9dae60b3c58"
+    },
+    {
+      "path": "data/geography/tiles/7_98_52.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/98/52.tif",
+      "sha256": "0c0729c85a493a2094bf90458502d4a9ff33efafb7877e51541152e1847a84f3"
+    },
+    {
+      "path": "data/geography/tiles/7_98_53.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/98/53.tif",
+      "sha256": "7b425792dfd8b11b5eb7cc2c0b7f78f252bc21b5076660834cad9df56e281549"
+    },
+    {
+      "path": "data/geography/tiles/7_98_54.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/98/54.tif",
+      "sha256": "4ce8513ff28782f7530a58f3223f164f50cf99e859b36e5594106c47bb297407"
+    },
+    {
+      "path": "data/geography/tiles/7_99_52.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/99/52.tif",
+      "sha256": "a8e454c06af2c115632097746e6018b0ec5d53b44b93847a3e7137da4e2feaa7"
+    },
+    {
+      "path": "data/geography/tiles/7_99_53.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/99/53.tif",
+      "sha256": "5b43cc6ce237c32f7072ec3321905d92c04cfcb09a1cabbb3654483ddcb1ab53"
+    },
+    {
+      "path": "data/geography/tiles/7_99_54.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/99/54.tif",
+      "sha256": "c730ebe9812b1961a1e97d9d604cab4c869030397a587321ff238bf3d087c931"
+    },
+    {
+      "path": "data/geography/tiles/7_109_63.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/109/63.tif",
+      "sha256": "a0b75367cc58e28c9b02e0d4c218e279de5cea859fb4e80fff9548b2831687a8"
+    },
+    {
+      "path": "data/geography/tiles/7_109_64.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/109/64.tif",
+      "sha256": "92ccbaef6535fb91b0a9e2838dd99977795a0d3d52bd427227386f7a4d824509"
+    },
+    {
+      "path": "data/geography/tiles/7_109_65.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/109/65.tif",
+      "sha256": "3e48004aff3bd4ebb551e8ee260a23d758dfa033c4db8e80ad1c1f0a445b0d42"
+    },
+    {
+      "path": "data/geography/tiles/7_109_66.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/109/66.tif",
+      "sha256": "4c52068305cd85aaa2cae61d773096a1ecb49fd7e63abff47631b576e548d102"
+    },
+    {
+      "path": "data/geography/tiles/7_109_67.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/109/67.tif",
+      "sha256": "dd2f621f5f0e8c619c6507ba336701d14b30fb9942250f0342dd80560f3afe99"
+    },
+    {
+      "path": "data/geography/tiles/7_110_63.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/110/63.tif",
+      "sha256": "a9bb1a28b6acd14a4bf7d5cd41854c4d879d9d2804716387a5424c0d403e9648"
+    },
+    {
+      "path": "data/geography/tiles/7_110_64.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/110/64.tif",
+      "sha256": "ab52000d4d4c6bdc0ce83b564e34940b07552553013187b6053ab8a613acbcf8"
+    },
+    {
+      "path": "data/geography/tiles/7_110_65.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/110/65.tif",
+      "sha256": "1a0445f28b884bbaa57024733788ff3456bef0dd88a133ba5179e8b08bd417d7"
+    },
+    {
+      "path": "data/geography/tiles/7_110_66.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/110/66.tif",
+      "sha256": "90f95cc96418ca2fc6fe280f71aa51c1ce23e578c4b86b9d224bf0ce2e168335"
+    },
+    {
+      "path": "data/geography/tiles/7_110_67.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/110/67.tif",
+      "sha256": "e88cea2fa8f8fcb08e2c302b30f7bc14c433ecae3caaf38aa702c6b091707ae5"
+    },
+    {
+      "path": "data/geography/tiles/7_111_63.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/111/63.tif",
+      "sha256": "6bea4e8ff22a9f747bb9b37839a92b021b1de191fe176dd57864d510c46b4106"
+    },
+    {
+      "path": "data/geography/tiles/7_111_64.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/111/64.tif",
+      "sha256": "11dec23f6f4c492bf913dbc04443c26dd7f91b4b09f40809316b38af40feacf1"
+    },
+    {
+      "path": "data/geography/tiles/7_111_65.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/111/65.tif",
+      "sha256": "2b29d79a289c8d3fb87394d10293d8edeeed07dce0a0ac3b8cd5cf59b1bca0b7"
+    },
+    {
+      "path": "data/geography/tiles/7_111_66.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/111/66.tif",
+      "sha256": "dce60198bf78968095a5305e4e760d3f5e0e05cb7594835330cf2f312395b87b"
+    },
+    {
+      "path": "data/geography/tiles/7_111_67.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/111/67.tif",
+      "sha256": "04fe65fa36635f7a6c660b3fc510947c9aeed8500a0442d269d521af3e91bafc"
+    },
+    {
+      "path": "data/geography/tiles/7_112_63.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/112/63.tif",
+      "sha256": "06e363dd9244180a57d31dc0fe8c041cf43bab4f0d52f819d819efcd73451dc3"
+    },
+    {
+      "path": "data/geography/tiles/7_112_64.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/112/64.tif",
+      "sha256": "f7c264b27323b8c11b49346ea705c5d1a362fce20aeeb06e4d5a534c8d0bcd3c"
+    },
+    {
+      "path": "data/geography/tiles/7_112_65.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/112/65.tif",
+      "sha256": "73be989ec487313aeb28c452f219db297e5c646066c8dd8a621552bdbf911e06"
+    },
+    {
+      "path": "data/geography/tiles/7_112_66.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/112/66.tif",
+      "sha256": "78c2c72efe9da74ee40c67cc8d9a97a75bdbc5a8124020626d8662ed603c389c"
+    },
+    {
+      "path": "data/geography/tiles/7_112_67.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/112/67.tif",
+      "sha256": "c768a7ddd0231178e2e07e51a9e534bbca708cbc021e126e64fec0cb26c51310"
+    },
+    {
+      "path": "data/geography/tiles/7_113_63.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/113/63.tif",
+      "sha256": "b3f5751965a4aa5820a741bab507d39098de02f7a46d92088db4ce290ef721a3"
+    },
+    {
+      "path": "data/geography/tiles/7_113_64.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/113/64.tif",
+      "sha256": "50b7c5caabd30500a88469aef62a12af08c27c201c7cc95684cfb22e9aa20a74"
+    },
+    {
+      "path": "data/geography/tiles/7_113_65.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/113/65.tif",
+      "sha256": "a43edab2fe5d79344867bfc363ad5f0f7429c3d4200419eaa3bd09b33e7a3e19"
+    },
+    {
+      "path": "data/geography/tiles/7_113_66.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/113/66.tif",
+      "sha256": "2a4f6699261bef527dc3b275f466075c7086e41888814edda20004260410f9da"
+    },
+    {
+      "path": "data/geography/tiles/7_113_67.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/113/67.tif",
+      "sha256": "05325176b6b4f74d2986ebfb1ef3c272eb3018d3147c34d77b431d3de8d9b13b"
+    },
+    {
+      "path": "data/geography/tiles/7_114_63.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/114/63.tif",
+      "sha256": "ab0d8c16ddd9c4b6bc2a9be3ef1389fa44214844bdf3f88726fd5e20d83f0d5e"
+    },
+    {
+      "path": "data/geography/tiles/7_114_64.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/114/64.tif",
+      "sha256": "5c59121e7ca6166d0a481dd9c8660cdb0dbe937e8267872969d71e5ab89a40dc"
+    },
+    {
+      "path": "data/geography/tiles/7_114_65.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/114/65.tif",
+      "sha256": "f43aaf97639f0bd2dcd0355f3c7df7fb1363495a27094369e8a8dcea0f1bd25f"
+    },
+    {
+      "path": "data/geography/tiles/7_114_66.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/114/66.tif",
+      "sha256": "9ad2dfc85d100a10f04c4faf832d65ebdb16b01dfd9b46fd96f1101b1a3c3654"
+    },
+    {
+      "path": "data/geography/tiles/7_114_67.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/114/67.tif",
+      "sha256": "7d388259044eb1902e814f3a5e8eb3e363d82f3ea473b11681f091ce8639e12e"
+    },
+    {
+      "path": "data/geography/tiles/7_115_63.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/115/63.tif",
+      "sha256": "b959cec45cd4ad6e82fbe3ba420cc9fadc45c67f9ac8db30993feb31664e8c4d"
+    },
+    {
+      "path": "data/geography/tiles/7_115_64.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/115/64.tif",
+      "sha256": "7f5d0c91b32c2d7178cd0415a05ffc53a624f57de91bb57af21a9af88298e872"
+    },
+    {
+      "path": "data/geography/tiles/7_115_65.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/115/65.tif",
+      "sha256": "fadbad560ad1c054429ec406698ee0e9d8cf116d9d101516b62e6fdf5aa8dafe"
+    },
+    {
+      "path": "data/geography/tiles/7_115_66.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/115/66.tif",
+      "sha256": "caa2a98996a36fd67bd9d4354fd690de5aa65f9f08c3f1b95608c2d5091379cc"
+    },
+    {
+      "path": "data/geography/tiles/7_115_67.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/115/67.tif",
+      "sha256": "5fe47986f9dc8234322a5e97a89a01045cb58de75e00142b909ec00a03404533"
+    },
+    {
+      "path": "data/geography/tiles/7_116_63.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/116/63.tif",
+      "sha256": "699a6362a93e45fd82a1d3d2cd71a2904fa05f012e055e8df7306e27972d374f"
+    },
+    {
+      "path": "data/geography/tiles/7_116_64.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/116/64.tif",
+      "sha256": "e102cdd6b1199ced6138e33b0c837f009418cb94d07ed10bcf1dab24901099b6"
+    },
+    {
+      "path": "data/geography/tiles/7_116_65.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/116/65.tif",
+      "sha256": "9e777cd61a7f2b1865289201549564480921bda4d2f66cb36b06cdf76111948c"
+    },
+    {
+      "path": "data/geography/tiles/7_116_66.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/116/66.tif",
+      "sha256": "ad688ae69e3e09cf1f8e088e8137f92b63012c1268a2f9dfd7494a27a4e9896e"
+    },
+    {
+      "path": "data/geography/tiles/7_116_67.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/116/67.tif",
+      "sha256": "a80d8e838cba21ed716619506db37bc4c1693e71db0123aa3c7f56549324a924"
+    },
+    {
+      "path": "data/geography/tiles/7_117_63.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/117/63.tif",
+      "sha256": "7fe0737f220abf77ce05fffb4c8cf21fbc65675df40e667bbfbfb84ddaff1c38"
+    },
+    {
+      "path": "data/geography/tiles/7_117_64.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/117/64.tif",
+      "sha256": "5c9c77187f2fbb0b73e194b770a57d446686fea55c4c829f852367a4b9aa719d"
+    },
+    {
+      "path": "data/geography/tiles/7_117_65.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/117/65.tif",
+      "sha256": "5268f9eb9d5e5c79a4aaa892868183b67c5623604123394ea28db52b9695b2aa"
+    },
+    {
+      "path": "data/geography/tiles/7_117_66.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/117/66.tif",
+      "sha256": "0816c156dc67949c11c9f076e1993d8652e6bd47ae2f28301a1916cc1b1c200a"
+    },
+    {
+      "path": "data/geography/tiles/7_117_67.tif",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/geotiff/7/117/67.tif",
+      "sha256": "8f0e8449de9a48d96aaf29f0481587312b29a50d4456be368a2db5a504e8b3b3"
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+\documentclass[11pt]{article}
+\usepackage[margin=0.85in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern,amsmath,graphicx,booktabs,longtable,xcolor,hyperref,microtype}
+\hypersetup{colorlinks=true,linkcolor=blue,urlcolor=blue,citecolor=blue,
+pdftitle={River-avulsion fingerprints from published image stacks and channel masks},
+pdfauthor={Independent computational reproduction}}
+\DisableLigatures{encoding=*,family=tt*}
+\setlength{\parskip}{5pt}
+\setlength{\parindent}{0pt}
+\newcommand{\SR}{S_{\mathrm R}}
+\newcommand{\figurefile}[3]{\IfFileExists{../figures/#1.pdf}{\begin{figure}[p]\centering
+\includegraphics[width=\linewidth,height=.80\textheight,keepaspectratio]{../figures/#1.pdf}
+\caption{#2}\label{#3}\end{figure}}{}}
+\title{River-avulsion fingerprints from published image stacks and channel masks}
+\author{Independent computational reproduction of Valenza et al. (2020)}
+\date{October 2026}
+\begin{document}
+\maketitle
+\begin{abstract}
+River avulsions disturb different amounts of floodplain while establishing a
+new flow path. Valenza et al. (2020) quantify this disturbance using annual
+satellite observations and manually delineated channel masks. Here we test
+the downstream calculation using the published processed images and masks,
+with an independent C++ implementation and original plotting scripts.
+This experiment accepts the authors' preprocessing and delineation as input;
+it tests the subsequent spectral filtering, temporal accumulation and area
+ratio calculation. Published measurements of channel geometry and morphology
+are excluded from the analysis inputs. \input{abstract_results.tex}
+The panel ledger and execution record identify the limits of this result. A successful software build
+does not by itself establish reproduction of the scientific results.
+\end{abstract}
+
+\section{Question and scope}
+The observable is the area of floodplain activity associated with channel
+relocation. Its normalization by the area of the former channel defines a
+dimensionless avulsion style ratio. A large ratio indicates a large disturbed
+area relative to that channel; it does not by itself establish the mechanism
+responsible for the disturbance.
+
+The previous exercise began with independently acquired Landsat observations.
+This exercise begins with the processed image stacks and parent/avulsion masks
+deposited by Valenza and colleagues. The scientific specifications remain the
+paper and its written supplementary material. No author MATLAB, Earth Engine,
+analysis or plotting script is opened or executed. No published plot is
+digitized, and no published figure is substituted for a generated result.
+
+The user also permitted interpretation metadata: site identities and
+coordinates, band/year mappings, selected bands and event-onset indices.
+Published widths, slopes, distances, morphology classes, fingerprint areas,
+style ratios and signature choices remain excluded from analysis inputs.
+The metadata extractor reads only the authorized spreadsheet columns and
+retains their source-row numbers. It does not retain the source workbook.
+
+Independence is limited to the downstream implementation. The accepted masks
+contain the authors' observational judgments about event extent and unrelated
+water bodies. The processed images contain their cloud screening, annual
+compositing and tasseled-cap transformation. Those operations are not newly
+validated by matching a downstream fingerprint. Published numerical values
+were seen during the earlier feasibility discussion and while extracting the
+supplement as text. They were not copied into analysis inputs or used to tune
+thresholds, windows or masks. This is not a blinded experiment.
+
+\section{Data and mathematical specification}
+The institutional archive supplies annual brightness, greenness and wetness
+GeoTIFF stacks, together with region-of-interest masks. The archive period is
+1986--2017. The paper describes Landsat observations with nominal 30 m sampling.
+We preserve each supplied grid rather than silently imposing a different one.
+The figure captions distinguish these accepted observations from quantities
+calculated by the new implementation.
+
+\subsection{Annual classification}
+Let $B_y(x)$, $G_y(x)$ and $W_y(x)$ be the three transformed components at
+pixel $x$ in annual layer $y$. We retain pixels with valid finite values in
+all three components. File-defined nodata and validity masks are respected;
+a finite zero is not automatically treated as missing. Across the retained
+pixels in each complete image domain, calculate
+\begin{align}
+ I_{B,y}(x)&=\mathbf{1}\{B_y(x)>Q_{0.90}(B_y)\}
+                  \mathbf{1}\{G_y(x)<Q_{0.50}(G_y)\},\\
+ I_{W,y}(x)&=\mathbf{1}\{W_y(x)>Q_{0.75}(W_y)\}
+                  \mathbf{1}\{G_y(x)<Q_{0.50}(G_y)\}.
+\end{align}
+Here $Q_p$ is the sample percentile. These rules identify unusually bright
+or wet surfaces with low greenness. Both inequalities are strict. A constant
+scene therefore contributes no detections.
+
+We use linear interpolation at index $(n-1)p$ in a zero-indexed sorted sample
+of $n$ valid values, retaining the convention used in the first exercise.
+The written description does not specify a percentile interpolation rule.
+The thresholds are recalculated from the supplied annual images and are
+saved with valid-pixel and detection counts. They are not fitted to published
+areas or ratios.
+
+\subsection{Temporal accumulation and area}
+For a signature $s$ and a channel region $r$, calculate
+\begin{equation}
+ F_{r,s}(x)=M_{r,s}(x)\sum_{y\in\mathcal{Y}_r} I_{s,y}(x),\qquad
+ N_{r,s}=\sum_x\mathbf{1}\{F_{r,s}(x)>0\}.
+\end{equation}
+The accepted binary mask $M$ restricts activity to the indicated channel
+region. A pixel detected in several years contributes once to the area
+count, while its cumulative raster value records the number of detections.
+We also save the number of valid observation years at each masked pixel.
+Thus missing observations remain distinguishable from observed absence.
+
+For a complete event, the style ratio is
+\begin{equation}
+ S_{\mathrm R,s}=\frac{N_{\mathrm{avulsion},s}}{N_{\mathrm{parent},s}}.
+\end{equation}
+A zero parent count gives an undefined ratio. Where both signatures have
+adequate input coverage, the selected signature minimizes the avulsion
+fingerprint area. This differs from minimizing the ratio when the parent
+counts differ. Exact ties select brightness, consistent with the first
+exercise. Both signature-specific counts remain available for inspection.
+
+Pixel counts follow the published definition. The determinant of the image
+transform is recorded as a native-coordinate pixel area. An angular pixel
+area is not interpreted as square metres. Multiple image parts require
+explicit accounting before their counts can be combined; overlap and missing
+parts must not silently inflate or truncate an event.
+
+\subsection{Time-window interpretation}
+The authorized metadata provide a list of selected native bands and the
+position of the onset of avulsion activity. The onset index refers to the
+selected list, as shown by cases whose onset index does not occur in the
+native-band list. With layers ordered from newest to oldest, positions up
+to and including the onset index form the avulsion window; older positions
+form the parent window. This interpretation is inferred from the written
+metadata, without consulting the authors' program.
+
+Some year labels disagree with the selected bands. These inconsistencies
+are preserved in an audit table. Native band indices define the numerical
+calculation; unresolved calendar labels are not silently replaced. Multiple
+onset indices require separate timing scenarios. The exact band assignments
+and any additional decisions are saved with the configuration.
+
+\IfFileExists{metadata_notes.tex}{\input{metadata_notes.tex}}{}
+
+\subsection{Geometry and statistical relationships}
+The paper's other observables are average channel width near the avulsion
+site, along-channel distance to a physiographically identified mountain
+front, parent-channel slope along a sufficiently long reach, and flow-thread
+counts at multiple cross sections. The reported slope measurements usually
+span 5--10 km and sometimes longer. A mask surrounding a channel is not a
+measurement of these quantities.
+
+The statistical implementation accepts independently documented geometry,
+calculates normalized distance $D/w$, and fits a line in logarithmic space
+using only $D/w>60$. Log-space ordinary least squares is an explicit
+assumption because the paper does not fully specify its regression
+convention. Group summaries use linearly interpolated quartiles and range
+whiskers. Missing measurements remain absent. A spectral footprint alone
+does not determine a channel's morphology class.
+
+The four illustrative geometry observations are saved as explicit pixel-space
+annotations. Width sampling integrates the wet-pixel intersections of three
+short cross sections per event; a 1 m integration interval does not improve
+the 30 m image resolution. A section must have valid observations and leave
+the wet region at both ends. We assign a coarse morphology class only from
+the independently recorded visible flow-thread counts. These observations
+are single-date examples and may miss narrow threads.
+
+We traced three example parent-channel or channel-belt centerlines before
+calculating style ratios, sampled independently acquired Terrain Tiles
+elevation at 30 m intervals, and estimated downstream slope by ordinary
+least squares. We also save endpoint slopes. The illustrative logarithmic
+comparison retains only profiles at least 5 km long with complete terrain
+support and positive slope under both estimates. All attempted estimates,
+including rejected ones, remain in the geometry table. This explicit
+screen is a limited consistency check, not an elevation-error model.
+Vegetation, DEM source differences, centerline placement and the short
+sample prevent equating these estimates to the paper's slope measurements.
+
+\section{Calculated results and panel assessment}
+\input{outcomes.tex}
+
+\figurefile{fig1}{Reconstructed geographic site distributions for (a) the
+northern Andes, (b) the central Andes, (c) the Himalaya and (d) New Guinea.
+Coordinates are permitted source metadata; the terrain background comes
+from the independent public terrain acquisition used in the first exercise.
+B15 is included in this map. The map reproduces geographic content rather
+than the publication's exact cartographic design.}{fig:locations}
+\figurefile{fig1_locator}{Global study-site positions on geographic axes.
+The continental outline is independent Natural Earth vector data. This
+generated locator uses a simpler design than the published inset.}{fig:locator}
+\figurefile{recomputed_ratios}{Style ratios calculated from the supplied
+image stacks and masks by the new implementation. Each point is an event
+with a defined ratio; sorting uses the computed ratio. Color denotes the
+geographic prefix. The dashed line denotes equal avulsion and parent counts.
+This additional diagnostic is not a substitute for the paper's geometry or
+morphology relationships.}{fig:ratios}
+\figurefile{fig2ab}{B12 full-event cumulative mosaic and illustrative detail from saved
+independent calculations. Color measures the number of detected years.
+Dashed contours, where present, outline the calculated parent fingerprint.
+The input images and region masks are supplied data. Exact spatial and
+temporal correspondence with the publication is not established: the full
+mosaic is larger than the published central-part view, and the selected
+detail is not the original validation window. Mosaic colors take the
+maximum per-part count in overlaps.}{fig:b12}
+\figurefile{fig2c}{Attempted annual counterparts for Figure 2c. The lower
+row shows independently recomputed detections within the accepted avulsion
+mask. The upper row records the availability of the separate high-resolution
+validation observations. This independently chosen detail differs from the
+published validation window, so these panels do not reproduce that
+validation comparison. No published image is inserted as a replacement.}{fig:b12annual}
+\figurefile{fig3}{Attempt to calculate the published style-ratio relationships.
+Only independently documented geometry can define the horizontal coordinates.
+An absence notice denotes an unreproduced relationship, not a null result.}{fig:relationships}
+\figurefile{fig4}{Attempt to reconstruct style-ratio distributions by
+independently measured morphology. Where data exist, boxes show quartiles
+and whiskers show the full range. Missing classifications are not inferred
+from the desired style ratio.}{fig:morphology}
+\figurefile{fig5ce}{Independent fingerprint calculations for the two Sarare
+events used in Figure 5. Color denotes detected years; dashed parent contours
+are calculated from the corresponding observations. The accepted masks
+remove the need for new manual event delineation in this exercise.}{fig:sarare}
+\figurefile{fig5_context}{Generated context views for the Sarare events.
+Tasseled-cap components are displayed as false color where available and
+are explicitly distinguished from the paper's Google Earth imagery.}{fig:sararecontext}
+\figurefile{fig5a}{Independent geographic locator for the two Sarare events.
+The river course between the two deposited image domains has not been
+traced, limiting correspondence to Figure 5a.}{fig:sararelocator}
+\figurefile{geometry_observations}{Four independent illustrative observations.
+Yellow lines mark the three width and flow-thread cross sections. Orange
+lines mark the traced parent-channel or channel-belt centerline where one
+was recorded. Backgrounds show the supplied TCT components with a
+2--98 percent display stretch. Axes are native pixel coordinates; the
+annotations and all derived measurements are saved separately.}{fig:geometry}
+\figurefile{supp1}{Temporal context for B12. These views use the supplied
+tasseled-cap components with a documented common display stretch. They are
+not reconstructed conventional RGB photographs.}{fig:s1}
+\figurefile{supp2}{Independent B11 fingerprint and detail, with the separate
+high-resolution validation slot identified. Color records detected years.}{fig:s2}
+\figurefile{supp3a}{Attempted slope distributions by independently measured
+channel morphology. Missing observations are identified explicitly.}{fig:s3a}
+\figurefile{supp3b}{Attempted normalized-distance distributions by
+independently measured channel morphology.}{fig:s3b}
+\clearpage
+
+\section{Implementation, validation and reproducibility}
+The C++17 implementation uses GDAL for raster input and output. Numerical
+operations are implemented directly: percentile selection, strict spectral
+classification, temporal accumulation, union counts, ratio selection and
+statistical summaries. Python handles the authorized metadata, data-format
+conversion, original plotting and report assembly. No author's program is
+a build dependency.
+
+Analytical checks cover constant scenes, missing values, singleton samples
+and known quantiles. Separate raster tests exercise nodata, binary masks,
+multiple years, temporal unions and rejection of shifted grids. Additional
+checks use known multi-part totals and exact power-law relationships to
+test signature selection and regression. These artificial fixtures are
+software validation cases, never study data or manuscript results.
+
+Real-data checks independently sum saved annual detections and compare the
+result with the C++ cumulative rasters. They verify that detections are
+binary, fingerprints do not exceed valid observation years, and saved pixel
+counts agree with the rasters. These checks establish arithmetic consistency;
+they cannot independently validate the supplied masks or observational
+interpretation.
+
+\IfFileExists{execution.tex}{\input{execution.tex}}{}
+
+All project files, dependencies and caches are kept under a selected
+\texttt{/data/data[n]} directory. The institutional raw archive is retrieved
+through a documented download step and is not a substitute for saved
+generated outputs. Input hashes, file inventories, configuration and commands
+are retained. The README gives the exact complete rebuild procedure and
+distinguishes a computation using cached inputs from a new download.
+
+\section{Limits of the inference}
+Accepting processed imagery and channel masks removes several decisions
+that constrained the first exercise. Agreement after this input boundary
+would test downstream numerical operations, while leaving the correctness
+of the authors' preprocessing and manual masks outside the experiment.
+Disagreement may arise from documented ambiguities in percentile conventions,
+selected-band metadata, temporal splits, mask correspondence or multi-part
+accounting. These alternatives should be assessed through explicit
+sensitivity calculations, not by choosing the variant closest to a published
+ratio.
+
+The core physical interpretation additionally depends on channel geometry
+and morphology. Recomputed fingerprints cannot establish those relationships
+without the corresponding independent observations. The panel ledger
+therefore separates calculation, partial correspondence and missing results.
+\IfFileExists{comparison.tex}{\input{comparison.tex}}{}
+
+\appendix
+\section{Figure-by-figure record}
+\IfFileExists{panel_ledger.tex}{\input{panel_ledger.tex}}{}
+\section{Computed event table}
+\IfFileExists{event_table.tex}{\input{event_table.tex}}{}
+\section{Independent illustrative geometry}
+\IfFileExists{geometry_table.tex}{\input{geometry_table.tex}}{}
+
+\begin{thebibliography}{9}
+\bibitem{valenza} Valenza, J. M., Edmonds, D. A., Hwang, T. and Roy, S. (2020).
+Downstream changes in river avulsion style are related to channel morphology.
+\emph{Nature Communications} 11, 2116.
+\url{https://doi.org/10.1038/s41467-020-15859-9}.
+\bibitem{archive} Valenza, J., Edmonds, D., Hwang, T. and Roy, S. (2020).
+Downstream changes in river avulsion style are related to channel morphology:
+Data and Scripts. Indiana University DataCORE.
+\url{https://hdl.handle.net/2022/25284};
+\url{https://datacore.iu.edu/concern/data_sets/4x51hk339}.
+Only the processed imagery, masks and permitted interpretation metadata
+are inputs to this experiment.
+\bibitem{terrain} Terrain Tiles public elevation archive. Provider
+attribution and source metadata are recorded in
+\texttt{data/provenance/terrain.json}.
+\url{https://registry.opendata.aws/terrain-tiles/}.
+\bibitem{land} Natural Earth, 1:110 million land polygons.
+\url{https://www.naturalearthdata.com/downloads/110m-physical-vectors/110m-land/}.
+Downloaded file identity is recorded in \texttt{data/provenance/land.json}.
+\bibitem{first} First independent reproduction, source and compiled report:
+\url{https://github.com/RianMontagh/valenza-2020-independent-reproduction}.
+\end{thebibliography}
+\end{document}

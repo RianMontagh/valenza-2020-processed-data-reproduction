@@ -1,0 +1,22 @@
+{
+  "change": "PDF visual review: start geometry-table explanatory text on its own paragraph. Numerical inputs and results unchanged.",
+  "steps": [
+    {
+      "command": [
+        "/usr/bin/python3.11",
+        "scripts/report_data.py"
+      ],
+      "exit_code": 0,
+      "seconds": 0.10234352899715304
+    },
+    {
+      "command": [
+        "/usr/bin/python3.11",
+        "scripts/compile_report.py"
+      ],
+      "exit_code": 0,
+      "seconds": 1.5492004050174728
+    }
+  ],
+  "status": "completed"
+}

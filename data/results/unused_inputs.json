@@ -1,0 +1,16 @@
+{
+  "unused_files": [
+    "TC_B10_av_a_B.tif",
+    "TC_B10_av_a_G.tif",
+    "TC_B10_av_a_W.tif",
+    "TC_B10_av_d_B.tif",
+    "TC_B10_av_d_G.tif",
+    "TC_B10_av_d_W.tif",
+    "TC_B5_B.tif",
+    "TC_B5_G.tif",
+    "TC_B5_W.tif",
+    "ROI_av_B5_W.mat",
+    "ROI_p_B5_W.mat"
+  ],
+  "reason": "No corresponding permitted time-window metadata. No windows inferred from excluded results."
+}

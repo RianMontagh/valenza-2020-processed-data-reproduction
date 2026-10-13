@@ -1,0 +1,5 @@
+role,signature,mask_pixels,observed_mask_pixels,fingerprint_pixels,pixel_area_native
+avulsion,B,25657,25657,1931,900
+parent,B,21900,21900,2395,900
+avulsion,W,25657,25657,13721,900
+parent,W,21900,21900,7801,900

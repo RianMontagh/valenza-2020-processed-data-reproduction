@@ -1,0 +1,13 @@
+site_id,year,section,wet_width_m,step_m,visually_resolved_threads,valid,note
+B11,1991,1,nan,1.0,1,0,1m sampling integrates30m pixel cells; it does not create1m resolution.
+B11,1991,2,60.0,1.0,1,1,1m sampling integrates30m pixel cells; it does not create1m resolution.
+B11,1991,3,150.0,1.0,1,1,1m sampling integrates30m pixel cells; it does not create1m resolution.
+B12,1986,1,180.0,1.0,1,1,1m sampling integrates30m pixel cells; it does not create1m resolution.
+B12,1986,2,120.0,1.0,1,1,1m sampling integrates30m pixel cells; it does not create1m resolution.
+B12,1986,3,84.8528137423857,0.9982683969692436,1,1,1m sampling integrates30m pixel cells; it does not create1m resolution.
+V11,1986,1,60.0,1.0,1,1,1m sampling integrates30m pixel cells; it does not create1m resolution.
+V11,1986,2,90.0,1.0,1,1,1m sampling integrates30m pixel cells; it does not create1m resolution.
+V11,1986,3,nan,1.0,1,0,1m sampling integrates30m pixel cells; it does not create1m resolution.
+V15,1991,1,510.0,1.0,2,1,1m sampling integrates30m pixel cells; it does not create1m resolution.
+V15,1991,2,300.0,1.0,3,1,1m sampling integrates30m pixel cells; it does not create1m resolution.
+V15,1991,3,nan,1.0,3,0,1m sampling integrates30m pixel cells; it does not create1m resolution.

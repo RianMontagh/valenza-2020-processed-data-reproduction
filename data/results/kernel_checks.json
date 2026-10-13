@@ -1,0 +1,422 @@
+[
+  {
+    "check": "random/annual_B",
+    "passed": true
+  },
+  {
+    "check": "random/annual_B/nodata",
+    "passed": true
+  },
+  {
+    "check": "random/annual_W",
+    "passed": true
+  },
+  {
+    "check": "random/annual_W/nodata",
+    "passed": true
+  },
+  {
+    "check": "random/avulsion_B",
+    "passed": true
+  },
+  {
+    "check": "random/avulsion_B_valid",
+    "passed": true
+  },
+  {
+    "check": "random/avulsion_B/area",
+    "passed": true
+  },
+  {
+    "check": "random/avulsion_B/area_units",
+    "passed": true
+  },
+  {
+    "check": "random/parent_B",
+    "passed": true
+  },
+  {
+    "check": "random/parent_B_valid",
+    "passed": true
+  },
+  {
+    "check": "random/parent_B/area",
+    "passed": true
+  },
+  {
+    "check": "random/parent_B/area_units",
+    "passed": true
+  },
+  {
+    "check": "random/avulsion_W",
+    "passed": true
+  },
+  {
+    "check": "random/avulsion_W_valid",
+    "passed": true
+  },
+  {
+    "check": "random/avulsion_W/area",
+    "passed": true
+  },
+  {
+    "check": "random/avulsion_W/area_units",
+    "passed": true
+  },
+  {
+    "check": "random/parent_W",
+    "passed": true
+  },
+  {
+    "check": "random/parent_W_valid",
+    "passed": true
+  },
+  {
+    "check": "random/parent_W/area",
+    "passed": true
+  },
+  {
+    "check": "random/parent_W/area_units",
+    "passed": true
+  },
+  {
+    "check": "random/reject_shifted_mask",
+    "passed": true
+  },
+  {
+    "check": "constant/annual_B",
+    "passed": true
+  },
+  {
+    "check": "constant/annual_B/nodata",
+    "passed": true
+  },
+  {
+    "check": "constant/annual_W",
+    "passed": true
+  },
+  {
+    "check": "constant/annual_W/nodata",
+    "passed": true
+  },
+  {
+    "check": "constant/avulsion_B",
+    "passed": true
+  },
+  {
+    "check": "constant/avulsion_B_valid",
+    "passed": true
+  },
+  {
+    "check": "constant/avulsion_B/area",
+    "passed": true
+  },
+  {
+    "check": "constant/avulsion_B/area_units",
+    "passed": true
+  },
+  {
+    "check": "constant/parent_B",
+    "passed": true
+  },
+  {
+    "check": "constant/parent_B_valid",
+    "passed": true
+  },
+  {
+    "check": "constant/parent_B/area",
+    "passed": true
+  },
+  {
+    "check": "constant/parent_B/area_units",
+    "passed": true
+  },
+  {
+    "check": "constant/avulsion_W",
+    "passed": true
+  },
+  {
+    "check": "constant/avulsion_W_valid",
+    "passed": true
+  },
+  {
+    "check": "constant/avulsion_W/area",
+    "passed": true
+  },
+  {
+    "check": "constant/avulsion_W/area_units",
+    "passed": true
+  },
+  {
+    "check": "constant/parent_W",
+    "passed": true
+  },
+  {
+    "check": "constant/parent_W_valid",
+    "passed": true
+  },
+  {
+    "check": "constant/parent_W/area",
+    "passed": true
+  },
+  {
+    "check": "constant/parent_W/area_units",
+    "passed": true
+  },
+  {
+    "check": "constant/reject_shifted_mask",
+    "passed": true
+  },
+  {
+    "check": "missing/annual_B",
+    "passed": true
+  },
+  {
+    "check": "missing/annual_B/nodata",
+    "passed": true
+  },
+  {
+    "check": "missing/annual_W",
+    "passed": true
+  },
+  {
+    "check": "missing/annual_W/nodata",
+    "passed": true
+  },
+  {
+    "check": "missing/avulsion_B",
+    "passed": true
+  },
+  {
+    "check": "missing/avulsion_B_valid",
+    "passed": true
+  },
+  {
+    "check": "missing/avulsion_B/area",
+    "passed": true
+  },
+  {
+    "check": "missing/avulsion_B/area_units",
+    "passed": true
+  },
+  {
+    "check": "missing/parent_B",
+    "passed": true
+  },
+  {
+    "check": "missing/parent_B_valid",
+    "passed": true
+  },
+  {
+    "check": "missing/parent_B/area",
+    "passed": true
+  },
+  {
+    "check": "missing/parent_B/area_units",
+    "passed": true
+  },
+  {
+    "check": "missing/avulsion_W",
+    "passed": true
+  },
+  {
+    "check": "missing/avulsion_W_valid",
+    "passed": true
+  },
+  {
+    "check": "missing/avulsion_W/area",
+    "passed": true
+  },
+  {
+    "check": "missing/avulsion_W/area_units",
+    "passed": true
+  },
+  {
+    "check": "missing/parent_W",
+    "passed": true
+  },
+  {
+    "check": "missing/parent_W_valid",
+    "passed": true
+  },
+  {
+    "check": "missing/parent_W/area",
+    "passed": true
+  },
+  {
+    "check": "missing/parent_W/area_units",
+    "passed": true
+  },
+  {
+    "check": "missing/reject_shifted_mask",
+    "passed": true
+  },
+  {
+    "check": "nonoverlap/annual_B",
+    "passed": true
+  },
+  {
+    "check": "nonoverlap/annual_B/nodata",
+    "passed": true
+  },
+  {
+    "check": "nonoverlap/annual_W",
+    "passed": true
+  },
+  {
+    "check": "nonoverlap/annual_W/nodata",
+    "passed": true
+  },
+  {
+    "check": "nonoverlap/avulsion_B",
+    "passed": true
+  },
+  {
+    "check": "nonoverlap/avulsion_B_valid",
+    "passed": true
+  },
+  {
+    "check": "nonoverlap/avulsion_B/area",
+    "passed": true
+  },
+  {
+    "check": "nonoverlap/avulsion_B/area_units",
+    "passed": true
+  },
+  {
+    "check": "nonoverlap/parent_B",
+    "passed": true
+  },
+  {
+    "check": "nonoverlap/parent_B_valid",
+    "passed": true
+  },
+  {
+    "check": "nonoverlap/parent_B/area",
+    "passed": true
+  },
+  {
+    "check": "nonoverlap/parent_B/area_units",
+    "passed": true
+  },
+  {
+    "check": "nonoverlap/avulsion_W",
+    "passed": true
+  },
+  {
+    "check": "nonoverlap/avulsion_W_valid",
+    "passed": true
+  },
+  {
+    "check": "nonoverlap/avulsion_W/area",
+    "passed": true
+  },
+  {
+    "check": "nonoverlap/avulsion_W/area_units",
+    "passed": true
+  },
+  {
+    "check": "nonoverlap/parent_W",
+    "passed": true
+  },
+  {
+    "check": "nonoverlap/parent_W_valid",
+    "passed": true
+  },
+  {
+    "check": "nonoverlap/parent_W/area",
+    "passed": true
+  },
+  {
+    "check": "nonoverlap/parent_W/area_units",
+    "passed": true
+  },
+  {
+    "check": "nonoverlap/reject_shifted_mask",
+    "passed": true
+  },
+  {
+    "check": "all_parent_missing/annual_B",
+    "passed": true
+  },
+  {
+    "check": "all_parent_missing/annual_B/nodata",
+    "passed": true
+  },
+  {
+    "check": "all_parent_missing/annual_W",
+    "passed": true
+  },
+  {
+    "check": "all_parent_missing/annual_W/nodata",
+    "passed": true
+  },
+  {
+    "check": "all_parent_missing/avulsion_B",
+    "passed": true
+  },
+  {
+    "check": "all_parent_missing/avulsion_B_valid",
+    "passed": true
+  },
+  {
+    "check": "all_parent_missing/avulsion_B/area",
+    "passed": true
+  },
+  {
+    "check": "all_parent_missing/avulsion_B/area_units",
+    "passed": true
+  },
+  {
+    "check": "all_parent_missing/parent_B",
+    "passed": true
+  },
+  {
+    "check": "all_parent_missing/parent_B_valid",
+    "passed": true
+  },
+  {
+    "check": "all_parent_missing/parent_B/area",
+    "passed": true
+  },
+  {
+    "check": "all_parent_missing/parent_B/area_units",
+    "passed": true
+  },
+  {
+    "check": "all_parent_missing/avulsion_W",
+    "passed": true
+  },
+  {
+    "check": "all_parent_missing/avulsion_W_valid",
+    "passed": true
+  },
+  {
+    "check": "all_parent_missing/avulsion_W/area",
+    "passed": true
+  },
+  {
+    "check": "all_parent_missing/avulsion_W/area_units",
+    "passed": true
+  },
+  {
+    "check": "all_parent_missing/parent_W",
+    "passed": true
+  },
+  {
+    "check": "all_parent_missing/parent_W_valid",
+    "passed": true
+  },
+  {
+    "check": "all_parent_missing/parent_W/area",
+    "passed": true
+  },
+  {
+    "check": "all_parent_missing/parent_W/area_units",
+    "passed": true
+  },
+  {
+    "check": "all_parent_missing/reject_shifted_mask",
+    "passed": true
+  }
+]

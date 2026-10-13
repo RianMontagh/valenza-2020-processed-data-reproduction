@@ -1,0 +1,30 @@
+[
+  {
+    "scenario": "summed_parts",
+    "minimum": 0.03879310344827586,
+    "maximum": 464.01486988847586,
+    "events_changed": 5,
+    "largest_absolute_change": 0.14869888475840298
+  },
+  {
+    "scenario": "onset28",
+    "minimum": 0.03879310344827586,
+    "maximum": 463.86617100371745,
+    "events_changed": 1,
+    "largest_absolute_change": 10.445950901350862
+  },
+  {
+    "scenario": "concurrent_parent",
+    "minimum": 0.0,
+    "maximum": 30.863889980353633,
+    "events_changed": 63,
+    "largest_absolute_change": 438.1117850388052
+  },
+  {
+    "scenario": "all_selected_parent",
+    "minimum": 0.0,
+    "maximum": 24.846674631620868,
+    "events_changed": 63,
+    "largest_absolute_change": 439.01949637209657
+  }
+]

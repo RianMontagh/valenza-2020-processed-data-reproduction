@@ -1,0 +1,50 @@
+[
+  {
+    "name": "supp1_1995",
+    "job_id": "B12_a",
+    "year": 1995,
+    "status": "saved",
+    "native_band": 23,
+    "display": "TCT B/G/W false color"
+  },
+  {
+    "name": "supp1_2011",
+    "job_id": "B12_a",
+    "year": 2011,
+    "status": "saved",
+    "native_band": 7,
+    "display": "TCT B/G/W false color"
+  },
+  {
+    "name": "supp1_2013",
+    "job_id": "B12_a",
+    "year": 2013,
+    "status": "saved",
+    "native_band": 5,
+    "display": "TCT B/G/W false color"
+  },
+  {
+    "name": "supp1_2015",
+    "job_id": "B12_a",
+    "year": 2015,
+    "status": "saved",
+    "native_band": 3,
+    "display": "TCT B/G/W false color"
+  },
+  {
+    "name": "fig5b",
+    "job_id": "V15",
+    "year": 1997,
+    "status": "saved",
+    "native_band": 15,
+    "display": "TCT B/G/W false color"
+  },
+  {
+    "name": "fig5d",
+    "job_id": "V11",
+    "year": 2017,
+    "status": "saved",
+    "native_band": 1,
+    "display": "TCT B/G/W false color"
+  }
+]

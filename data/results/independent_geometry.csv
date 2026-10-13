@@ -1,0 +1,5 @@
+site_id,width_m,distance_m,slope,morphology,width_sections_valid,width_pixel_scale_m,profile_length_m,slope_ols_attempt,slope_endpoint_attempt,note
+B11,NA,NA,NA,3,2,30.0,0,nan,nan,Four prespecified illustrative cases; coarse single-date observations; no independent mountain-front distance.
+B12,128.2842712474619,NA,NA,3,3,30.0,4690.46241917436,-0.00042183756204557376,0.00042735042735042735,Four prespecified illustrative cases; coarse single-date observations; no independent mountain-front distance.
+V11,NA,NA,0.0010475579133110233,3,2,30.0,7685.6507531009665,0.0010475579133110233,0.00078125,Four prespecified illustrative cases; coarse single-date observations; no independent mountain-front distance.
+V15,NA,NA,0.007584385246194481,1,2,30.0,7982.7405177846285,0.007584385246194481,0.007393483709273183,Four prespecified illustrative cases; coarse single-date observations; no independent mountain-front distance.

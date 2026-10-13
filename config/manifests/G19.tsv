@@ -1,0 +1,8 @@
+B	data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/geoTIFF_files/TC_G19_B.tif
+G	data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/geoTIFF_files/TC_G19_G.tif
+W	data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/geoTIFF_files/TC_G19_W.tif
+layers	config/manifests/G19_layers.csv
+avulsion_B	data/inputs/normalized_masks/G19_avulsion_B.tif
+parent_B	data/inputs/normalized_masks/G19_parent_B.tif
+avulsion_W	data/inputs/normalized_masks/G19_avulsion_W.tif
+parent_W	data/inputs/normalized_masks/G19_parent_W.tif

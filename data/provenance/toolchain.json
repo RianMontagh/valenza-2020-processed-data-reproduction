@@ -1,0 +1,13 @@
+{
+  "purpose": "Execution-host numerical toolchain, captured during the documented full rebuild.",
+  "python": "3.11.9",
+  "numpy": "2.4.6",
+  "scipy": "1.17.1",
+  "matplotlib": "3.11.2",
+  "rasterio": "1.4.4",
+  "rasterio_gdal": "3.10.3",
+  "cpp_compiler": "c++ (GCC) 8.5.0 20210514 (Red Hat 8.5.0-28)",
+  "cmake": "cmake version 3.26.5",
+  "system_gdal": "3.4.0",
+  "pdflatex": "pdfTeX 3.14159265-2.6-1.40.19 (TeX Live 2018)"
+}

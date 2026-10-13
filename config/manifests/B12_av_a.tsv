@@ -1,0 +1,8 @@
+B	data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/geoTIFF_files/TC_B12_av_a_B.tif
+G	data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/geoTIFF_files/TC_B12_av_a_G.tif
+W	data/inputs/extracted/Valenza_etal_2020_AvulsionStyle_Data/geoTIFF_files/TC_B12_av_a_W.tif
+layers	config/manifests/B12_av_a_layers.csv
+avulsion_B	data/inputs/normalized_masks/B12_av_a_avulsion_B.tif
+parent_B	NONE
+avulsion_W	data/inputs/normalized_masks/B12_av_a_avulsion_W.tif
+parent_W	NONE

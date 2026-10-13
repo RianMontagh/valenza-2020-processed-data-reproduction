@@ -1,0 +1,24 @@
+{
+  "url": "https://datacore.iu.edu/downloads/p5547s576",
+  "workbook_sha256": "03d9d6a01f932f888c84a03e0d3bf9b30c58a0b85096eb4cf9a68e810f507d19",
+  "retained_columns": {
+    "A": "part_id",
+    "B": "latitude_deg",
+    "C": "longitude_deg",
+    "G": "years_text",
+    "H": "bands_text",
+    "I": "onset_index_text"
+  },
+  "excluded_columns": [
+    "D",
+    "E",
+    "F",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O"
+  ],
+  "workbook_retained": false
+}

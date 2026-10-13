@@ -1,0 +1,680 @@
+[
+  {
+    "source_row": 2,
+    "part_id": "V1",
+    "latitude_deg": "1.1092",
+    "longitude_deg": "-76.234800000000007",
+    "years_text": "2012, 2010, 1999, 1998, 1996, 1991:1989, 1987, 1986",
+    "bands_text": "6, 8, 13, 14, 16:21",
+    "onset_index_text": "6"
+  },
+  {
+    "source_row": 3,
+    "part_id": "V4",
+    "latitude_deg": "3.504",
+    "longitude_deg": "-73.875900000000001",
+    "years_text": "2009, 2000",
+    "bands_text": "9, 12",
+    "onset_index_text": "1"
+  },
+  {
+    "source_row": 4,
+    "part_id": "V5_1",
+    "latitude_deg": "3.7425999999999999",
+    "longitude_deg": "-73.548500000000004",
+    "years_text": "1991, 1989, 1986",
+    "bands_text": "17, 19, 21",
+    "onset_index_text": "2"
+  },
+  {
+    "source_row": 5,
+    "part_id": "V5_2",
+    "latitude_deg": "3.730559",
+    "longitude_deg": "-73.494341000000006",
+    "years_text": "1998, 1997, 1991",
+    "bands_text": "14, 15, 17",
+    "onset_index_text": "2"
+  },
+  {
+    "source_row": 6,
+    "part_id": "V6",
+    "latitude_deg": "6.1933999999999996",
+    "longitude_deg": "-71.778000000000006",
+    "years_text": "2017:2011, 2001:1996",
+    "bands_text": "1:7, 11:16",
+    "onset_index_text": "7"
+  },
+  {
+    "source_row": 7,
+    "part_id": "V7",
+    "latitude_deg": "6.73",
+    "longitude_deg": "-71.256500000000003",
+    "years_text": "2012, 2010, 2008, 2001, 2000, 1999, 1998, 1997, 1996",
+    "bands_text": "6, 8:15",
+    "onset_index_text": "7"
+  },
+  {
+    "source_row": 8,
+    "part_id": "V8",
+    "latitude_deg": "6.9497600000000004",
+    "longitude_deg": "-71.983270000000005",
+    "years_text": "2015:2013, 2011, 2000, 1999:1997",
+    "bands_text": "3:5, 7, 12:15",
+    "onset_index_text": "4"
+  },
+  {
+    "source_row": 9,
+    "part_id": "V9",
+    "latitude_deg": "7.0372399999999997",
+    "longitude_deg": "-72.046329999999998",
+    "years_text": "2014, 2013, 2011, 2000:1997",
+    "bands_text": "4, 5, 7, 12:15",
+    "onset_index_text": "4"
+  },
+  {
+    "source_row": 10,
+    "part_id": "V10",
+    "latitude_deg": "7.0724999999999998",
+    "longitude_deg": "-72.008899999999997",
+    "years_text": "1997, 1991",
+    "bands_text": "15, 17",
+    "onset_index_text": "1"
+  },
+  {
+    "source_row": 11,
+    "part_id": "V11",
+    "latitude_deg": "7.1703000000000001",
+    "longitude_deg": "-71.344999999999999",
+    "years_text": "2017:2007, 2001:1997, 1991",
+    "bands_text": "1:16, 18",
+    "onset_index_text": "16"
+  },
+  {
+    "source_row": 12,
+    "part_id": "V12_1",
+    "latitude_deg": "7.4958999999999998",
+    "longitude_deg": "-72.034999999999997",
+    "years_text": "1999, 1997, 1991, 1986",
+    "bands_text": "13, 15, 17, 21",
+    "onset_index_text": "2"
+  },
+  {
+    "source_row": 13,
+    "part_id": "V12_2",
+    "latitude_deg": "7.4958999999999998",
+    "longitude_deg": "-72.034999999999997",
+    "years_text": "2011, 2000",
+    "bands_text": "7,12",
+    "onset_index_text": "1"
+  },
+  {
+    "source_row": 14,
+    "part_id": "V12_3",
+    "latitude_deg": "7.4958999999999998",
+    "longitude_deg": "-72.034999999999997",
+    "years_text": "2016:2012",
+    "bands_text": "2:6",
+    "onset_index_text": "4"
+  },
+  {
+    "source_row": 15,
+    "part_id": "V13",
+    "latitude_deg": "7.5595999999999997",
+    "longitude_deg": "-72.079899999999995",
+    "years_text": "2011, 2000, 1999",
+    "bands_text": "7, 12, 13",
+    "onset_index_text": "1"
+  },
+  {
+    "source_row": 16,
+    "part_id": "V14",
+    "latitude_deg": "8.4146000000000001",
+    "longitude_deg": "-69.983099999999993",
+    "years_text": "2017:2011, 2001:1996, 1991, 1990, 1987, 1986",
+    "bands_text": "1:6, 8, 12:19, 22",
+    "onset_index_text": "15"
+  },
+  {
+    "source_row": 17,
+    "part_id": "V15",
+    "latitude_deg": "7.23583",
+    "longitude_deg": "-71.947779999999995",
+    "years_text": "1997, 1996, 1991, 1986",
+    "bands_text": "15:17, 21",
+    "onset_index_text": "2"
+  },
+  {
+    "source_row": 18,
+    "part_id": "B1",
+    "latitude_deg": "-17.081499999999998",
+    "longitude_deg": "-62.979500000000002"
+  },
+  {
+    "source_row": 19,
+    "part_id": "B1_a",
+    "years_text": "2011:1987",
+    "bands_text": "7:29, 30:31",
+    "onset_index_text": "24"
+  },
+  {
+    "source_row": 20,
+    "part_id": "B1_b",
+    "years_text": "2017:1991, 1990:1987",
+    "bands_text": "1:26, 28:31",
+    "onset_index_text": "29"
+  },
+  {
+    "source_row": 21,
+    "part_id": "B1_c",
+    "years_text": "2017:1991, 1989:1986",
+    "bands_text": "1:27, 29:32",
+    "onset_index_text": "30"
+  },
+  {
+    "source_row": 22,
+    "part_id": "B1_d",
+    "years_text": "2017:1994, 1992:1987",
+    "bands_text": "1:24, 26:31",
+    "onset_index_text": "29"
+  },
+  {
+    "source_row": 23,
+    "part_id": "B2",
+    "latitude_deg": "-17.424099999999999",
+    "longitude_deg": "-64.135099999999994",
+    "years_text": "2008:2005, 2000, 1998, 1994, 1990:1987",
+    "bands_text": "10:13, 18, 20, 24, 28:31",
+    "onset_index_text": "7"
+  },
+  {
+    "source_row": 24,
+    "part_id": "B3",
+    "latitude_deg": "-17.371400000000001",
+    "longitude_deg": "-64.216499999999996",
+    "years_text": "2016:2004",
+    "bands_text": "2:14",
+    "onset_index_text": "7"
+  },
+  {
+    "source_row": 25,
+    "part_id": "B4",
+    "latitude_deg": "-17.216000000000001",
+    "longitude_deg": "-64.855000000000004",
+    "years_text": "1994:1992",
+    "bands_text": "24, 25, 26",
+    "onset_index_text": "2"
+  },
+  {
+    "source_row": 26,
+    "part_id": "B6",
+    "latitude_deg": "-16.972899999999999",
+    "longitude_deg": "-65.398499999999999",
+    "years_text": "2007, 2006",
+    "bands_text": "11, 12",
+    "onset_index_text": "1"
+  },
+  {
+    "source_row": 27,
+    "part_id": "B7",
+    "latitude_deg": "-16.704799999999999",
+    "longitude_deg": "-65.650000000000006",
+    "years_text": "1999:1996, 1994:1988, 1986",
+    "bands_text": "19:22, 24:30, 32",
+    "onset_index_text": "7"
+  },
+  {
+    "source_row": 28,
+    "part_id": "B8",
+    "latitude_deg": "-16.612500000000001",
+    "longitude_deg": "-65.743799999999993",
+    "years_text": "2001:1996, 1994:1990",
+    "bands_text": "17:22, 24:28",
+    "onset_index_text": "7"
+  },
+  {
+    "source_row": 29,
+    "part_id": "B9",
+    "latitude_deg": "-16.322500000000002",
+    "longitude_deg": "-65.838399999999993"
+  },
+  {
+    "source_row": 30,
+    "part_id": "B9_a",
+    "years_text": "2002:1997",
+    "bands_text": "16:21",
+    "onset_index_text": "3"
+  },
+  {
+    "source_row": 31,
+    "part_id": "B9_b",
+    "years_text": "2017:2006, 2004, 2002:2000, 1998, 1996, 1994:1992, 1990:1988, 1986",
+    "bands_text": "1:12, 14, 16:18, 20, 22, 24:26, 28:30, 32",
+    "onset_index_text": "16"
+  },
+  {
+    "source_row": 32,
+    "part_id": "B9_c",
+    "years_text": "2017:2013, 2011:2006, 2004, 2001:1998, 1996, 1994:1992, 1990:1986",
+    "bands_text": "1:5, 7:12, 14, 17:20, 22, 24:26, 28:32",
+    "onset_index_text": "24"
+  },
+  {
+    "source_row": 33,
+    "part_id": "B10",
+    "latitude_deg": "-16.2728",
+    "longitude_deg": "-65.203800000000001"
+  },
+  {
+    "source_row": 34,
+    "part_id": "B10",
+    "years_text": "2017:1986",
+    "bands_text": "1:32",
+    "onset_index_text": "31"
+  },
+  {
+    "source_row": 35,
+    "part_id": "B10_av_b",
+    "years_text": "2017:2011",
+    "bands_text": "1:7",
+    "onset_index_text": "6"
+  },
+  {
+    "source_row": 36,
+    "part_id": "B10_av_c",
+    "years_text": "2017:2011",
+    "bands_text": "1:7",
+    "onset_index_text": "6"
+  },
+  {
+    "source_row": 37,
+    "part_id": "B10_p_a",
+    "years_text": "1987, 1986",
+    "bands_text": "31, 32",
+    "onset_index_text": "1"
+  },
+  {
+    "source_row": 38,
+    "part_id": "B10_p_b",
+    "years_text": "1987, 1986",
+    "bands_text": "31, 32",
+    "onset_index_text": "1"
+  },
+  {
+    "source_row": 39,
+    "part_id": "B11",
+    "latitude_deg": "-16.066199999999998",
+    "longitude_deg": "-66.157200000000003",
+    "years_text": "2015:1988, 1986",
+    "bands_text": "3:30, 32",
+    "onset_index_text": "24"
+  },
+  {
+    "source_row": 40,
+    "part_id": "B12",
+    "latitude_deg": "-15.879",
+    "longitude_deg": "-65.858999999999995"
+  },
+  {
+    "source_row": 41,
+    "part_id": "B12_a",
+    "years_text": "2017:1986",
+    "bands_text": "1:32",
+    "onset_index_text": "31"
+  },
+  {
+    "source_row": 42,
+    "part_id": "B12_av_a",
+    "years_text": "2017:2002",
+    "bands_text": "1:16",
+    "onset_index_text": "15"
+  },
+  {
+    "source_row": 43,
+    "part_id": "B12_b",
+    "years_text": "2017:1986",
+    "bands_text": "1:32",
+    "onset_index_text": "28"
+  },
+  {
+    "source_row": 44,
+    "part_id": "B12_p_a",
+    "years_text": "1988:1986",
+    "bands_text": "30:32",
+    "onset_index_text": "2"
+  },
+  {
+    "source_row": 45,
+    "part_id": "B13",
+    "latitude_deg": "-15.8668",
+    "longitude_deg": "-66.361400000000003",
+    "years_text": "2002:1997, 1995, 1992, 1989, 1988, 1986",
+    "bands_text": "16:21, 23, 26, 29, 30, 32",
+    "onset_index_text": "8"
+  },
+  {
+    "source_row": 46,
+    "part_id": "B14",
+    "latitude_deg": "-14.677",
+    "longitude_deg": "-66.530799999999999"
+  },
+  {
+    "source_row": 47,
+    "part_id": "B14_a",
+    "years_text": "2017:1986",
+    "bands_text": "1:32",
+    "onset_index_text": "28"
+  },
+  {
+    "source_row": 48,
+    "part_id": "B14_b",
+    "years_text": "2017:1986",
+    "bands_text": "1:32",
+    "onset_index_text": "31, 28*"
+  },
+  {
+    "source_row": 49,
+    "part_id": "B15",
+    "latitude_deg": "-23.076899999999998",
+    "longitude_deg": "-64.318700000000007",
+    "years_text": "2002, 1991, 1990",
+    "bands_text": "16, 27, 28",
+    "onset_index_text": "1"
+  },
+  {
+    "source_row": 50,
+    "part_id": "H1",
+    "latitude_deg": "27.419699999999999",
+    "longitude_deg": "94.241299999999995",
+    "years_text": "2002:1999, 1996, 1994, 1991:1986",
+    "bands_text": "16:19, 22, 24, 27:32",
+    "onset_index_text": "7"
+  },
+  {
+    "source_row": 51,
+    "part_id": "H2",
+    "latitude_deg": "27.678599999999999",
+    "longitude_deg": "94.857500000000002",
+    "years_text": "1992:1987",
+    "bands_text": "25:32",
+    "onset_index_text": "5"
+  },
+  {
+    "source_row": 52,
+    "part_id": "H3",
+    "latitude_deg": "26.913799999999998",
+    "longitude_deg": "86.046000000000006",
+    "years_text": "2016, 2015, 2013, 2007, 2004, 1988",
+    "bands_text": "2, 3, 5, 11, 14, 29",
+    "onset_index_text": "5"
+  },
+  {
+    "source_row": 53,
+    "part_id": "H4",
+    "latitude_deg": "29.380488",
+    "longitude_deg": "78.890506000000002",
+    "years_text": "2013, 2011, 2010, 2009, 2008, 2004, 2003, 2002, 2001, 2000",
+    "bands_text": "5, 7, 8, 9, 10, 14, 15, 16, 17, 18",
+    "onset_index_text": "5"
+  },
+  {
+    "source_row": 54,
+    "part_id": "H5",
+    "latitude_deg": "26.7836",
+    "longitude_deg": "90.956599999999995",
+    "years_text": "2008:2004, 2001:1998, 1995:1993, 1991, 1990",
+    "bands_text": "10:14, 16:19, 22:24, 26, 27",
+    "onset_index_text": "7"
+  },
+  {
+    "source_row": 55,
+    "part_id": "H6",
+    "latitude_deg": "27.496200000000002",
+    "longitude_deg": "96.218500000000006",
+    "years_text": "1992:1988",
+    "bands_text": "26:30",
+    "onset_index_text": "3"
+  },
+  {
+    "source_row": 56,
+    "part_id": "G1",
+    "latitude_deg": "-5.726",
+    "longitude_deg": "145.52699999999999",
+    "years_text": "2016:2004",
+    "bands_text": "2:14",
+    "onset_index_text": "11"
+  },
+  {
+    "source_row": 57,
+    "part_id": "G2",
+    "latitude_deg": "-5.1577999999999999",
+    "longitude_deg": "144.78870000000001",
+    "years_text": "2014:2008, 2006:2004",
+    "bands_text": "4:10, 12:14",
+    "onset_index_text": "8"
+  },
+  {
+    "source_row": 58,
+    "part_id": "G3",
+    "latitude_deg": "-9.6481999999999992",
+    "longitude_deg": "148.73159999999999",
+    "years_text": "2004, 2003, 1999:1992",
+    "bands_text": "14:23",
+    "onset_index_text": "7"
+  },
+  {
+    "source_row": 59,
+    "part_id": "G4",
+    "latitude_deg": "-9.6205999999999996",
+    "longitude_deg": "148.65",
+    "years_text": "2007:2003, 1999:19991",
+    "bands_text": "11:24",
+    "onset_index_text": "7"
+  },
+  {
+    "source_row": 60,
+    "part_id": "G5",
+    "latitude_deg": "-4.1512000000000002",
+    "longitude_deg": "135.244",
+    "years_text": "2005, 2000, 1997, 1994:1992",
+    "bands_text": "13, 16, 19, 22:24",
+    "onset_index_text": "3"
+  },
+  {
+    "source_row": 61,
+    "part_id": "G6",
+    "latitude_deg": "-3.9693000000000001",
+    "longitude_deg": "135.21809999999999",
+    "years_text": "2008:2004, 2000:1998",
+    "bands_text": "10:14, 17:19",
+    "onset_index_text": "4"
+  },
+  {
+    "source_row": 62,
+    "part_id": "G7",
+    "latitude_deg": "-4.0072999999999999",
+    "longitude_deg": "135.25139999999999",
+    "years_text": "2014, 2013, 2006, 2004",
+    "bands_text": "4, 5, 12, 14",
+    "onset_index_text": "2"
+  },
+  {
+    "source_row": 63,
+    "part_id": "G8",
+    "latitude_deg": "-3.9685999999999999",
+    "longitude_deg": "135.07490000000001",
+    "years_text": "2017, 2016, 2014, 2013, 2011:2009, 2007:2003, 1999, 1998, 1995:1992, 1989, 1988",
+    "bands_text": "1, 2, 4, 5, 7, 8, 9, 11:15, 17, 18, 21:24, 27, 28",
+    "onset_index_text": "19"
+  },
+  {
+    "source_row": 64,
+    "part_id": "G9",
+    "latitude_deg": "-3.0491000000000001",
+    "longitude_deg": "136.37110000000001",
+    "years_text": "2013, 2009:2006, 2004, 1999",
+    "bands_text": "5, 8:11, 13, 16",
+    "onset_index_text": "6"
+  },
+  {
+    "source_row": 65,
+    "part_id": "G10",
+    "latitude_deg": "-3.3534999999999999",
+    "longitude_deg": "138.7594",
+    "years_text": "2017, 2015, 1991",
+    "bands_text": "1, 3, 18",
+    "onset_index_text": "2"
+  },
+  {
+    "source_row": 66,
+    "part_id": "G11",
+    "latitude_deg": "-6.5762",
+    "longitude_deg": "146.69909999999999",
+    "years_text": "2008:2004, 1999",
+    "bands_text": "10:14, 16",
+    "onset_index_text": "5"
+  },
+  {
+    "source_row": 67,
+    "part_id": "G12",
+    "latitude_deg": "-6.6623999999999999",
+    "longitude_deg": "147.05690000000001",
+    "years_text": "2017:2012, 2010:2008, 2004, 1999:1994",
+    "bands_text": "1:6, 8:10, 14, 16:21",
+    "onset_index_text": "9"
+  },
+  {
+    "source_row": 68,
+    "part_id": "G13",
+    "latitude_deg": "-6.6952999999999996",
+    "longitude_deg": "147.21109999999999",
+    "years_text": "2012, 2010:2004, 1998",
+    "bands_text": "6, 8:14, 17",
+    "onset_index_text": "5"
+  },
+  {
+    "source_row": 69,
+    "part_id": "G14",
+    "latitude_deg": "-6.6931000000000003",
+    "longitude_deg": "147.33000000000001",
+    "years_text": "2017:2013, 2010, 2008, 2004, 1999:1990, 1987",
+    "bands_text": "1:5, 8, 10, 14, 16:25, 28",
+    "onset_index_text": "11"
+  },
+  {
+    "source_row": 70,
+    "part_id": "G15",
+    "latitude_deg": "-7.5773999999999999",
+    "longitude_deg": "147.23589999999999",
+    "years_text": "2003, 1999, 19998, 1996:1993, 1990, 1988",
+    "bands_text": "15:17, 19:22, 25, 27",
+    "onset_index_text": "8"
+  },
+  {
+    "source_row": 71,
+    "part_id": "G16",
+    "latitude_deg": "-7.6710000000000003",
+    "longitude_deg": "147.4265",
+    "years_text": "1995:1991",
+    "bands_text": "20:24",
+    "onset_index_text": "3"
+  },
+  {
+    "source_row": 72,
+    "part_id": "G17",
+    "latitude_deg": "-9.0790000000000006",
+    "longitude_deg": "149.04069999999999",
+    "years_text": "2017:2012, 2010",
+    "bands_text": "1:6, 8",
+    "onset_index_text": "5"
+  },
+  {
+    "source_row": 73,
+    "part_id": "G18",
+    "latitude_deg": "-9.6293000000000006",
+    "longitude_deg": "149.3082",
+    "years_text": "1998, 1996:1994, 1990, 1989",
+    "bands_text": "17, 19:21, 25, 26",
+    "onset_index_text": "3"
+  },
+  {
+    "source_row": 74,
+    "part_id": "G19",
+    "latitude_deg": "-4.9711999999999996",
+    "longitude_deg": "139.9119",
+    "years_text": "2017:2013, 2000, 1998, 1996, 1994, 1991",
+    "bands_text": "1:5, 13, 15, 17, 19, 22",
+    "onset_index_text": "7"
+  },
+  {
+    "source_row": 75,
+    "part_id": "G20",
+    "latitude_deg": "-5.0624000000000002",
+    "longitude_deg": "139.72730000000001",
+    "years_text": "2015, 2013, 2008, 1996, 1993, 1991, 1987",
+    "bands_text": "3, 4, 9, 17, 20, 22, 26",
+    "onset_index_text": "4"
+  },
+  {
+    "source_row": 76,
+    "part_id": "G21",
+    "latitude_deg": "-4.7230999999999996",
+    "longitude_deg": "139.30090000000001",
+    "years_text": "1996, 1995, 1993, 1991",
+    "bands_text": "16, 17, 19, 21",
+    "onset_index_text": "2"
+  },
+  {
+    "source_row": 77,
+    "part_id": "G22",
+    "latitude_deg": "-4.6870000000000003",
+    "longitude_deg": "138.78890000000001",
+    "years_text": "2008, 1998:1994, 1992",
+    "bands_text": "9, 14:18, 20",
+    "onset_index_text": "5"
+  },
+  {
+    "source_row": 78,
+    "part_id": "G23",
+    "latitude_deg": "-4.3662999999999998",
+    "longitude_deg": "136.8475",
+    "years_text": "2007:2004, 2000:1998",
+    "bands_text": "11:14, 16:18",
+    "onset_index_text": "4"
+  },
+  {
+    "source_row": 79,
+    "part_id": "G24",
+    "latitude_deg": "-4.3487999999999998",
+    "longitude_deg": "136.7978",
+    "years_text": "2014:2012, 2009:2007",
+    "bands_text": "4:6, 9:11",
+    "onset_index_text": "4"
+  },
+  {
+    "source_row": 80,
+    "part_id": "G25_1",
+    "latitude_deg": "-0.76725900000000002",
+    "longitude_deg": "133.62207100000001",
+    "years_text": "2000:1997",
+    "bands_text": "12:15",
+    "onset_index_text": "2"
+  },
+  {
+    "source_row": 81,
+    "part_id": "G25_2",
+    "latitude_deg": "-0.80549999999999999",
+    "longitude_deg": "133.62",
+    "years_text": "2007, 2006, 2000, 1999",
+    "bands_text": "9, 10, 12, 13",
+    "onset_index_text": "3"
+  },
+  {
+    "source_row": 82,
+    "part_id": "G26",
+    "latitude_deg": "-3.3172000000000001",
+    "longitude_deg": "128.6831",
+    "years_text": "2007, 2006, 2000:1993",
+    "bands_text": "10, 11, 14:21",
+    "onset_index_text": "5"
+  }
+]

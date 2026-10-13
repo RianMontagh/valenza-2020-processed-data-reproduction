@@ -1,0 +1,231 @@
+
+COMMAND: cmake -S . -B build
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/build
+
+COMMAND: cmake --build build -j 2
+[100%] Built target fingerprint
+
+COMMAND: ctest --test-dir build --output-on-failure
+Internal ctest changing into directory: /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/build
+Test project /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/build
+    Start 1: analytical_limits
+1/1 Test #1: analytical_limits ................   Passed    0.02 sec
+
+100% tests passed, 0 tests failed out of 1
+
+Total Test time (real) =   0.02 sec
+
+COMMAND: /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python tests/check_kernel.py
+Passed 105 independent raster-integration checks.
+
+COMMAND: /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python tests/check_summaries.py
+Passed 11 analytical summary checks.
+
+COMMAND: /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python tests/check_mosaic.py
+Passed 8 exact mosaic checks.
+
+COMMAND: /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python scripts/verify_inputs.py
+Verified 377 frozen inputs.
+
+COMMAND: /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python scripts/terrain.py
+andes_north 20 independent tiles
+andes_central 20 independent tiles
+himalaya 27 independent tiles
+new_guinea 45 independent tiles
+
+COMMAND: /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python scripts/inventory.py
+Inspected 373 allowed data files.
+
+COMMAND: /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python scripts/audit_metadata.py
+Audited 76 image-part records; 6 require notes.
+
+COMMAND: /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python scripts/bind_data.py
+Bound 77 jobs; 11 unbound image/mask files.
+
+COMMAND: /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python scripts/prepare.py
+Prepared 77 explicit jobs and 296 binary masks.
+
+COMMAND: /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python scripts/run_analysis.py
+V1 completed
+V5_1 completed
+V5_2 completed
+V8 completed
+V4 completed
+V6 completed
+V10 completed
+V9 completed
+V12_1 completed
+V12_2 completed
+V13 completed
+V12_3 completed
+V7 completed
+V11 completed
+V15 completed
+V14 completed
+B1_a completed
+B2 completed
+B3 completed
+B1_b completed
+B4 completed
+B7 completed
+B8 completed
+B9_a completed
+B6 completed
+B9_c completed
+B9_b completed
+B10_av_b completed
+B1_c completed
+B10_av_c completed
+B10_p_a completed
+B1_d completed
+B11 completed
+B10_p_b completed
+B12_a completed
+B12_p_a completed
+B13 completed
+B10 completed
+B12_av_a completed
+B12_b completed
+B15 completed
+B14_a completed
+H2 completed
+H3 completed
+H4 completed
+B14_b completed
+B14_b_onset28 completed
+H6 completed
+H1 completed
+G2 completed
+G3 completed
+G4 completed
+G6 completed
+H5 completed
+G7 completed
+G8 completed
+G10 completed
+G9 completed
+G11 completed
+G12 completed
+G13 completed
+G15 completed
+G5 completed
+G16 completed
+G14 completed
+G17 completed
+G18 completed
+G19 completed
+G20 completed
+G22 completed
+G21 completed
+G25_1 completed
+G23 completed
+G26 completed
+G25_2 completed
+G24 completed
+G1 completed
+
+COMMAND: /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python scripts/geometry.py
+Measured four illustrative image examples; unresolved geometry remains missing.
+
+COMMAND: /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python scripts/aggregate.py
+Aggregated 63 events, with explicit temporal and overlap sensitivities.
+
+COMMAND: /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python scripts/temporal_sensitivity.py
+Calculated concurrent_parent
+Calculated all_selected_parent
+
+COMMAND: /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python scripts/check_results.py
+Checked V1
+Checked V4
+Checked V5_1
+Checked V5_2
+Checked V6
+Checked V7
+Checked V8
+Checked V9
+Checked V10
+Checked V11
+Checked V12_1
+Checked V12_2
+Checked V12_3
+Checked V13
+Checked V14
+Checked V15
+Checked B1_a
+Checked B1_b
+Checked B1_c
+Checked B1_d
+Checked B2
+Checked B3
+Checked B4
+Checked B6
+Checked B7
+Checked B8
+Checked B9_a
+Checked B9_b
+Checked B9_c
+Checked B10
+Checked B10_av_b
+Checked B10_av_c
+Checked B10_p_a
+Checked B10_p_b
+Checked B11
+Checked B12_a
+Checked B12_av_a
+Checked B12_b
+Checked B12_p_a
+Checked B13
+Checked B14_a
+Checked B14_b
+Checked B14_b_onset28
+Checked B15
+Checked H1
+Checked H2
+Checked H3
+Checked H4
+Checked H5
+Checked H6
+Checked G1
+Checked G2
+Checked G3
+Checked G4
+Checked G5
+Checked G6
+Checked G7
+Checked G8
+Checked G9
+Checked G10
+Checked G11
+Checked G12
+Checked G13
+Checked G14
+Checked G15
+Checked G16
+Checked G17
+Checked G18
+Checked G19
+Checked G20
+Checked G21
+Checked G22
+Checked G23
+Checked G24
+Checked G25_1
+Checked G25_2
+Checked G26
+Passed 6974 real-data checks.
+
+COMMAND: /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python scripts/context_views.py
+Saved 6 TCT context views.
+
+COMMAND: /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python scripts/plot.py
+
+COMMAND: /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python scripts/report_data.py
+Prepared numerical report, sensitivity comparison and 32 panel assessments.
+
+COMMAND: /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python scripts/compile_report.py
+Compiled report/report.pdf
+
+COMMAND: /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_processed/.runtime/py311/bin/python scripts/manifest.py
+Hashed 1879 artifacts.
